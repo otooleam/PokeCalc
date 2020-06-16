@@ -1,0 +1,1562 @@
+{
+	"001-002":{
+		"start_pokemon": "001",
+		"end_pokemon": "002",
+		"method": "25 Candy"
+	},
+	"002-003":{
+		"start_pokemon": "002",
+		"end_pokemon": "003",
+		"method": "100 Candy"
+	},
+	"004-005":{
+		"start_pokemon": "004",
+		"end_pokemon": "005",
+		"method": "25 Candy"
+	},
+	"005-006":{
+		"start_pokemon": "005",
+		"end_pokemon": "006",
+		"method": "100 Candy"
+	},
+	"007-008":{
+		"start_pokemon": "007",
+		"end_pokemon": "008",
+		"method": "25 Candy"
+	},
+	"008-009":{
+		"start_pokemon": "008",
+		"end_pokemon": "009",
+		"method": "100 Candy"
+	},
+	"010-011":{
+		"start_pokemon": "010",
+		"end_pokemon": "011",
+		"method": "12 Candy"
+	},
+	"011-012":{
+		"start_pokemon": "011",
+		"end_pokemon": "012",
+		"method": "50 Candy"
+	},
+	"013-014":{
+		"start_pokemon": "013",
+		"end_pokemon": "014",
+		"method": "12 Candy"
+	},
+	"014-015":{
+		"start_pokemon": "014",
+		"end_pokemon": "015",
+		"method": "50 Candy"
+	},
+	"016-017":{
+		"start_pokemon": "016",
+		"end_pokemon": "017",
+		"method": "12 Candy"
+	},
+	"017-018":{
+		"start_pokemon": "017",
+		"end_pokemon": "018",
+		"method": "50 Candy"
+	},
+	"019-020":{
+		"start_pokemon": "019",
+		"end_pokemon": "020",
+		"method": "25 Candy"
+	},
+	"019A-020A":{
+		"start_pokemon": "019A",
+		"end_pokemon": "020A",
+		"method": "25 Candy"
+	},
+	"021-022":{
+		"start_pokemon": "021",
+		"end_pokemon": "022",
+		"method": "50 Candy"
+	},
+	"023-024":{
+		"start_pokemon": "023",
+		"end_pokemon": "024",
+		"method": "50 Candy"
+	},
+	"172-025":{
+		"start_pokemon": "172",
+		"end_pokemon": "025",
+		"method": "25 Candy"
+	},
+	"025-026":{
+		"start_pokemon": "025",
+		"end_pokemon": "026",
+		"method": "50 Candy"
+	},
+	"027-028":{
+		"start_pokemon": "027",
+		"end_pokemon": "028",
+		"method": "50 Candy"
+	},
+	"027A-028A":{
+		"start_pokemon": "027A",
+		"end_pokemon": "028A",
+		"method": "50 Candy"
+	},
+	"029-030":{
+		"start_pokemon": "029",
+		"end_pokemon": "030",
+		"method": "25 Candy"
+	},
+	"030-031":{
+		"start_pokemon": "030",
+		"end_pokemon": "031",
+		"method": "100 Candy"
+	},
+	"032-033":{
+		"start_pokemon": "032",
+		"end_pokemon": "033",
+		"method": "25 Candy"
+	},
+	"033-034":{
+		"start_pokemon": "033",
+		"end_pokemon": "034",
+		"method": "25 Candy"
+	},
+	"173-035":{
+		"start_pokemon": "173",
+		"end_pokemon": "035",
+		"method": "25 Candy"
+	},
+	"035-036":{
+		"start_pokemon": "035",
+		"end_pokemon": "036",
+		"method": "50 Candy"
+	},
+	"037-038":{
+		"start_pokemon": "037",
+		"end_pokemon": "038",
+		"method": "50 Candy"
+	},
+	"037A-038A":{
+		"start_pokemon": "037A",
+		"end_pokemon": "038A",
+		"method": "50 Candy"
+	},
+	"174-039":{
+		"start_pokemon": "174",
+		"end_pokemon": "039",
+		"method": "25 Candy"
+	},
+	"039-040":{
+		"start_pokemon": "039",
+		"end_pokemon": "040",
+		"method": "50 Candy"
+	},
+	"041-042":{
+		"start_pokemon": "041",
+		"end_pokemon": "042",
+		"method": "25 Candy"
+	},
+	"042-169":{
+		"start_pokemon": "042",
+		"end_pokemon": "169",
+		"method": "100 Candy"
+	},
+	"043-044":{
+		"start_pokemon": "043",
+		"end_pokemon": "044",
+		"method": "25 Candy"
+	},
+	"044-045":{
+		"start_pokemon": "044",
+		"end_pokemon": "045",
+		"method": "100 Candy"
+	},
+	"044-182":{
+		"start_pokemon": "044",
+		"end_pokemon": "182",
+		"method": "100 Candy and Sun Stone"
+	},
+	"046-047":{
+		"start_pokemon": "046",
+		"end_pokemon": "047",
+		"method": "50 Candy"
+	},
+	"048-049":{
+		"start_pokemon": "048",
+		"end_pokemon": "049",
+		"method": "50 Candy"
+	},
+	"050-051":{
+		"start_pokemon": "050",
+		"end_pokemon": "051",
+		"method": "50 Candy"
+	},
+	"050A-051A":{
+		"start_pokemon": "050A",
+		"end_pokemon": "051A",
+		"method": "50 Candy"
+	},
+	"052-053":{
+		"start_pokemon": "052",
+		"end_pokemon": "053",
+		"method": "50 Candy"
+	},
+	"052A-053A":{
+		"start_pokemon": "052A",
+		"end_pokemon": "053A",
+		"method": "50 Candy"
+	},
+	"054-055":{
+		"start_pokemon": "054",
+		"end_pokemon": "055",
+		"method": "50 Candy"
+	},
+	"056-057":{
+		"start_pokemon": "056",
+		"end_pokemon": "057",
+		"method": "50 Candy"
+	},
+	"058-059":{
+		"start_pokemon": "058",
+		"end_pokemon": "059",
+		"method": "50 Candy"
+	},
+	"060-061":{
+		"start_pokemon": "060",
+		"end_pokemon": "061",
+		"method": "25 Candy"
+	},
+	"061-062":{
+		"start_pokemon": "061",
+		"end_pokemon": "062",
+		"method": "100 Candy"
+	},
+	"061-186":{
+		"start_pokemon": "061",
+		"end_pokemon": "186",
+		"method": "100 Candy and Kings Rock"
+	},
+	"063-064":{
+		"start_pokemon": "063",
+		"end_pokemon": "064",
+		"method": "25 Candy"
+	},
+	"064-065":{
+		"start_pokemon": "064",
+		"end_pokemon": "065",
+		"method": "100 Candy or Trade"
+	},
+	"066-067":{
+		"start_pokemon": "066",
+		"end_pokemon": "067",
+		"method": "25 Candy"
+	},
+	"067-068":{
+		"start_pokemon": "067",
+		"end_pokemon": "068",
+		"method": "100 Candy or Trade"
+	},
+	"069-070":{
+		"start_pokemon": "069",
+		"end_pokemon": "070",
+		"method": "25 Candy"
+	},
+	"070-071":{
+		"start_pokemon": "070",
+		"end_pokemon": "071",
+		"method": "100 Candy"
+	},
+	"072-073":{
+		"start_pokemon": "072",
+		"end_pokemon": "073",
+		"method": "50 Candy"
+	},
+	"074-075":{
+		"start_pokemon": "074",
+		"end_pokemon": "075",
+		"method": "25 Candy"
+	},
+	"075-076":{
+		"start_pokemon": "075",
+		"end_pokemon": "076",
+		"method": "100 Candy or Trade"
+	},
+	"074A-075A":{
+		"start_pokemon": "074A",
+		"end_pokemon": "075A",
+		"method": "25 Candy"
+	},
+	"075A-076A":{
+		"start_pokemon": "075A",
+		"end_pokemon": "076A",
+		"method": "100 Candy or Trade"
+	},
+	"077-078":{
+		"start_pokemon": "077",
+		"end_pokemon": "078",
+		"method": "50 Candy"
+	},
+	"079-080":{
+		"start_pokemon": "079",
+		"end_pokemon": "080",
+		"method": "50 Candy"
+	},
+	"079-199":{
+		"start_pokemon": "079",
+		"end_pokemon": "199",
+		"method": "50 Candy and Kings Rock"
+	},
+	"081-082":{
+		"start_pokemon": "081",
+		"end_pokemon": "082",
+		"method": "25 Candy"
+	},
+	"082-462":{
+		"start_pokemon": "082",
+		"end_pokemon": "462",
+		"method": "100 Candy and Metal Lure"
+	},
+	"084-085":{
+		"start_pokemon": "084",
+		"end_pokemon": "085",
+		"method": "50 Candy"
+	},
+	"086-087":{
+		"start_pokemon": "086",
+		"end_pokemon": "087",
+		"method": "50 Candy"
+	},
+	"088-089":{
+		"start_pokemon": "088",
+		"end_pokemon": "089",
+		"method": "50 Candy"
+	},
+	"088A-089A":{
+		"start_pokemon": "088A",
+		"end_pokemon": "089A",
+		"method": "50 Candy"
+	},
+	"090-091":{
+		"start_pokemon": "090",
+		"end_pokemon": "091",
+		"method": "50 Candy"
+	},
+	"092-093":{
+		"start_pokemon": "092",
+		"end_pokemon": "093",
+		"method": "25 Candy"
+	},
+	"093-094":{
+		"start_pokemon": "093",
+		"end_pokemon": "094",
+		"method": "100 Candy or Trade"
+	},
+	"095-208":{
+		"start_pokemon": "095",
+		"end_pokemon": "208",
+		"method": "50 Candy and Metal Coat"
+	},
+	"096-097":{
+		"start_pokemon": "096",
+		"end_pokemon": "097",
+		"method": "50 Candy"
+	},
+	"098-099":{
+		"start_pokemon": "098",
+		"end_pokemon": "099",
+		"method": "50 Candy"
+	},
+	"100-101":{
+		"start_pokemon": "100",
+		"end_pokemon": "101",
+		"method": "50 Candy"
+	},
+	"102-103":{
+		"start_pokemon": "102",
+		"end_pokemon": "103",
+		"method": "50 Candy"
+	},
+	"104-105":{
+		"start_pokemon": "104",
+		"end_pokemon": "105",
+		"method": "50 Candy"
+	},
+	"236-106":{
+		"start_pokemon": "236",
+		"end_pokemon": "106",
+		"method": "25 Candy and Attack is Highest"
+	},
+	"236-107":{
+		"start_pokemon": "236",
+		"end_pokemon": "107",
+		"method": "25 Candy and Defense is Highest"
+	},
+	"236-237":{
+		"start_pokemon": "236",
+		"end_pokemon": "237",
+		"method": "25 Candy and Stamina is Highest"
+	},
+	"109-110":{
+		"start_pokemon": "109",
+		"end_pokemon": "110",
+		"method": "50 Candy"
+	},
+	"111-112":{
+		"start_pokemon": "111",
+		"end_pokemon": "112",
+		"method": "25 Candy"
+	},
+	"112-464":{
+		"start_pokemon": "112",
+		"end_pokemon": "464",
+		"method": "100 Candy and Sinnoh Stone"
+	},
+	"440-113":{
+		"start_pokemon": "440",
+		"end_pokemon": "113",
+		"method": "25 Candy and Walk 15km"
+	},
+	"113-242":{
+		"start_pokemon": "113",
+		"end_pokemon": "242",
+		"method": "50 Candy"
+	},
+	"114-465":{
+		"start_pokemon": "114",
+		"end_pokemon": "465",
+		"method": "100 Candy and Sinnoh Stone"
+	},
+	"116-117":{
+		"start_pokemon": "116",
+		"end_pokemon": "117",
+		"method": "25 Candy"
+	},
+	"117-230":{
+		"start_pokemon": "117",
+		"end_pokemon": "230",
+		"method": "100 Candy and Dragon Scale"
+	},
+	"118-119":{
+		"start_pokemon": "118",
+		"end_pokemon": "119",
+		"method": "50 Candy"
+	},
+	"120-121":{
+		"start_pokemon": "120",
+		"end_pokemon": "121",
+		"method": "50 Candy"
+	},
+	"439-122":{
+		"start_pokemon": "439",
+		"end_pokemon": "122",
+		"method": "50 Candy and Walk 15km"
+	},
+	"123-212":{
+		"start_pokemon": "123",
+		"end_pokemon": "212",
+		"method": "50 Candy and Metal Coat"
+	},
+	"238-124":{
+		"start_pokemon": "238",
+		"end_pokemon": "124",
+		"method": "25 Candy"
+	},
+	"239-125":{
+		"start_pokemon": "239",
+		"end_pokemon": "125",
+		"method": "25 Candy"
+	},
+	"125-466":{
+		"start_pokemon": "125",
+		"end_pokemon": "466",
+		"method": "100 Candy and Sinnoh Stone"
+	},
+	"240-126":{
+		"start_pokemon": "240",
+		"end_pokemon": "126",
+		"method": "25 Candy"
+	},
+	"126-467":{
+		"start_pokemon": "126",
+		"end_pokemon": "467",
+		"method": "100 Candy and Sinnoh Stone"
+	},
+	"129-130":{
+		"start_pokemon": "129",
+		"end_pokemon": "130",
+		"method": "400 Candy"
+	},
+	"133-134":{
+		"start_pokemon": "133",
+		"end_pokemon": "134",
+		"method": "25 Candy and Random or Rainer"
+	},
+	"133-135":{
+		"start_pokemon": "133",
+		"end_pokemon": "135",
+		"method": "25 Candy and Random or Sparky"
+	},
+	"133-136":{
+		"start_pokemon": "133",
+		"end_pokemon": "136",
+		"method": "25 Candy and Random or Pyro"
+	},
+	"133-196":{
+		"start_pokemon": "133",
+		"end_pokemon": "196",
+		"method": "25 Candy and Walk 10km and Daytime or Sakura"
+	},
+	"133-197":{
+		"start_pokemon": "133",
+		"end_pokemon": "197",
+		"method": "25 Candy and Walk 10km and Nightime or Tamao"
+	},
+	"133-470":{
+		"start_pokemon": "133",
+		"end_pokemon": "470",
+		"method": "25 Candy and Mossy Lure or Linnea"
+	},
+	"133-471":{
+		"start_pokemon": "133",
+		"end_pokemon": "471",
+		"method": "25 Candy and Glacial Lure or Rea"
+	},
+	"137-233":{
+		"start_pokemon": "137",
+		"end_pokemon": "233",
+		"method": "25 Candy and Upgrade"
+	},
+	"233-474":{
+		"start_pokemon": "233",
+		"end_pokemon": "474",
+		"method": "100 Candy and Sinnoh Stone"
+	},
+	"138-139":{
+		"start_pokemon": "138",
+		"end_pokemon": "139",
+		"method": "50 Candy"
+	},
+	"140-141":{
+		"start_pokemon": "140",
+		"end_pokemon": "141",
+		"method": "50 Candy"
+	},
+	"446-143":{
+		"start_pokemon": "446",
+		"end_pokemon": "143",
+		"method": "50 Candy"
+	},
+	"147-148":{
+		"start_pokemon": "147",
+		"end_pokemon": "148",
+		"method": "25 Candy"
+	},
+	"148-149":{
+		"start_pokemon": "148",
+		"end_pokemon": "149",
+		"method": "100 Candy"
+	},
+	"808-809":{
+		"start_pokemon": "808",
+		"end_pokemon": "809",
+		"method": "400 Candy"
+	},
+	"152-153":{
+		"start_pokemon": "152",
+		"end_pokemon": "153",
+		"method": "25 Candy"
+	},
+	"153-154":{
+		"start_pokemon": "153",
+		"end_pokemon": "154",
+		"method": "100 Candy"
+	},
+	"155-156":{
+		"start_pokemon": "155",
+		"end_pokemon": "156",
+		"method": "25 Candy"
+	},
+	"156-157":{
+		"start_pokemon": "156",
+		"end_pokemon": "157",
+		"method": "100 Candy"
+	},
+	"158-159":{
+		"start_pokemon": "158",
+		"end_pokemon": "159",
+		"method": "25 Candy"
+	},
+	"159-160":{
+		"start_pokemon": "159",
+		"end_pokemon": "160",
+		"method": "100 Candy"
+	},
+	"161-162":{
+		"start_pokemon": "161",
+		"end_pokemon": "162",
+		"method": "25 Candy"
+	},
+	"163-164":{
+		"start_pokemon": "163",
+		"end_pokemon": "164",
+		"method": "50 Candy"
+	},
+	"165-166":{
+		"start_pokemon": "165",
+		"end_pokemon": "166",
+		"method": "25 Candy"
+	},
+	"167-168":{
+		"start_pokemon": "167",
+		"end_pokemon": "168",
+		"method": "50 Candy"
+	},
+	"170-171":{
+		"start_pokemon": "170",
+		"end_pokemon": "171",
+		"method": "50 Candy"
+	},
+	"175-176":{
+		"start_pokemon": "175",
+		"end_pokemon": "176",
+		"method": "25 Candy"
+	},
+	"176-468":{
+		"start_pokemon": "176",
+		"end_pokemon": "468",
+		"method": "100 Candy and Sinnoh Stone"
+	},
+	"177-178":{
+		"start_pokemon": "177",
+		"end_pokemon": "178",
+		"method": "50 Candy"
+	},
+	"179-180":{
+		"start_pokemon": "179",
+		"end_pokemon": "180",
+		"method": "25 Candy"
+	},
+	"180-181":{
+		"start_pokemon": "180",
+		"end_pokemon": "181",
+		"method": "100 Candy"
+	},
+	"298-183":{
+		"start_pokemon": "298",
+		"end_pokemon": "183",
+		"method": "25 Candy"
+	},
+	"183-184":{
+		"start_pokemon": "183",
+		"end_pokemon": "184",
+		"method": "25 Candy"
+	},
+	"438-185":{
+		"start_pokemon": "438",
+		"end_pokemon": "185",
+		"method": "50 Candy and Walk 15km"
+	},
+	"187-188":{
+		"start_pokemon": "187",
+		"end_pokemon": "188",
+		"method": "25 Candy"
+	},
+	"188-189":{
+		"start_pokemon": "188",
+		"end_pokemon": "189",
+		"method": "100 Candy"
+	},
+	"190-424":{
+		"start_pokemon": "190",
+		"end_pokemon": "424",
+		"method": "100 Candy and Sinnoh Stone"
+	},
+	"191-192":{
+		"start_pokemon": "191",
+		"end_pokemon": "192",
+		"method": "50 Candy and Sun Stone"
+	},
+	"193-469":{
+		"start_pokemon": "193",
+		"end_pokemon": "469",
+		"method": "100 Candy and Sinnoh Stone"
+	},
+	"194-195":{
+		"start_pokemon": "194",
+		"end_pokemon": "195",
+		"method": "50 Candy"
+	},
+	"198-430":{
+		"start_pokemon": "198",
+		"end_pokemon": "430",
+		"method": "100 Candy and Sinnoh Stone"
+	},
+	"200-429":{
+		"start_pokemon": "200",
+		"end_pokemon": "429",
+		"method": "100 Candy and Sinnoh Stone"
+	},
+	"360-202":{
+		"start_pokemon": "360",
+		"end_pokemon": "202",
+		"method": "25 Candy"
+	},
+	"204-205":{
+		"start_pokemon": "204",
+		"end_pokemon": "205",
+		"method": "50 Candy"
+	},
+	"207-472":{
+		"start_pokemon": "207",
+		"end_pokemon": "472",
+		"method": "100 Candy and Sinnoh Stone"
+	},
+	"209-210":{
+		"start_pokemon": "209",
+		"end_pokemon": "210",
+		"method": "50 Candy"
+	},
+	"215-461":{
+		"start_pokemon": "215",
+		"end_pokemon": "461",
+		"method": "100 Candy and Sinnoh Stone"
+	},
+	"216-217":{
+		"start_pokemon": "216",
+		"end_pokemon": "217",
+		"method": "50 Candy"
+	},
+	"218-219":{
+		"start_pokemon": "218",
+		"end_pokemon": "219",
+		"method": "50 Candy"
+	},
+	"220-221":{
+		"start_pokemon": "220",
+		"end_pokemon": "221",
+		"method": "25 Candy"
+	},
+	"221-473":{
+		"start_pokemon": "221",
+		"end_pokemon": "473",
+		"method": "100 Candy and Sinnoh Stone"
+	},
+	"223-224":{
+		"start_pokemon": "223",
+		"end_pokemon": "224",
+		"method": "50 Candy"
+	},
+	"458-226":{
+		"start_pokemon": "458",
+		"end_pokemon": "226",
+		"method": "50 Candy"
+	},
+	"228-229":{
+		"start_pokemon": "228",
+		"end_pokemon": "229",
+		"method": "50 Candy"
+	},
+	"231-232":{
+		"start_pokemon": "231",
+		"end_pokemon": "232",
+		"method": "50 Candy"
+	},
+	"246-247":{
+		"start_pokemon": "246",
+		"end_pokemon": "247",
+		"method": "25 Candy"
+	},
+	"247-248":{
+		"start_pokemon": "247",
+		"end_pokemon": "248",
+		"method": "100 Candy"
+	},
+	"252-253":{
+		"start_pokemon": "252",
+		"end_pokemon": "253",
+		"method": "25 Candy"
+	},
+	"253-254":{
+		"start_pokemon": "253",
+		"end_pokemon": "254",
+		"method": "100 Candy"
+	},
+	"255-256":{
+		"start_pokemon": "255",
+		"end_pokemon": "256",
+		"method": "25 Candy"
+	},
+	"256-257":{
+		"start_pokemon": "256",
+		"end_pokemon": "257",
+		"method": "100 Candy"
+	},
+	"258-259":{
+		"start_pokemon": "258",
+		"end_pokemon": "259",
+		"method": "25 Candy"
+	},
+	"259-260":{
+		"start_pokemon": "259",
+		"end_pokemon": "260",
+		"method": "100 Candy"
+	},
+	"261-262":{
+		"start_pokemon": "261",
+		"end_pokemon": "262",
+		"method": "50 Candy"
+	},
+	"263-264":{
+		"start_pokemon": "263",
+		"end_pokemon": "264",
+		"method": "50 Candy"
+	},
+	"265-266":{
+		"start_pokemon": "265",
+		"end_pokemon": "266",
+		"method": "12 Candy and Random"
+	},
+	"265-268":{
+		"start_pokemon": "265",
+		"end_pokemon": "268",
+		"method": "12 Candy and Random"
+	},
+	"266-267":{
+		"start_pokemon": "266",
+		"end_pokemon": "267",
+		"method": "50 Candy"
+	},
+	"268-269":{
+		"start_pokemon": "268",
+		"end_pokemon": "269",
+		"method": "50 Candy"
+	},
+	"270-271":{
+		"start_pokemon": "270",
+		"end_pokemon": "271",
+		"method": "25 Candy"
+	},
+	"271-272":{
+		"start_pokemon": "271",
+		"end_pokemon": "272",
+		"method": "100 Candy"
+	},
+	"273-274":{
+		"start_pokemon": "273",
+		"end_pokemon": "274",
+		"method": "25 Candy"
+	},
+	"274-275":{
+		"start_pokemon": "274",
+		"end_pokemon": "275",
+		"method": "100 Candy"
+	},
+	"276-277":{
+		"start_pokemon": "276",
+		"end_pokemon": "277",
+		"method": "50 Candy"
+	},
+	"278-277":{
+		"start_pokemon": "278",
+		"end_pokemon": "277",
+		"method": "50 Candy"
+	},
+	"280-281":{
+		"start_pokemon": "280",
+		"end_pokemon": "281",
+		"method": "25 Candy"
+	},
+	"281-282":{
+		"start_pokemon": "281",
+		"end_pokemon": "282",
+		"method": "100 Candy"
+	},
+	"281-475":{
+		"start_pokemon": "281",
+		"end_pokemon": "475",
+		"method": "100 Candy and Sinnoh Stone and Male"
+	},
+	"283-284":{
+		"start_pokemon": "283",
+		"end_pokemon": "284",
+		"method": "50 Candy"
+	},
+	"285-286":{
+		"start_pokemon": "285",
+		"end_pokemon": "286",
+		"method": "50 Candy"
+	},
+	"287-288":{
+		"start_pokemon": "287",
+		"end_pokemon": "288",
+		"method": "25 Candy"
+	},
+	"288-289":{
+		"start_pokemon": "288",
+		"end_pokemon": "289",
+		"method": "100 Candy"
+	},
+	"290-291":{
+		"start_pokemon": "290",
+		"end_pokemon": "291",
+		"method": "50 Candy"
+	},
+	"293-294":{
+		"start_pokemon": "293",
+		"end_pokemon": "294",
+		"method": "12 Candy"
+	},
+	"294-295":{
+		"start_pokemon": "294",
+		"end_pokemon": "295",
+		"method": "50 Candy"
+	},
+	"296-297":{
+		"start_pokemon": "296",
+		"end_pokemon": "297",
+		"method": "50 Candy"
+	},
+	"299-476":{
+		"start_pokemon": "299",
+		"end_pokemon": "476",
+		"method": "50 Candy and Metal Lure"
+	},
+	"300-301":{
+		"start_pokemon": "300",
+		"end_pokemon": "301",
+		"method": "50 Candy"
+	},
+	"304-305":{
+		"start_pokemon": "304",
+		"end_pokemon": "305",
+		"method": "25 Candy"
+	},
+	"305-306":{
+		"start_pokemon": "305",
+		"end_pokemon": "306",
+		"method": "100 Candy"
+	},
+	"307-308":{
+		"start_pokemon": "307",
+		"end_pokemon": "308",
+		"method": "50 Candy"
+	},
+	"309-310":{
+		"start_pokemon": "309",
+		"end_pokemon": "310",
+		"method": "50 Candy"
+	},
+	"406-315":{
+		"start_pokemon": "406",
+		"end_pokemon": "315",
+		"method": "25 Candy"
+	},
+	"315-407":{
+		"start_pokemon": "315",
+		"end_pokemon": "407",
+		"method": "100 Candy and Sinnoh Stone"
+	},
+	"316-317":{
+		"start_pokemon": "316",
+		"end_pokemon": "317",
+		"method": "50 Candy"
+	},
+	"318-319":{
+		"start_pokemon": "318",
+		"end_pokemon": "319",
+		"method": "50 Candy"
+	},
+	"320-321":{
+		"start_pokemon": "320",
+		"end_pokemon": "321",
+		"method": "400 Candy"
+	},
+	"322-323":{
+		"start_pokemon": "322",
+		"end_pokemon": "323",
+		"method": "50 Candy"
+	},
+	"325-326":{
+		"start_pokemon": "325",
+		"end_pokemon": "326",
+		"method": "50 Candy"
+	},
+	"328-329":{
+		"start_pokemon": "328",
+		"end_pokemon": "329",
+		"method": "25 Candy"
+	},
+	"329-330":{
+		"start_pokemon": "329",
+		"end_pokemon": "330",
+		"method": "100 Candy"
+	},
+	"331-332":{
+		"start_pokemon": "331",
+		"end_pokemon": "332",
+		"method": "50 Candy"
+	},
+	"333-334":{
+		"start_pokemon": "333",
+		"end_pokemon": "334",
+		"method": "400 Candy"
+	},
+	"339-340":{
+		"start_pokemon": "339",
+		"end_pokemon": "340",
+		"method": "50 Candy"
+	},
+	"341-342":{
+		"start_pokemon": "341",
+		"end_pokemon": "342",
+		"method": "50 Candy"
+	},
+	"343-344":{
+		"start_pokemon": "343",
+		"end_pokemon": "344",
+		"method": "50 Candy"
+	},
+	"345-346":{
+		"start_pokemon": "345",
+		"end_pokemon": "346",
+		"method": "50 Candy"
+	},
+	"347-348":{
+		"start_pokemon": "347",
+		"end_pokemon": "348",
+		"method": "50 Candy"
+	},
+	"349-350":{
+		"start_pokemon": "349",
+		"end_pokemon": "350",
+		"method": "100 Candy and Walk 20km"
+	},
+	"353-354":{
+		"start_pokemon": "353",
+		"end_pokemon": "354",
+		"method": "50 Candy"
+	},
+	"355-356":{
+		"start_pokemon": "355",
+		"end_pokemon": "356",
+		"method": "25 Candy"
+	},
+	"356-477":{
+		"start_pokemon": "356",
+		"end_pokemon": "477",
+		"method": "100 Candy and Sinnoh Stone"
+	},
+	"433-358":{
+		"start_pokemon": "433",
+		"end_pokemon": "358",
+		"method": "50 Candy"
+	},
+	"361-362":{
+		"start_pokemon": "361",
+		"end_pokemon": "362",
+		"method": "100 Candy"
+	},
+	"361-478":{
+		"start_pokemon": "361",
+		"end_pokemon": "478",
+		"method": "100 Candy and Sinnoh Stone and Female"
+	},
+	"363-364":{
+		"start_pokemon": "363",
+		"end_pokemon": "364",
+		"method": "25 Candy"
+	},
+	"364-365":{
+		"start_pokemon": "364",
+		"end_pokemon": "365",
+		"method": "100 Candy"
+	},
+	"366-367":{
+		"start_pokemon": "366",
+		"end_pokemon": "367",
+		"method": "50 Candy and Random"
+	},
+	"366-368":{
+		"start_pokemon": "366",
+		"end_pokemon": "368",
+		"method": "50 Candy and Random"
+	},
+	"371-372":{
+		"start_pokemon": "371",
+		"end_pokemon": "372",
+		"method": "25 Candy"
+	},
+	"372-373":{
+		"start_pokemon": "372",
+		"end_pokemon": "373",
+		"method": "100 Candy"
+	},
+	"374-375":{
+		"start_pokemon": "374",
+		"end_pokemon": "375",
+		"method": "25 Candy"
+	},
+	"375-376":{
+		"start_pokemon": "375",
+		"end_pokemon": "376",
+		"method": "100 Candy"
+	},
+	"387-388":{
+		"start_pokemon": "387",
+		"end_pokemon": "388",
+		"method": "25 Candy"
+	},
+	"388-389":{
+		"start_pokemon": "388",
+		"end_pokemon": "389",
+		"method": "100 Candy"
+	},
+	"390-391":{
+		"start_pokemon": "390",
+		"end_pokemon": "391",
+		"method": "25 Candy"
+	},
+	"391-392":{
+		"start_pokemon": "391",
+		"end_pokemon": "392",
+		"method": "100 Candy"
+	},
+	"393-394":{
+		"start_pokemon": "393",
+		"end_pokemon": "394",
+		"method": "25 Candy"
+	},
+	"394-395":{
+		"start_pokemon": "394",
+		"end_pokemon": "395",
+		"method": "100 Candy"
+	},
+	"396-397":{
+		"start_pokemon": "396",
+		"end_pokemon": "397",
+		"method": "25 Candy"
+	},
+	"397-398":{
+		"start_pokemon": "397",
+		"end_pokemon": "398",
+		"method": "100 Candy"
+	},
+	"399-400":{
+		"start_pokemon": "399",
+		"end_pokemon": "400",
+		"method": "50 Candy"
+	},
+	"401-402":{
+		"start_pokemon": "401",
+		"end_pokemon": "402",
+		"method": "50 Candy"
+	},
+	"403-404":{
+		"start_pokemon": "403",
+		"end_pokemon": "404",
+		"method": "25 Candy"
+	},
+	"404-405":{
+		"start_pokemon": "404",
+		"end_pokemon": "405",
+		"method": "100 Candy"
+	},
+	"408-409":{
+		"start_pokemon": "408",
+		"end_pokemon": "409",
+		"method": "50 Candy"
+	},
+	"410-411":{
+		"start_pokemon": "410",
+		"end_pokemon": "411",
+		"method": "50 Candy"
+	},
+	"412P-413P":{
+		"start_pokemon": "412P",
+		"end_pokemon": "413P",
+		"method": "50 Candy and Female"
+	},
+	"412S-413S":{
+		"start_pokemon": "412S",
+		"end_pokemon": "413S",
+		"method": "50 Candy and Female"
+	},
+	"412T-413T":{
+		"start_pokemon": "412T",
+		"end_pokemon": "413T",
+		"method": "50 Candy and Female"
+	},
+	"412P-414":{
+		"start_pokemon": "412P",
+		"end_pokemon": "414",
+		"method": "50 Candy and Male"
+	},
+	"412S-414":{
+		"start_pokemon": "412S",
+		"end_pokemon": "414",
+		"method": "50 Candy and Male"
+	},
+	"412T-414":{
+		"start_pokemon": "412T",
+		"end_pokemon": "414",
+		"method": "50 Candy and Male"
+	},
+	"415-416":{
+		"start_pokemon": "415",
+		"end_pokemon": "416",
+		"method": "50 Candy and Female"
+	},
+	"418-419":{
+		"start_pokemon": "418",
+		"end_pokemon": "419",
+		"method": "50 Candy"
+	},
+	"420-421O":{
+		"start_pokemon": "420",
+		"end_pokemon": "421O",
+		"method": "50 Candy and Random"
+	},
+	"420-421S":{
+		"start_pokemon": "420",
+		"end_pokemon": "421S",
+		"method": "50 Candy and Random"
+	},
+	"422-423":{
+		"start_pokemon": "422",
+		"end_pokemon": "423",
+		"method": "50 Candy"
+	},
+	"422E-423E":{
+		"start_pokemon": "422E",
+		"end_pokemon": "423E",
+		"method": "50 Candy"
+	},
+	"425-426":{
+		"start_pokemon": "425",
+		"end_pokemon": "426",
+		"method": "50 Candy"
+	},
+	"427-428":{
+		"start_pokemon": "427",
+		"end_pokemon": "428",
+		"method": "50 Candy"
+	},
+	"431-432":{
+		"start_pokemon": "431",
+		"end_pokemon": "432",
+		"method": "50 Candy"
+	},
+	"434-435":{
+		"start_pokemon": "434",
+		"end_pokemon": "435",
+		"method": "50 Candy"
+	},
+	"436-437":{
+		"start_pokemon": "436",
+		"end_pokemon": "437",
+		"method": "50 Candy"
+	},
+	"443-444":{
+		"start_pokemon": "443",
+		"end_pokemon": "444",
+		"method": "25 Candy"
+	},
+	"444-445":{
+		"start_pokemon": "444",
+		"end_pokemon": "445",
+		"method": "100 Candy"
+	},
+	"447-448":{
+		"start_pokemon": "447",
+		"end_pokemon": "448",
+		"method": "50 Candy"
+	},
+	"451-452":{
+		"start_pokemon": "451",
+		"end_pokemon": "452",
+		"method": "50 Candy"
+	},
+	"453-454":{
+		"start_pokemon": "453",
+		"end_pokemon": "454",
+		"method": "50 Candy"
+	},
+	"456-457":{
+		"start_pokemon": "456",
+		"end_pokemon": "457",
+		"method": "50 Candy"
+	},
+	"459-460":{
+		"start_pokemon": "459",
+		"end_pokemon": "460",
+		"method": "50 Candy"
+	},
+	"495-496":{
+		"start_pokemon": "495",
+		"end_pokemon": "496",
+		"method": "25 Candy"
+	},
+	"496-497":{
+		"start_pokemon": "496",
+		"end_pokemon": "497",
+		"method": "100 Candy"
+	},
+	"498-499":{
+		"start_pokemon": "498",
+		"end_pokemon": "499",
+		"method": "25 Candy"
+	},
+	"499-500":{
+		"start_pokemon": "499",
+		"end_pokemon": "500",
+		"method": "100 Candy"
+	},
+	"501-502":{
+		"start_pokemon": "501",
+		"end_pokemon": "502",
+		"method": "25 Candy"
+	},
+	"502-503":{
+		"start_pokemon": "502",
+		"end_pokemon": "503",
+		"method": "100 Candy"
+	},
+	"504-505":{
+		"start_pokemon": "504",
+		"end_pokemon": "505",
+		"method": "50 Candy"
+	},
+	"506-507":{
+		"start_pokemon": "506",
+		"end_pokemon": "507",
+		"method": "25 Candy"
+	},
+	"507-508":{
+		"start_pokemon": "507",
+		"end_pokemon": "508",
+		"method": "100 Candy"
+	},
+	"509-510":{
+		"start_pokemon": "509",
+		"end_pokemon": "510",
+		"method": "50 Candy"
+	},
+	"511-512":{
+		"start_pokemon": "511",
+		"end_pokemon": "512",
+		"method": "50 Candy and Unova Stone"
+	},
+	"513-514":{
+		"start_pokemon": "513",
+		"end_pokemon": "514",
+		"method": "50 Candy and Unova Stone"
+	},
+	"515-516":{
+		"start_pokemon": "515",
+		"end_pokemon": "516",
+		"method": "50 Candy and Unova Stone"
+	},
+	"519-520":{
+		"start_pokemon": "519",
+		"end_pokemon": "520",
+		"method": "12 Candy"
+	},
+	"520-521":{
+		"start_pokemon": "520",
+		"end_pokemon": "521",
+		"method": "50 Candy"
+	},
+	"522-523":{
+		"start_pokemon": "522",
+		"end_pokemon": "523",
+		"method": "50 Candy"
+	},
+	"524-525":{
+		"start_pokemon": "524",
+		"end_pokemon": "525",
+		"method": "50 Candy"
+	},
+	"525-526":{
+		"start_pokemon": "525",
+		"end_pokemon": "526",
+		"method": "200 Candy or Trade"
+	},
+	"527-528":{
+		"start_pokemon": "527",
+		"end_pokemon": "528",
+		"method": "50 Candy and Walk 1km"
+	},
+	"529-530":{
+		"start_pokemon": "529",
+		"end_pokemon": "530",
+		"method": "50 Candy"
+	},
+	"532-533":{
+		"start_pokemon": "532",
+		"end_pokemon": "533",
+		"method": "50 Candy"
+	},
+	"533-534":{
+		"start_pokemon": "533",
+		"end_pokemon": "534",
+		"method": "200 Candy or Trade"
+	},
+	"535-536":{
+		"start_pokemon": "535",
+		"end_pokemon": "536",
+		"method": "25 Candy"
+	},
+	"536-537":{
+		"start_pokemon": "536",
+		"end_pokemon": "537",
+		"method": "100 Candy"
+	},
+	"543-544":{
+		"start_pokemon": "543",
+		"end_pokemon": "544",
+		"method": "25 Candy"
+	},
+	"544-545":{
+		"start_pokemon": "544",
+		"end_pokemon": "545",
+		"method": "100 Candy"
+	},
+	"554-555":{
+		"start_pokemon": "554",
+		"end_pokemon": "555",
+		"method": "50 Candy"
+	},
+	"557-558":{
+		"start_pokemon": "557",
+		"end_pokemon": "558",
+		"method": "50 Candy"
+	},
+	"559-560":{
+		"start_pokemon": "559",
+		"end_pokemon": "560",
+		"method": "50 Candy"
+	},
+	"562-563":{
+		"start_pokemon": "562",
+		"end_pokemon": "563",
+		"method": "50 Candy"
+	},
+	"564-565":{
+		"start_pokemon": "564",
+		"end_pokemon": "565",
+		"method": "50 Candy"
+	},
+	"566-567":{
+		"start_pokemon": "566",
+		"end_pokemon": "567",
+		"method": "50 Candy"
+	},
+	"568-569":{
+		"start_pokemon": "568",
+		"end_pokemon": "569",
+		"method": "50 Candy"
+	},
+	"572-573":{
+		"start_pokemon": "572",
+		"end_pokemon": "573",
+		"method": "50 Candy and Unova Stone"
+	},
+	"574-575":{
+		"start_pokemon": "574",
+		"end_pokemon": "575",
+		"method": "25 Candy"
+	},
+	"575-576":{
+		"start_pokemon": "575",
+		"end_pokemon": "576",
+		"method": "100 Candy"
+	},
+	"577-578":{
+		"start_pokemon": "577",
+		"end_pokemon": "578",
+		"method": "25 Candy"
+	},
+	"578-579":{
+		"start_pokemon": "578",
+		"end_pokemon": "579",
+		"method": "100 Candy"
+	},
+	"588-589":{
+		"start_pokemon": "588",
+		"end_pokemon": "589",
+		"method": "200 Candy or Trade"
+	},
+	"590-591":{
+		"start_pokemon": "590",
+		"end_pokemon": "591",
+		"method": "50 Candy"
+	},
+	"595-596":{
+		"start_pokemon": "595",
+		"end_pokemon": "596",
+		"method": "50 Candy"
+	},
+	"597-598":{
+		"start_pokemon": "597",
+		"end_pokemon": "598",
+		"method": "50 Candy"
+	},
+	"599-600":{
+		"start_pokemon": "599",
+		"end_pokemon": "600",
+		"method": "50 Candy"
+	},
+	"600-601":{
+		"start_pokemon": "600",
+		"end_pokemon": "601",
+		"method": "100 Candy"
+	},
+	"607-608":{
+		"start_pokemon": "607",
+		"end_pokemon": "608",
+		"method": "25 Candy"
+	},
+	"608-609":{
+		"start_pokemon": "608",
+		"end_pokemon": "609",
+		"method": "100 Candy and Unova Stone"
+	},
+	"610-611":{
+		"start_pokemon": "610",
+		"end_pokemon": "611",
+		"method": "25 Candy"
+	},
+	"611-612":{
+		"start_pokemon": "611",
+		"end_pokemon": "612",
+		"method": "100 Candy"
+	},
+	"613-614":{
+		"start_pokemon": "613",
+		"end_pokemon": "614",
+		"method": "50 Candy"
+	},
+	"616-617":{
+		"start_pokemon": "616",
+		"end_pokemon": "617",
+		"method": "200 Candy and Trade"
+	},
+	"622-623":{
+		"start_pokemon": "622",
+		"end_pokemon": "623",
+		"method": "50 Candy"
+	},
+	"627-628":{
+		"start_pokemon": "627",
+		"end_pokemon": "628",
+		"method": "50 Candy"
+	},
+	"633-634":{
+		"start_pokemon": "633",
+		"end_pokemon": "634",
+		"method": "25 Candy"
+	},
+	"634-635":{
+		"start_pokemon": "634",
+		"end_pokemon": "635",
+		"method": "100 Candy"
+	}
+}

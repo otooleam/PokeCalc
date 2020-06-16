@@ -1,0 +1,5858 @@
+[
+	{
+		"name": "Bulbasaur",
+		"number": 1,
+		"hp": 128,
+		"attack": 118,
+		"defense": 111,
+		"type": ["Grass", "Poison"]
+	},
+	{
+		"name": "Ivysaur",
+		"number": 2,
+		"hp": 155,
+		"attack": 151,
+		"defense": 143,
+		"type": ["Grass", "Poison"]
+	},
+	{
+		"name": "Venusaur",
+		"number": 3,
+		"hp": 190,
+		"attack": 198,
+		"defense": 189,
+		"type": ["Grass", "Poison"]
+	},
+	{
+		"name": "Charmander",
+		"number": 4,
+		"hp": 118,
+		"attack": 116,
+		"defense": 93,
+		"type": ["Fire"]
+	},
+	{
+		"name": "Charmeleon",
+		"number": 5,
+		"hp": 151,
+		"attack": 158,
+		"defense": 126,
+		"type": ["Fire"]
+	},
+	{
+		"name": "Charizard",
+		"number": 6,
+		"hp": 186,
+		"attack": 223,
+		"defense": 173,
+		"type": ["Fire", "Flying"]
+	},
+	{
+		"name": "Squirtle",
+		"number": 7,
+		"hp": 127,
+		"attack": 94,
+		"defense": 121,
+		"type": ["Water"]
+	},
+	{
+		"name": "Wartortle",
+		"number": 8,
+		"hp": 153,
+		"attack": 126,
+		"defense": 155,
+		"type": ["Water"]
+	},
+	{
+		"name": "Blastoise",
+		"number": 9,
+		"hp": 188,
+		"attack": 171,
+		"defense": 207,
+		"type": ["Water"]
+	},
+	{
+		"name": "Caterpie",
+		"number": 10,
+		"hp": 128,
+		"attack": 55,
+		"defense": 55,
+		"type": ["Bug"]
+	},
+	{
+		"name": "Metapod",
+		"number": 11,
+		"hp": 137,
+		"attack": 45,
+		"defense": 80,
+		"type": ["Bug"]
+	},
+	{
+		"name": "Butterfree",
+		"number": 12,
+		"hp": 155,
+		"attack": 167,
+		"defense": 137,
+		"type": ["Bug", "Flying"]
+	},
+	{
+		"name": "Weedle",
+		"number": 13,
+		"hp": 120,
+		"attack": 63,
+		"defense": 50,
+		"type": ["Bug", "Poison"]
+	},
+	{
+		"name": "Kakuna",
+		"number": 14,
+		"hp": 128,
+		"attack": 46,
+		"defense": 75,
+		"type": ["Bug", "Poison"]
+	},
+	{
+		"name": "Beedrill",
+		"number": 15,
+		"hp": 163,
+		"attack": 169,
+		"defense": 130,
+		"type": ["Bug", "Poison"]
+	},
+	{
+		"name": "Pidgey",
+		"number": 16,
+		"hp": 120,
+		"attack": 85,
+		"defense": 73,
+		"type": ["Normal", "Flying"]
+	},
+	{
+		"name": "Pidgeotto",
+		"number": 17,
+		"hp": 160,
+		"attack": 117,
+		"defense": 105,
+		"type": ["Normal", "Flying"]
+	},
+	{
+		"name": "Pidgeot",
+		"number": 18,
+		"hp": 195,
+		"attack": 166,
+		"defense": 154,
+		"type": ["Normal", "Flying"]
+	},
+	{
+		"name": "Rattata",
+		"number": 19,
+		"hp": 102,
+		"attack": 103,
+		"defense": 70,
+		"type": ["Normal"]
+	},
+	{
+		"name": "Alolan Rattata",
+		"number": 19,
+		"hp": 102,
+		"attack": 103,
+		"defense": 70,
+		"type": ["Dark", "Normal"]
+	},
+	{
+		"name": "Raticate",
+		"number": 20,
+		"hp": 146,
+		"attack": 161,
+		"defense": 139,
+		"type": ["Normal"]
+	},
+	{
+		"name": "Alolan Raticate",
+		"number": 20,
+		"hp": 181,
+		"attack": 135,
+		"defense": 154,
+		"type": ["Dark", "Normal"]
+	},
+	{
+		"name": "Spearow",
+		"number": 21,
+		"hp": 120,
+		"attack": 112,
+		"defense": 60,
+		"type": ["Normal", "Flying"]
+	},
+	{
+		"name": "Fearow",
+		"number": 22,
+		"hp": 163,
+		"attack": 182,
+		"defense": 133,
+		"type": ["Normal", "Flying"]
+	},
+	{
+		"name": "Ekans",
+		"number": 23,
+		"hp": 111,
+		"attack": 110,
+		"defense": 97,
+		"type": ["Poison"]
+	},
+	{
+		"name": "Arbok",
+		"number": 24,
+		"hp": 155,
+		"attack": 167,
+		"defense": 153,
+		"type": ["Poison"]
+	},
+	{
+		"name": "Pikachu",
+		"number": 25,
+		"hp": 111,
+		"attack": 112,
+		"defense": 96,
+		"type": ["Electric"]
+	},
+	{
+		"name": "Raichu",
+		"number": 26,
+		"hp": 155,
+		"attack": 193,
+		"defense": 151,
+		"type": ["Electric"]
+	},
+	{
+		"name": "Alolan Raichu",
+		"number": 26,
+		"hp": 155,
+		"attack": 201,
+		"defense": 154,
+		"type": ["Electric", "Psychic"]
+	},
+	{
+		"name": "Sandshrew",
+		"number": 27,
+		"hp": 137,
+		"attack": 126,
+		"defense": 120,
+		"type": ["Ground"]
+	},
+	{
+		"name": "Alolan Sandshrew",
+		"number": 27,
+		"hp": 137,
+		"attack": 125,
+		"defense": 129,
+		"type": ["Ice", "Steel"]
+	},
+	{
+		"name": "Sandslash",
+		"number": 28,
+		"hp": 181,
+		"attack": 182,
+		"defense": 175,
+		"type": ["Ground"]
+	},
+	{
+		"name": "Alolan Sandslash",
+		"number": 28,
+		"hp": 181,
+		"attack": 177,
+		"defense": 195,
+		"type": ["Ice", "Steel"]
+	},
+	{
+		"name": "Nidoran F",
+		"number": 29,
+		"hp": 146,
+		"attack": 86,
+		"defense": 89,
+		"type": ["Poison"]
+	},
+	{
+		"name": "Nidorina",
+		"number": 30,
+		"hp": 172,
+		"attack": 117,
+		"defense": 120,
+		"type": ["Poison"]
+	},
+	{
+		"name": "Nidoqueen",
+		"number": 31,
+		"hp": 207,
+		"attack": 180,
+		"defense": 173,
+		"type": ["Poison", "Ground"]
+	},
+	{
+		"name": "Nidoran M",
+		"number": 32,
+		"hp": 130,
+		"attack": 105,
+		"defense": 76,
+		"type": ["Poison"]
+	},
+	{
+		"name": "Nidorino",
+		"number": 33,
+		"hp": 156,
+		"attack": 137,
+		"defense": 111,
+		"type": ["Poison"]
+	},
+	{
+		"name": "Nidoking",
+		"number": 34,
+		"hp": 191,
+		"attack": 204,
+		"defense": 156,
+		"type": ["Poison", "Ground"]
+	},
+	{
+		"name": "Clefairy",
+		"number": 35,
+		"hp": 172,
+		"attack": 107,
+		"defense": 108,
+		"type": ["Fairy"]
+	},
+	{
+		"name": "Clefable",
+		"number": 36,
+		"hp": 216,
+		"attack": 178,
+		"defense": 162,
+		"type": ["Fairy"]
+	},
+	{
+		"name": "Vulpix",
+		"number": 37,
+		"hp": 116,
+		"attack": 96,
+		"defense": 109,
+		"type": ["Fire"]
+	},
+	{
+		"name": "Alolan Vulpix",
+		"number": 37,
+		"hp": 116,
+		"attack": 96,
+		"defense": 109,
+		"type": ["Ice"]
+	},
+	{
+		"name": "Ninetales",
+		"number": 38,
+		"hp": 177,
+		"attack": 169,
+		"defense": 190,
+		"type": ["Fire"]
+	},
+	{
+		"name": "Alolan Ninetales",
+		"number": 38,
+		"hp": 177,
+		"attack": 170,
+		"defense": 193,
+		"type": ["Ice", "Fairy"]
+	},
+	{
+		"name": "Jigglypuff",
+		"number": 39,
+		"hp": 251,
+		"attack": 80,
+		"defense": 41,
+		"type": ["Normal", "Fairy"]
+	},
+	{
+		"name": "Wigglytuff",
+		"number": 40,
+		"hp": 295,
+		"attack": 156,
+		"defense": 90,
+		"type": ["Normal", "Fairy"]
+	},
+	{
+		"name": "Zubat",
+		"number": 41,
+		"hp": 120,
+		"attack": 83,
+		"defense": 73,
+		"type": ["Poison", "Flying"]
+	},
+	{
+		"name": "Golbat",
+		"number": 42,
+		"hp": 181,
+		"attack": 161,
+		"defense": 150,
+		"type": ["Poison", "Flying"]
+	},
+	{
+		"name": "Oddish",
+		"number": 43,
+		"hp": 128,
+		"attack": 131,
+		"defense": 112,
+		"type": ["Grass", "Poison"]
+	},
+	{
+		"name": "Gloom",
+		"number": 44,
+		"hp": 155,
+		"attack": 153,
+		"defense": 136,
+		"type": ["Grass", "Poison"]
+	},
+	{
+		"name": "Vileplume",
+		"number": 45,
+		"hp": 181,
+		"attack": 202,
+		"defense": 167,
+		"type": ["Grass", "Poison"]
+	},
+	{
+		"name": "Paras",
+		"number": 46,
+		"hp": 111,
+		"attack": 121,
+		"defense": 99,
+		"type": ["Bug", "Grass"]
+	},
+	{
+		"name": "Parasect",
+		"number": 47,
+		"hp": 155,
+		"attack": 165,
+		"defense": 146,
+		"type": ["Bug", "Grass"]
+	},
+	{
+		"name": "Venonat",
+		"number": 48,
+		"hp": 155,
+		"attack": 100,
+		"defense": 100,
+		"type": ["Bug", "Poison"]
+	},
+	{
+		"name": "Venomoth",
+		"number": 49,
+		"hp": 172,
+		"attack": 179,
+		"defense": 143,
+		"type": ["Bug", "Poison"]
+	},
+	{
+		"name": "Diglett",
+		"number": 50,
+		"hp": 67,
+		"attack": 109,
+		"defense": 78,
+		"type": ["Ground"]
+	},
+	{
+		"name": "Alolan Diglett",
+		"number": 50,
+		"hp": 67,
+		"attack": 108,
+		"defense": 81,
+		"type": ["Ground", "Steel"]
+	},
+	{
+		"name": "Dugtrio",
+		"number": 51,
+		"hp": 111,
+		"attack": 167,
+		"defense": 134,
+		"type": ["Ground"]
+	},
+	{
+		"name": "Alolan Dugtrio",
+		"number": 51,
+		"hp": 111,
+		"attack": 201,
+		"defense": 142,
+		"type": ["Ground", "Steel"]
+	},
+	{
+		"name": "Meowth",
+		"number": 52,
+		"hp": 120,
+		"attack": 92,
+		"defense": 78,
+		"type": ["Normal"]
+	},
+	{
+		"name": "Alolan Meowth",
+		"number": 52,
+		"hp": 120,
+		"attack": 99,
+		"defense": 78,
+		"type": ["Dark"]
+	},
+	{
+		"name": "Galarian Meowth",
+		"number": 52,
+		"hp": 137,
+		"attack": 115,
+		"defense": 92,
+		"type": ["Steel"]
+	},
+	{
+		"name": "Persian",
+		"number": 53,
+		"hp": 163,
+		"attack": 150,
+		"defense": 136,
+		"type": ["Normal"]
+	},
+	{
+		"name": "Alolan Persian",
+		"number": 53,
+		"hp": 163,
+		"attack": 158,
+		"defense": 136,
+		"type": ["Dark"]
+	},
+	{
+		"name": "Psyduck",
+		"number": 54,
+		"hp": 137,
+		"attack": 122,
+		"defense": 95,
+		"type": ["Water"]
+	},
+	{
+		"name": "Golduck",
+		"number": 55,
+		"hp": 190,
+		"attack": 191,
+		"defense": 162,
+		"type": ["Water"]
+	},
+	{
+		"name": "Mankey",
+		"number": 56,
+		"hp": 120,
+		"attack": 148,
+		"defense": 82,
+		"type": ["Fighting"]
+	},
+	{
+		"name": "Primeape",
+		"number": 57,
+		"hp": 163,
+		"attack": 207,
+		"defense": 138,
+		"type": ["Fighting"]
+	},
+	{
+		"name": "Growlithe",
+		"number": 58,
+		"hp": 146,
+		"attack": 136,
+		"defense": 93,
+		"type": ["Fire"]
+	},
+	{
+		"name": "Arcanine",
+		"number": 59,
+		"hp": 207,
+		"attack": 227,
+		"defense": 166,
+		"type": ["Fire"]
+	},
+	{
+		"name": "Poliwag",
+		"number": 60,
+		"hp": 120,
+		"attack": 101,
+		"defense": 82,
+		"type": ["Water"]
+	},
+	{
+		"name": "Poliwhirl",
+		"number": 61,
+		"hp": 163,
+		"attack": 130,
+		"defense": 123,
+		"type": ["Water"]
+	},
+	{
+		"name": "Poliwrath",
+		"number": 62,
+		"hp": 207,
+		"attack": 182,
+		"defense": 184,
+		"type": ["Water", "Fighting"]
+	},
+	{
+		"name": "Abra",
+		"number": 63,
+		"hp": 93,
+		"attack": 195,
+		"defense": 82,
+		"type": ["Psychic"]
+	},
+	{
+		"name": "Kadabra",
+		"number": 64,
+		"hp": 120,
+		"attack": 232,
+		"defense": 117,
+		"type": ["Psychic"]
+	},
+	{
+		"name": "Alakazam",
+		"number": 65,
+		"hp": 146,
+		"attack": 271,
+		"defense": 167,
+		"type": ["Psychic"]
+	},
+	{
+		"name": "Machop",
+		"number": 66,
+		"hp": 172,
+		"attack": 137,
+		"defense": 82,
+		"type": ["Fighting"]
+	},
+	{
+		"name": "Machoke",
+		"number": 67,
+		"hp": 190,
+		"attack": 177,
+		"defense": 125,
+		"type": ["Fighting"]
+	},
+	{
+		"name": "Machamp",
+		"number": 68,
+		"hp": 207,
+		"attack": 234,
+		"defense": 159,
+		"type": ["Fighting"]
+	},
+	{
+		"name": "Bellsprout",
+		"number": 69,
+		"hp": 137,
+		"attack": 139,
+		"defense": 61,
+		"type": ["Grass", "Poison"]
+	},
+	{
+		"name": "Weepinbell",
+		"number": 70,
+		"hp": 163,
+		"attack": 172,
+		"defense": 92,
+		"type": ["Grass", "Poison"]
+	},
+	{
+		"name": "Victreebel",
+		"number": 71,
+		"hp": 190,
+		"attack": 207,
+		"defense": 135,
+		"type": ["Grass", "Poison"]
+	},
+	{
+		"name": "Tentacool",
+		"number": 72,
+		"hp": 120,
+		"attack": 97,
+		"defense": 149,
+		"type": ["Water", "Poison"]
+	},
+	{
+		"name": "Tentacruel",
+		"number": 73,
+		"hp": 190,
+		"attack": 166,
+		"defense": 209,
+		"type": ["Water", "Poison"]
+	},
+	{
+		"name": "Geodude",
+		"number": 74,
+		"hp": 120,
+		"attack": 132,
+		"defense": 132,
+		"type": ["Rock", "Ground"]
+	},
+	{
+		"name": "Alolan Geodude",
+		"number": 74,
+		"hp": 120,
+		"attack": 132,
+		"defense": 132,
+		"type": ["Rock", "Electric"]
+	},
+	{
+		"name": "Graveler",
+		"number": 75,
+		"hp": 146,
+		"attack": 164,
+		"defense": 164,
+		"type": ["Rock", "Ground"]
+	},
+	{
+		"name": "Alolan Graveler",
+		"number": 75,
+		"hp": 146,
+		"attack": 164,
+		"defense": 164,
+		"type": ["Rock", "Electric"]
+	},
+	{
+		"name": "Golem",
+		"number": 76,
+		"hp": 190,
+		"attack": 211,
+		"defense": 198,
+		"type": ["Rock", "Ground"]
+	},
+	{
+		"name": "Alolan Golem",
+		"number": 76,
+		"hp": 190,
+		"attack": 211,
+		"defense": 198,
+		"type": ["Rock", "Electric"]
+	},
+	{
+		"name": "Ponyta",
+		"number": 77,
+		"hp": 137,
+		"attack": 170,
+		"defense": 127,
+		"type": ["Fire"]
+	},
+	{
+		"name": "Rapidash",
+		"number": 78,
+		"hp": 163,
+		"attack": 207,
+		"defense": 162,
+		"type": ["Fire"]
+	},
+	{
+		"name": "Slowpoke",
+		"number": 79,
+		"hp": 207,
+		"attack": 109,
+		"defense": 98,
+		"type": ["Water", "Psychic"]
+	},
+	{
+		"name": "Slowbro",
+		"number": 80,
+		"hp": 216,
+		"attack": 177,
+		"defense": 180,
+		"type": ["Water", "Psychic"]
+	},
+	{
+		"name": "Magnemite",
+		"number": 81,
+		"hp": 93,
+		"attack": 165,
+		"defense": 121,
+		"type": ["Electric", "Steel"]
+	},
+	{
+		"name": "Magneton",
+		"number": 82,
+		"hp": 137,
+		"attack": 223,
+		"defense": 169,
+		"type": ["Electric", "Steel"]
+	},
+	{
+		"name": "Farfetch'd",
+		"number": 83,
+		"hp": 141,
+		"attack": 124,
+		"defense": 115,
+		"type": ["Normal", "Flying"]
+	},
+	{
+		"name": "Doduo",
+		"number": 84,
+		"hp": 111,
+		"attack": 158,
+		"defense": 83,
+		"type": ["Normal", "Flying"]
+	},
+	{
+		"name": "Dodrio",
+		"number": 85,
+		"hp": 155,
+		"attack": 218,
+		"defense": 140,
+		"type": ["Normal", "Flying"]
+	},
+	{
+		"name": "Seel",
+		"number": 86,
+		"hp": 163,
+		"attack": 85,
+		"defense": 121,
+		"type": ["Water"]
+	},
+	{
+		"name": "Dewgong",
+		"number": 87,
+		"hp": 207,
+		"attack": 139,
+		"defense": 177,
+		"type": ["Water", "Ice"]
+	},
+	{
+		"name": "Grimer",
+		"number": 88,
+		"hp": 190,
+		"attack": 135,
+		"defense": 90,
+		"type": ["Poison"]
+	},
+	{
+		"name": "Alolan Grimer",
+		"number": 88,
+		"hp": 190,
+		"attack": 135,
+		"defense": 90,
+		"type": ["Poison", "Dark"]
+	},
+	{
+		"name": "Muk",
+		"number": 89,
+		"hp": 233,
+		"attack": 190,
+		"defense": 172,
+		"type": ["Poison"]
+	},
+	{
+		"name": "Alolan Muk",
+		"number": 89,
+		"hp": 233,
+		"attack": 190,
+		"defense": 172,
+		"type": ["Poison", "Dark"]
+	},
+	{
+		"name": "Shellder",
+		"number": 90,
+		"hp": 102,
+		"attack": 116,
+		"defense": 134,
+		"type": ["Water"]
+	},
+	{
+		"name": "Cloyster",
+		"number": 91,
+		"hp": 137,
+		"attack": 186,
+		"defense": 256,
+		"type": ["Water", "Ice"]
+	},
+	{
+		"name": "Gastly",
+		"number": 92,
+		"hp": 102,
+		"attack": 186,
+		"defense": 67,
+		"type": ["Ghost", "Poison"]
+	},
+	{
+		"name": "Haunter",
+		"number": 93,
+		"hp": 128,
+		"attack": 223,
+		"defense": 107,
+		"type": ["Ghost", "Poison"]
+	},
+	{
+		"name": "Gengar",
+		"number": 94,
+		"hp": 155,
+		"attack": 261,
+		"defense": 149,
+		"type": ["Ghost", "Poison"]
+	},
+	{
+		"name": "Onix",
+		"number": 95,
+		"hp": 111,
+		"attack": 85,
+		"defense": 232,
+		"type": ["Rock", "Ground"]
+	},
+	{
+		"name": "Drowzee",
+		"number": 96,
+		"hp": 155,
+		"attack": 89,
+		"defense": 136,
+		"type": ["Psychic"]
+	},
+	{
+		"name": "Hypno",
+		"number": 97,
+		"hp": 198,
+		"attack": 144,
+		"defense": 193,
+		"type": ["Psychic"]
+	},
+	{
+		"name": "Krabby",
+		"number": 98,
+		"hp": 102,
+		"attack": 181,
+		"defense": 124,
+		"type": ["Water"]
+	},
+	{
+		"name": "Kingler",
+		"number": 99,
+		"hp": 146,
+		"attack": 240,
+		"defense": 181,
+		"type": ["Water"]
+	},
+	{
+		"name": "Voltorb",
+		"number": 100,
+		"hp": 120,
+		"attack": 109,
+		"defense": 111,
+		"type": ["Electric"]
+	},
+	{
+		"name": "Electrode",
+		"number": 101,
+		"hp": 155,
+		"attack": 173,
+		"defense": 173,
+		"type": ["Electric"]
+	},
+	{
+		"name": "Exeggcute",
+		"number": 102,
+		"hp": 155,
+		"attack": 107,
+		"defense": 125,
+		"type": ["Grass", "Psychic"]
+	},
+	{
+		"name": "Exeggutor",
+		"number": 103,
+		"hp": 216,
+		"attack": 233,
+		"defense": 149,
+		"type": ["Grass", "Psychic"]
+	},
+	{
+		"name": "Alolan Exeggutor",
+		"number": 103,
+		"hp": 216,
+		"attack": 230,
+		"defense": 153,
+		"type": ["Grass", "Dragon"]
+	},
+	{
+		"name": "Cubone",
+		"number": 104,
+		"hp": 137,
+		"attack": 90,
+		"defense": 144,
+		"type": ["Ground"]
+	},
+	{
+		"name": "Marowak",
+		"number": 105,
+		"hp": 155,
+		"attack": 144,
+		"defense": 186,
+		"type": ["Ground"]
+	},
+	{
+		"name": "Alolan Marowak",
+		"number": 105,
+		"hp": 155,
+		"attack": 144,
+		"defense": 186,
+		"type": ["Fire", "Ghost"]
+	},
+	{
+		"name": "Hitmonlee",
+		"number": 106,
+		"hp": 137,
+		"attack": 224,
+		"defense": 181,
+		"type": ["Fighting"]
+	},
+	{
+		"name": "Hitmonchan",
+		"number": 107,
+		"hp": 137,
+		"attack": 193,
+		"defense": 197,
+		"type": ["Fighting"]
+	},
+	{
+		"name": "Lickitung",
+		"number": 108,
+		"hp": 207,
+		"attack": 108,
+		"defense": 137,
+		"type": ["Normal"]
+	},
+	{
+		"name": "Koffing",
+		"number": 109,
+		"hp": 120,
+		"attack": 119,
+		"defense": 141,
+		"type": ["Poison"]
+	},
+	{
+		"name": "Weezing",
+		"number": 110,
+		"hp": 163,
+		"attack": 174,
+		"defense": 197,
+		"type": ["Poison"]
+	},
+	{
+		"name": "Galarian Weezing",
+		"number": 110,
+		"hp": 163,
+		"attack": 174,
+		"defense": 197,
+		"type": ["Fairy", "Poison"]
+	},
+	{
+		"name": "Rhyhorn",
+		"number": 111,
+		"hp": 190,
+		"attack": 140,
+		"defense": 127,
+		"type": ["Ground", "Rock"]
+	},
+	{
+		"name": "Rhydon",
+		"number": 112,
+		"hp": 233,
+		"attack": 222,
+		"defense": 171,
+		"type": ["Ground", "Rock"]
+	},
+	{
+		"name": "Chansey",
+		"number": 113,
+		"hp": 487,
+		"attack": 60,
+		"defense": 128,
+		"type": ["Normal"]
+	},
+	{
+		"name": "Tangela",
+		"number": 114,
+		"hp": 163,
+		"attack": 183,
+		"defense": 169,
+		"type": ["Grass"]
+	},
+	{
+		"name": "Kangaskhan",
+		"number": 115,
+		"hp": 233,
+		"attack": 181,
+		"defense": 165,
+		"type": ["Normal"]
+	},
+	{
+		"name": "Horsea",
+		"number": 116,
+		"hp": 102,
+		"attack": 129,
+		"defense": 103,
+		"type": ["Water"]
+	},
+	{
+		"name": "Seadra",
+		"number": 117,
+		"hp": 146,
+		"attack": 187,
+		"defense": 156,
+		"type": ["Water"]
+	},
+	{
+		"name": "Goldeen",
+		"number": 118,
+		"hp": 128,
+		"attack": 123,
+		"defense": 110,
+		"type": ["Water"]
+	},
+	{
+		"name": "Seaking",
+		"number": 119,
+		"hp": 190,
+		"attack": 175,
+		"defense": 147,
+		"type": ["Water"]
+	},
+	{
+		"name": "Staryu",
+		"number": 120,
+		"hp": 102,
+		"attack": 137,
+		"defense": 112,
+		"type": ["Water"]
+	},
+	{
+		"name": "Starmie",
+		"number": 121,
+		"hp": 155,
+		"attack": 210,
+		"defense": 184,
+		"type": ["Water", "Psychic"]
+	},
+	{
+		"name": "Mr. Mime",
+		"number": 122,
+		"hp": 120,
+		"attack": 192,
+		"defense": 205,
+		"type": ["Psychic", "Fairy"]
+	},
+	{
+		"name": "Scyther",
+		"number": 123,
+		"hp": 172,
+		"attack": 218,
+		"defense": 170,
+		"type": ["Bug", "Flying"]
+	},
+	{
+		"name": "Jynx",
+		"number": 124,
+		"hp": 163,
+		"attack": 223,
+		"defense": 151,
+		"type": ["Ice", "Psychic"]
+	},
+	{
+		"name": "Electabuzz",
+		"number": 125,
+		"hp": 163,
+		"attack": 198,
+		"defense": 158,
+		"type": ["Electric"]
+	},
+	{
+		"name": "Magmar",
+		"number": 126,
+		"hp": 163,
+		"attack": 206,
+		"defense": 154,
+		"type": ["Fire"]
+	},
+	{
+		"name": "Pinsir",
+		"number": 127,
+		"hp": 163,
+		"attack": 238,
+		"defense": 182,
+		"type": ["Bug"]
+	},
+	{
+		"name": "Tauros",
+		"number": 128,
+		"hp": 181,
+		"attack": 198,
+		"defense": 183,
+		"type": ["Normal"]
+	},
+	{
+		"name": "Magikarp",
+		"number": 129,
+		"hp": 85,
+		"attack": 29,
+		"defense": 85,
+		"type": ["Water"]
+	},
+	{
+		"name": "Gyarados",
+		"number": 130,
+		"hp": 216,
+		"attack": 237,
+		"defense": 186,
+		"type": ["Water", "Flying"]
+	},
+	{
+		"name": "Lapras",
+		"number": 131,
+		"hp": 277,
+		"attack": 165,
+		"defense": 174,
+		"type": ["Water", "Ice"]
+	},
+	{
+		"name": "Ditto",
+		"number": 132,
+		"hp": 134,
+		"attack": 91,
+		"defense": 91,
+		"type": ["Normal"]
+	},
+	{
+		"name": "Eevee",
+		"number": 133,
+		"hp": 146,
+		"attack": 104,
+		"defense": 114,
+		"type": ["Normal"]
+	},
+	{
+		"name": "Vaporeon",
+		"number": 134,
+		"hp": 277,
+		"attack": 205,
+		"defense": 161,
+		"type": ["Water"]
+	},
+	{
+		"name": "Jolteon",
+		"number": 135,
+		"hp": 163,
+		"attack": 232,
+		"defense": 182,
+		"type": ["Electric"]
+	},
+	{
+		"name": "Flareon",
+		"number": 136,
+		"hp": 163,
+		"attack": 246,
+		"defense": 179,
+		"type": ["Fire"]
+	},
+	{
+		"name": "Porygon",
+		"number": 137,
+		"hp": 163,
+		"attack": 153,
+		"defense": 136,
+		"type": ["Normal"]
+	},
+	{
+		"name": "Omanyte",
+		"number": 138,
+		"hp": 111,
+		"attack": 155,
+		"defense": 153,
+		"type": ["Rock", "Water"]
+	},
+	{
+		"name": "Omastar",
+		"number": 139,
+		"hp": 172,
+		"attack": 207,
+		"defense": 201,
+		"type": ["Rock", "Water"]
+	},
+	{
+		"name": "Kabuto",
+		"number": 140,
+		"hp": 102,
+		"attack": 148,
+		"defense": 140,
+		"type": ["Rock", "Water"]
+	},
+	{
+		"name": "Kabutops",
+		"number": 141,
+		"hp": 155,
+		"attack": 220,
+		"defense": 186,
+		"type": ["Rock", "Water"]
+	},
+	{
+		"name": "Aerodactyl",
+		"number": 142,
+		"hp": 190,
+		"attack": 221,
+		"defense": 159,
+		"type": ["Rock", "Flying"]
+	},
+	{
+		"name": "Snorlax",
+		"number": 143,
+		"hp": 330,
+		"attack": 190,
+		"defense": 169,
+		"type": ["Normal"]
+	},
+	{
+		"name": "Articuno",
+		"number": 144,
+		"hp": 207,
+		"attack": 192,
+		"defense": 236,
+		"type": ["Ice", "Flying"]
+	},
+	{
+		"name": "Zapdos",
+		"number": 145,
+		"hp": 207,
+		"attack": 253,
+		"defense": 185,
+		"type": ["Electric", "Flying"]
+	},
+	{
+		"name": "Moltres",
+		"number": 146,
+		"hp": 207,
+		"attack": 251,
+		"defense": 181,
+		"type": ["Fire", "Flying"]
+	},
+	{
+		"name": "Dratini",
+		"number": 147,
+		"hp": 121,
+		"attack": 119,
+		"defense": 91,
+		"type": ["Dragon"]
+	},
+	{
+		"name": "Dragonair",
+		"number": 148,
+		"hp": 156,
+		"attack": 163,
+		"defense": 135,
+		"type": ["Dragon"]
+	},
+	{
+		"name": "Dragonite",
+		"number": 149,
+		"hp": 209,
+		"attack": 263,
+		"defense": 198,
+		"type": ["Dragon", "Flying"]
+	},
+	{
+		"name": "Mewtwo",
+		"number": 150,
+		"hp": 214,
+		"attack": 300,
+		"defense": 182,
+		"type": ["Psychic"]
+	},
+	{
+		"name": "Armored Mewtwo",
+		"number": 150,
+		"hp": 214,
+		"attack": 182,
+		"defense": 278,
+		"type": ["Psychic"]
+	},
+	{
+		"name": "Mew",
+		"number": 151,
+		"hp": 225,
+		"attack": 210,
+		"defense": 210,
+		"type": ["Psychic"]
+	},
+	{
+		"name": "Chikorita",
+		"number": 152,
+		"hp": 128,
+		"attack": 92,
+		"defense": 122,
+		"type": ["Grass"]
+	},
+	{
+		"name": "Bayleef",
+		"number": 153,
+		"hp": 155,
+		"attack": 122,
+		"defense": 155,
+		"type": ["Grass"]
+	},
+	{
+		"name": "Meganium",
+		"number": 154,
+		"hp": 190,
+		"attack": 168,
+		"defense": 202,
+		"type": ["Grass"]
+	},
+	{
+		"name": "Cyndaquil",
+		"number": 155,
+		"hp": 118,
+		"attack": 116,
+		"defense": 93,
+		"type": ["Fire"]
+	},
+	{
+		"name": "Quilava",
+		"number": 156,
+		"hp": 151,
+		"attack": 158,
+		"defense": 126,
+		"type": ["Fire"]
+	},
+	{
+		"name": "Typhlosion",
+		"number": 157,
+		"hp": 186,
+		"attack": 223,
+		"defense": 173,
+		"type": ["Fire"]
+	},
+	{
+		"name": "Totodile",
+		"number": 158,
+		"hp": 137,
+		"attack": 117,
+		"defense": 109,
+		"type": ["Water"]
+	},
+	{
+		"name": "Croconaw",
+		"number": 159,
+		"hp": 163,
+		"attack": 150,
+		"defense": 142,
+		"type": ["Water"]
+	},
+	{
+		"name": "Feraligatr",
+		"number": 160,
+		"hp": 198,
+		"attack": 205,
+		"defense": 188,
+		"type": ["Water"]
+	},
+	{
+		"name": "Sentret",
+		"number": 161,
+		"hp": 111,
+		"attack": 79,
+		"defense": 73,
+		"type": ["Normal"]
+	},
+	{
+		"name": "Furret",
+		"number": 162,
+		"hp": 198,
+		"attack": 148,
+		"defense": 125,
+		"type": ["Normal"]
+	},
+	{
+		"name": "Hoothoot",
+		"number": 163,
+		"hp": 155,
+		"attack": 67,
+		"defense": 88,
+		"type": ["Normal", "Flying"]
+	},
+	{
+		"name": "Noctowl",
+		"number": 164,
+		"hp": 225,
+		"attack": 145,
+		"defense": 156,
+		"type": ["Normal", "Flying"]
+	},
+	{
+		"name": "Ledyba",
+		"number": 165,
+		"hp": 120,
+		"attack": 72,
+		"defense": 118,
+		"type": ["Bug", "Flying"]
+	},
+	{
+		"name": "Ledian",
+		"number": 166,
+		"hp": 146,
+		"attack": 107,
+		"defense": 179,
+		"type": ["Bug", "Flying"]
+	},
+	{
+		"name": "Spinarak",
+		"number": 167,
+		"hp": 120,
+		"attack": 105,
+		"defense": 73,
+		"type": ["Bug", "Poison"]
+	},
+	{
+		"name": "Ariados",
+		"number": 168,
+		"hp": 172,
+		"attack": 161,
+		"defense": 124,
+		"type": ["Bug", "Poison"]
+	},
+	{
+		"name": "Crobat",
+		"number": 169,
+		"hp": 198,
+		"attack": 194,
+		"defense": 178,
+		"type": ["Poison", "Flying"]
+	},
+	{
+		"name": "Chinchou",
+		"number": 170,
+		"hp": 181,
+		"attack": 106,
+		"defense": 97,
+		"type": ["Water", "Electric"]
+	},
+	{
+		"name": "Lanturn",
+		"number": 171,
+		"hp": 268,
+		"attack": 146,
+		"defense": 137,
+		"type": ["Water", "Electric"]
+	},
+	{
+		"name": "Pichu",
+		"number": 172,
+		"hp": 85,
+		"attack": 77,
+		"defense": 53,
+		"type": ["Electric"]
+	},
+	{
+		"name": "Cleffa",
+		"number": 173,
+		"hp": 137,
+		"attack": 75,
+		"defense": 79,
+		"type": ["Fairy"]
+	},
+	{
+		"name": "Igglybuff",
+		"number": 174,
+		"hp": 207,
+		"attack": 69,
+		"defense": 32,
+		"type": ["Normal", "Fairy"]
+	},
+	{
+		"name": "Togepi",
+		"number": 175,
+		"hp": 111,
+		"attack": 67,
+		"defense": 116,
+		"type": ["Fairy"]
+	},
+	{
+		"name": "Togetic",
+		"number": 176,
+		"hp": 146,
+		"attack": 139,
+		"defense": 181,
+		"type": ["Fairy", "Flying"]
+	},
+	{
+		"name": "Natu",
+		"number": 177,
+		"hp": 120,
+		"attack": 134,
+		"defense": 89,
+		"type": ["Psychic", "Flying"]
+	},
+	{
+		"name": "Xatu",
+		"number": 178,
+		"hp": 163,
+		"attack": 192,
+		"defense": 146,
+		"type": ["Psychic", "Flying"]
+	},
+	{
+		"name": "Mareep",
+		"number": 179,
+		"hp": 146,
+		"attack": 114,
+		"defense": 79,
+		"type": ["Electric"]
+	},
+	{
+		"name": "Flaaffy",
+		"number": 180,
+		"hp": 172,
+		"attack": 145,
+		"defense": 109,
+		"type": ["Electric"]
+	},
+	{
+		"name": "Ampharos",
+		"number": 181,
+		"hp": 207,
+		"attack": 211,
+		"defense": 169,
+		"type": ["Electric"]
+	},
+	{
+		"name": "Bellossom",
+		"number": 182,
+		"hp": 181,
+		"attack": 169,
+		"defense": 186,
+		"type": ["Grass"]
+	},
+	{
+		"name": "Marill",
+		"number": 183,
+		"hp": 172,
+		"attack": 37,
+		"defense": 93,
+		"type": ["Water", "Fairy"]
+	},
+	{
+		"name": "Azumarill",
+		"number": 184,
+		"hp": 225,
+		"attack": 112,
+		"defense": 152,
+		"type": ["Water", "Fairy"]
+	},
+	{
+		"name": "Sudowoodo",
+		"number": 185,
+		"hp": 172,
+		"attack": 167,
+		"defense": 176,
+		"type": ["Rock"]
+	},
+	{
+		"name": "Politoed",
+		"number": 186,
+		"hp": 207,
+		"attack": 174,
+		"defense": 179,
+		"type": ["Water"]
+	},
+	{
+		"name": "Hoppip",
+		"number": 187,
+		"hp": 111,
+		"attack": 67,
+		"defense": 94,
+		"type": ["Grass", "Flying"]
+	},
+	{
+		"name": "Skiploom",
+		"number": 188,
+		"hp": 146,
+		"attack": 91,
+		"defense": 120,
+		"type": ["Grass", "Flying"]
+	},
+	{
+		"name": "Jumpluff",
+		"number": 189,
+		"hp": 181,
+		"attack": 118,
+		"defense": 183,
+		"type": ["Grass", "Flying"]
+	},
+	{
+		"name": "Aipom",
+		"number": 190,
+		"hp": 146,
+		"attack": 136,
+		"defense": 112,
+		"type": ["Normal"]
+	},
+	{
+		"name": "Sunkern",
+		"number": 191,
+		"hp": 102,
+		"attack": 55,
+		"defense": 55,
+		"type": ["Grass"]
+	},
+	{
+		"name": "Sunflora",
+		"number": 192,
+		"hp": 181,
+		"attack": 185,
+		"defense": 135,
+		"type": ["Grass"]
+	},
+	{
+		"name": "Yanma",
+		"number": 193,
+		"hp": 163,
+		"attack": 154,
+		"defense": 94,
+		"type": ["Bug", "Flying"]
+	},
+	{
+		"name": "Wooper",
+		"number": 194,
+		"hp": 146,
+		"attack": 75,
+		"defense": 66,
+		"type": ["Water", "Ground"]
+	},
+	{
+		"name": "Quagsire",
+		"number": 195,
+		"hp": 216,
+		"attack": 152,
+		"defense": 143,
+		"type": ["Water", "Ground"]
+	},
+	{
+		"name": "Espeon",
+		"number": 196,
+		"hp": 163,
+		"attack": 261,
+		"defense": 175,
+		"type": ["Psychic"]
+	},
+	{
+		"name": "Umbreon",
+		"number": 197,
+		"hp": 216,
+		"attack": 126,
+		"defense": 240,
+		"type": ["Dark"]
+	},
+	{
+		"name": "Murkrow",
+		"number": 198,
+		"hp": 155,
+		"attack": 175,
+		"defense": 87,
+		"type": ["Dark", "Flying"]
+	},
+	{
+		"name": "Slowking",
+		"number": 199,
+		"hp": 216,
+		"attack": 177,
+		"defense": 180,
+		"type": ["Water", "Psychic"]
+	},
+	{
+		"name": "Misdreavus",
+		"number": 200,
+		"hp": 155,
+		"attack": 167,
+		"defense": 154,
+		"type": ["Ghost"]
+	},
+	{
+		"name": "Unown",
+		"number": 201,
+		"hp": 134,
+		"attack": 136,
+		"defense": 91,
+		"type": ["Psychic"]
+	},
+	{
+		"name": "Wobbuffet",
+		"number": 202,
+		"hp": 382,
+		"attack": 60,
+		"defense": 106,
+		"type": ["Psychic"]
+	},
+	{
+		"name": "Girafarig",
+		"number": 203,
+		"hp": 172,
+		"attack": 182,
+		"defense": 133,
+		"type": ["Normal", "Psychic"]
+	},
+	{
+		"name": "Pineco",
+		"number": 204,
+		"hp": 137,
+		"attack": 108,
+		"defense": 122,
+		"type": ["Bug"]
+	},
+	{
+		"name": "Forretress",
+		"number": 205,
+		"hp": 181,
+		"attack": 161,
+		"defense": 205,
+		"type": ["Bug", "Steel"]
+	},
+	{
+		"name": "Dunsparce",
+		"number": 206,
+		"hp": 225,
+		"attack": 131,
+		"defense": 128,
+		"type": ["Normal"]
+	},
+	{
+		"name": "Gligar",
+		"number": 207,
+		"hp": 163,
+		"attack": 143,
+		"defense": 184,
+		"type": ["Ground", "Flying"]
+	},
+	{
+		"name": "Steelix",
+		"number": 208,
+		"hp": 181,
+		"attack": 148,
+		"defense": 272,
+		"type": ["Steel", "Ground"]
+	},
+	{
+		"name": "Snubbull",
+		"number": 209,
+		"hp": 155,
+		"attack": 137,
+		"defense": 85,
+		"type": ["Fairy"]
+	},
+	{
+		"name": "Granbull",
+		"number": 210,
+		"hp": 207,
+		"attack": 212,
+		"defense": 131,
+		"type": ["Fairy"]
+	},
+	{
+		"name": "Qwilfish",
+		"number": 211,
+		"hp": 163,
+		"attack": 184,
+		"defense": 138,
+		"type": ["Water", "Poison"]
+	},
+	{
+		"name": "Scizor",
+		"number": 212,
+		"hp": 172,
+		"attack": 236,
+		"defense": 181,
+		"type": ["Bug", "Steel"]
+	},
+	{
+		"name": "Shuckle",
+		"number": 213,
+		"hp": 85,
+		"attack": 17,
+		"defense": 396,
+		"type": ["Bug", "Rock"]
+	},
+	{
+		"name": "Heracross",
+		"number": 214,
+		"hp": 190,
+		"attack": 234,
+		"defense": 179,
+		"type": ["Bug", "Fighting"]
+	},
+	{
+		"name": "Sneasel",
+		"number": 215,
+		"hp": 146,
+		"attack": 189,
+		"defense": 146,
+		"type": ["Dark", "Ice"]
+	},
+	{
+		"name": "Teddiursa",
+		"number": 216,
+		"hp": 155,
+		"attack": 142,
+		"defense": 93,
+		"type": ["Normal"]
+	},
+	{
+		"name": "Ursaring",
+		"number": 217,
+		"hp": 207,
+		"attack": 236,
+		"defense": 144,
+		"type": ["Normal"]
+	},
+	{
+		"name": "Slugma",
+		"number": 218,
+		"hp": 120,
+		"attack": 118,
+		"defense": 71,
+		"type": ["Fire"]
+	},
+	{
+		"name": "Magcargo",
+		"number": 219,
+		"hp": 137,
+		"attack": 139,
+		"defense": 191,
+		"type": ["Fire", "Rock"]
+	},
+	{
+		"name": "Swinub",
+		"number": 220,
+		"hp": 137,
+		"attack": 90,
+		"defense": 69,
+		"type": ["Ice", "Ground"]
+	},
+	{
+		"name": "Piloswine",
+		"number": 221,
+		"hp": 225,
+		"attack": 181,
+		"defense": 138,
+		"type": ["Ice", "Ground"]
+	},
+	{
+		"name": "Corsola",
+		"number": 222,
+		"hp": 146,
+		"attack": 118,
+		"defense": 156,
+		"type": ["Water", "Rock"]
+	},
+	{
+		"name": "Remoraid",
+		"number": 223,
+		"hp": 111,
+		"attack": 127,
+		"defense": 69,
+		"type": ["Water"]
+	},
+	{
+		"name": "Octillery",
+		"number": 224,
+		"hp": 181,
+		"attack": 197,
+		"defense": 141,
+		"type": ["Water"]
+	},
+	{
+		"name": "Delibird",
+		"number": 225,
+		"hp": 128,
+		"attack": 128,
+		"defense": 90,
+		"type": ["Ice", "Flying"]
+	},
+	{
+		"name": "Mantine",
+		"number": 226,
+		"hp": 163,
+		"attack": 148,
+		"defense": 226,
+		"type": ["Water", "Flying"]
+	},
+	{
+		"name": "Skarmory",
+		"number": 227,
+		"hp": 163,
+		"attack": 148,
+		"defense": 226,
+		"type": ["Steel", "Flying"]
+	},
+	{
+		"name": "Houndour",
+		"number": 228,
+		"hp": 128,
+		"attack": 152,
+		"defense": 83,
+		"type": ["Dark", "Fire"]
+	},
+	{
+		"name": "Houndoom",
+		"number": 229,
+		"hp": 181,
+		"attack": 224,
+		"defense": 144,
+		"type": ["Dark", "Fire"]
+	},
+	{
+		"name": "Kingdra",
+		"number": 230,
+		"hp": 181,
+		"attack": 194,
+		"defense": 194,
+		"type": ["Water", "Dragon"]
+	},
+	{
+		"name": "Phanpy",
+		"number": 231,
+		"hp": 207,
+		"attack": 107,
+		"defense": 98,
+		"type": ["Ground"]
+	},
+	{
+		"name": "Donphan",
+		"number": 232,
+		"hp": 207,
+		"attack": 214,
+		"defense": 185,
+		"type": ["Ground"]
+	},
+	{
+		"name": "Porygon2",
+		"number": 233,
+		"hp": 198,
+		"attack": 198,
+		"defense": 180,
+		"type": ["Normal"]
+	},
+	{
+		"name": "Stantler",
+		"number": 234,
+		"hp": 177,
+		"attack": 192,
+		"defense": 131,
+		"type": ["Normal"]
+	},
+	{
+		"name": "Smeargle",
+		"number": 235,
+		"hp": 146,
+		"attack": 40,
+		"defense": 83,
+		"type": ["Normal"]
+	},
+	{
+		"name": "Tyrogue",
+		"number": 236,
+		"hp": 111,
+		"attack": 64,
+		"defense": 64,
+		"type": ["Fighting"]
+	},
+	{
+		"name": "Hitmontop",
+		"number": 237,
+		"hp": 137,
+		"attack": 173,
+		"defense": 207,
+		"type": ["Fighting"]
+	},
+	{
+		"name": "Smoochum",
+		"number": 238,
+		"hp": 128,
+		"attack": 153,
+		"defense": 91,
+		"type": ["Ice", "Psychic"]
+	},
+	{
+		"name": "Elekid",
+		"number": 239,
+		"hp": 128,
+		"attack": 135,
+		"defense": 101,
+		"type": ["Electric"]
+	},
+	{
+		"name": "Magby",
+		"number": 240,
+		"hp": 128,
+		"attack": 151,
+		"defense": 99,
+		"type": ["Fire"]
+	},
+	{
+		"name": "Miltank",
+		"number": 241,
+		"hp": 216,
+		"attack": 157,
+		"defense": 193,
+		"type": ["Normal"]
+	},
+	{
+		"name": "Blissey",
+		"number": 242,
+		"hp": 496,
+		"attack": 129,
+		"defense": 169,
+		"type": ["Normal"]
+	},
+	{
+		"name": "Raikou",
+		"number": 243,
+		"hp": 207,
+		"attack": 241,
+		"defense": 195,
+		"type": ["Electric"]
+	},
+	{
+		"name": "Entei",
+		"number": 244,
+		"hp": 251,
+		"attack": 235,
+		"defense": 171,
+		"type": ["Fire"]
+	},
+	{
+		"name": "Suicune",
+		"number": 245,
+		"hp": 225,
+		"attack": 180,
+		"defense": 235,
+		"type": ["Water"]
+	},
+	{
+		"name": "Larvitar",
+		"number": 246,
+		"hp": 137,
+		"attack": 115,
+		"defense": 93,
+		"type": ["Rock", "Ground"]
+	},
+	{
+		"name": "Pupitar",
+		"number": 247,
+		"hp": 172,
+		"attack": 155,
+		"defense": 133,
+		"type": ["Rock", "Ground"]
+	},
+	{
+		"name": "Tyranitar",
+		"number": 248,
+		"hp": 225,
+		"attack": 251,
+		"defense": 207,
+		"type": ["Rock", "Dark"]
+	},
+	{
+		"name": "Lugia",
+		"number": 249,
+		"hp": 235,
+		"attack": 193,
+		"defense": 310,
+		"type": ["Psychic", "Flying"]
+	},
+	{
+		"name": "Ho-Oh",
+		"number": 250,
+		"hp": 214,
+		"attack": 239,
+		"defense": 244,
+		"type": ["Fire", "Flying"]
+	},
+	{
+		"name": "Celebi",
+		"number": 251,
+		"hp": 225,
+		"attack": 210,
+		"defense": 210,
+		"type": ["Psychic", "Grass"]
+	},
+	{
+		"name": "Treecko",
+		"number": 252,
+		"hp": 120,
+		"attack": 124,
+		"defense": 94,
+		"type": ["Grass"]
+	},
+	{
+		"name": "Grovyle",
+		"number": 253,
+		"hp": 137,
+		"attack": 172,
+		"defense": 120,
+		"type": ["Grass"]
+	},
+	{
+		"name": "Sceptile",
+		"number": 254,
+		"hp": 172,
+		"attack": 223,
+		"defense": 169,
+		"type": ["Grass"]
+	},
+	{
+		"name": "Torchic",
+		"number": 255,
+		"hp": 128,
+		"attack": 130,
+		"defense": 87,
+		"type": ["Fire"]
+	},
+	{
+		"name": "Combusken",
+		"number": 256,
+		"hp": 155,
+		"attack": 163,
+		"defense": 115,
+		"type": ["Fire", "Fighting"]
+	},
+	{
+		"name": "Blaziken",
+		"number": 257,
+		"hp": 190,
+		"attack": 240,
+		"defense": 141,
+		"type": ["Fire", "Fighting"]
+	},
+	{
+		"name": "Mudkip",
+		"number": 258,
+		"hp": 137,
+		"attack": 126,
+		"defense": 93,
+		"type": ["Water"]
+	},
+	{
+		"name": "Marshtomp",
+		"number": 259,
+		"hp": 172,
+		"attack": 156,
+		"defense": 133,
+		"type": ["Water", "Ground"]
+	},
+	{
+		"name": "Swampert",
+		"number": 260,
+		"hp": 225,
+		"attack": 208,
+		"defense": 175,
+		"type": ["Water", "Ground"]
+	},
+	{
+		"name": "Poochyena",
+		"number": 261,
+		"hp": 111,
+		"attack": 96,
+		"defense": 61,
+		"type": ["Dark"]
+	},
+	{
+		"name": "Mightyena",
+		"number": 262,
+		"hp": 172,
+		"attack": 171,
+		"defense": 132,
+		"type": ["Dark"]
+	},
+	{
+		"name": "Zigzagoon",
+		"number": 263,
+		"hp": 116,
+		"attack": 58,
+		"defense": 80,
+		"type": ["Normal"]
+	},
+	{
+		"name": "Galarian Zigzagoon",
+		"number": 263,
+		"hp": 116,
+		"attack": 58,
+		"defense": 80,
+		"type": ["Normal", "Dark"]
+	},
+	{
+		"name": "Linoone",
+		"number": 264,
+		"hp": 186,
+		"attack": 142,
+		"defense": 128,
+		"type": ["Normal"]
+	},
+	{
+		"name": "Galarian Linoone",
+		"number": 264,
+		"hp": 186,
+		"attack": 142,
+		"defense": 128,
+		"type": ["Normal", "Dark"]
+	},
+	{
+		"name": "Wurmple",
+		"number": 265,
+		"hp": 128,
+		"attack": 75,
+		"defense": 59,
+		"type": ["Bug"]
+	},
+	{
+		"name": "Silcoon",
+		"number": 266,
+		"hp": 137,
+		"attack": 60,
+		"defense": 77,
+		"type": ["Bug"]
+	},
+	{
+		"name": "Beautifly",
+		"number": 267,
+		"hp": 155,
+		"attack": 189,
+		"defense": 98,
+		"type": ["Bug", "Flying"]
+	},
+	{
+		"name": "Cascoon",
+		"number": 268,
+		"hp": 137,
+		"attack": 60,
+		"defense": 77,
+		"type": ["Bug"]
+	},
+	{
+		"name": "Dustox",
+		"number": 269,
+		"hp": 155,
+		"attack": 98,
+		"defense": 162,
+		"type": ["Bug", "Poison"]
+	},
+	{
+		"name": "Lotad",
+		"number": 270,
+		"hp": 120,
+		"attack": 71,
+		"defense": 77,
+		"type": ["Water", "Grass"]
+	},
+	{
+		"name": "Lombre",
+		"number": 271,
+		"hp": 155,
+		"attack": 112,
+		"defense": 119,
+		"type": ["Water", "Grass"]
+	},
+	{
+		"name": "Ludicolo",
+		"number": 272,
+		"hp": 190,
+		"attack": 173,
+		"defense": 176,
+		"type": ["Water", "Grass"]
+	},
+	{
+		"name": "Seedot",
+		"number": 273,
+		"hp": 120,
+		"attack": 71,
+		"defense": 77,
+		"type": ["Grass"]
+	},
+	{
+		"name": "Nuzleaf",
+		"number": 274,
+		"hp": 172,
+		"attack": 134,
+		"defense": 78,
+		"type": ["Grass", "Dark"]
+	},
+	{
+		"name": "Shiftry",
+		"number": 275,
+		"hp": 207,
+		"attack": 200,
+		"defense": 121,
+		"type": ["Grass", "Dark"]
+	},
+	{
+		"name": "Taillow",
+		"number": 276,
+		"hp": 120,
+		"attack": 106,
+		"defense": 61,
+		"type": ["Normal", "Flying"]
+	},
+	{
+		"name": "Swellow",
+		"number": 277,
+		"hp": 155,
+		"attack": 185,
+		"defense": 124,
+		"type": ["Normal", "Flying"]
+	},
+	{
+		"name": "Wingull",
+		"number": 278,
+		"hp": 120,
+		"attack": 106,
+		"defense": 61,
+		"type": ["Water", "Flying"]
+	},
+	{
+		"name": "Pelipper",
+		"number": 279,
+		"hp": 155,
+		"attack": 175,
+		"defense": 174,
+		"type": ["Water", "Flying"]
+	},
+	{
+		"name": "Ralts",
+		"number": 280,
+		"hp": 99,
+		"attack": 79,
+		"defense": 59,
+		"type": ["Psychic", "Fairy"]
+	},
+	{
+		"name": "Kirlia",
+		"number": 281,
+		"hp": 116,
+		"attack": 117,
+		"defense": 90,
+		"type": ["Psychic", "Fairy"]
+	},
+	{
+		"name": "Gardevoir",
+		"number": 282,
+		"hp": 169,
+		"attack": 237,
+		"defense": 195,
+		"type": ["Psychic", "Fairy"]
+	},
+	{
+		"name": "Surskit",
+		"number": 283,
+		"hp": 120,
+		"attack": 93,
+		"defense": 87,
+		"type": ["Bug", "Water"]
+	},
+	{
+		"name": "Masquerain",
+		"number": 284,
+		"hp": 172,
+		"attack": 192,
+		"defense": 150,
+		"type": ["Bug", "Flying"]
+	},
+	{
+		"name": "Shroomish",
+		"number": 285,
+		"hp": 155,
+		"attack": 74,
+		"defense": 110,
+		"type": ["Grass"]
+	},
+	{
+		"name": "Breloom",
+		"number": 286,
+		"hp": 155,
+		"attack": 241,
+		"defense": 144,
+		"type": ["Grass", "Fighting"]
+	},
+	{
+		"name": "Slakoth",
+		"number": 287,
+		"hp": 155,
+		"attack": 104,
+		"defense": 92,
+		"type": ["Normal"]
+	},
+	{
+		"name": "Vigoroth",
+		"number": 288,
+		"hp": 190,
+		"attack": 159,
+		"defense": 145,
+		"type": ["Normal"]
+	},
+	{
+		"name": "Slaking",
+		"number": 289,
+		"hp": 284,
+		"attack": 290,
+		"defense": 166,
+		"type": ["Normal"]
+	},
+	{
+		"name": "Nincada",
+		"number": 290,
+		"hp": 104,
+		"attack": 80,
+		"defense": 126,
+		"type": ["Bug", "Ground"]
+	},
+	{
+		"name": "Ninjask",
+		"number": 291,
+		"hp": 156,
+		"attack": 199,
+		"defense": 112,
+		"type": ["Bug", "Flying"]
+	},
+	{
+		"name": "Shedinja",
+		"number": 292,
+		"hp": 1,
+		"attack": 153,
+		"defense": 73,
+		"type": ["Bug", "Ghost"]
+	},
+	{
+		"name": "Whismur",
+		"number": 293,
+		"hp": 162,
+		"attack": 92,
+		"defense": 42,
+		"type": ["Normal"]
+	},
+	{
+		"name": "Loudred",
+		"number": 294,
+		"hp": 197,
+		"attack": 134,
+		"defense": 81,
+		"type": ["Normal"]
+	},
+	{
+		"name": "Exploud",
+		"number": 295,
+		"hp": 232,
+		"attack": 179,
+		"defense": 137,
+		"type": ["Normal"]
+	},
+	{
+		"name": "Makuhita",
+		"number": 296,
+		"hp": 176,
+		"attack": 99,
+		"defense": 54,
+		"type": ["Fighting"]
+	},
+	{
+		"name": "Hariyama",
+		"number": 297,
+		"hp": 302,
+		"attack": 209,
+		"defense": 114,
+		"type": ["Fighting"]
+	},
+	{
+		"name": "Azurill",
+		"number": 298,
+		"hp": 137,
+		"attack": 36,
+		"defense": 71,
+		"type": ["Normal", "Fairy"]
+	},
+	{
+		"name": "Nosepass",
+		"number": 299,
+		"hp": 102,
+		"attack": 82,
+		"defense": 215,
+		"type": ["Rock"]
+	},
+	{
+		"name": "Skitty",
+		"number": 300,
+		"hp": 137,
+		"attack": 84,
+		"defense": 79,
+		"type": ["Normal"]
+	},
+	{
+		"name": "Delcatty",
+		"number": 301,
+		"hp": 172,
+		"attack": 132,
+		"defense": 127,
+		"type": ["Normal"]
+	},
+	{
+		"name": "Sableye",
+		"number": 302,
+		"hp": 137,
+		"attack": 141,
+		"defense": 136,
+		"type": ["Dark", "Ghost"]
+	},
+	{
+		"name": "Mawile",
+		"number": 303,
+		"hp": 137,
+		"attack": 155,
+		"defense": 141,
+		"type": ["Steel", "Fairy"]
+	},
+	{
+		"name": "Aron",
+		"number": 304,
+		"hp": 137,
+		"attack": 121,
+		"defense": 141,
+		"type": ["Steel", "Rock"]
+	},
+	{
+		"name": "Lairon",
+		"number": 305,
+		"hp": 155,
+		"attack": 158,
+		"defense": 198,
+		"type": ["Steel", "Rock"]
+	},
+	{
+		"name": "Aggron",
+		"number": 306,
+		"hp": 172,
+		"attack": 198,
+		"defense": 257,
+		"type": ["Steel", "Rock"]
+	},
+	{
+		"name": "Meditite",
+		"number": 307,
+		"hp": 102,
+		"attack": 78,
+		"defense": 107,
+		"type": ["Fighting", "Psychic"]
+	},
+	{
+		"name": "Medicham",
+		"number": 308,
+		"hp": 155,
+		"attack": 121,
+		"defense": 152,
+		"type": ["Fighting", "Psychic"]
+	},
+	{
+		"name": "Electrike",
+		"number": 309,
+		"hp": 120,
+		"attack": 123,
+		"defense": 78,
+		"type": ["Electric"]
+	},
+	{
+		"name": "Manectric",
+		"number": 310,
+		"hp": 172,
+		"attack": 215,
+		"defense": 127,
+		"type": ["Electric"]
+	},
+	{
+		"name": "Plusle",
+		"number": 311,
+		"hp": 155,
+		"attack": 167,
+		"defense": 129,
+		"type": ["Electric"]
+	},
+	{
+		"name": "Minun",
+		"number": 312,
+		"hp": 155,
+		"attack": 147,
+		"defense": 150,
+		"type": ["Electric"]
+	},
+	{
+		"name": "Volbeat",
+		"number": 313,
+		"hp": 163,
+		"attack": 143,
+		"defense": 166,
+		"type": ["Bug"]
+	},
+	{
+		"name": "Illumise",
+		"number": 314,
+		"hp": 163,
+		"attack": 143,
+		"defense": 166,
+		"type": ["Bug"]
+	},
+	{
+		"name": "Roselia",
+		"number": 315,
+		"hp": 137,
+		"attack": 186,
+		"defense": 131,
+		"type": ["Grass", "Poison"]
+	},
+	{
+		"name": "Gulpin",
+		"number": 316,
+		"hp": 172,
+		"attack": 80,
+		"defense": 99,
+		"type": ["Poison"]
+	},
+	{
+		"name": "Swalot",
+		"number": 317,
+		"hp": 225,
+		"attack": 140,
+		"defense": 159,
+		"type": ["Poison"]
+	},
+	{
+		"name": "Carvanha",
+		"number": 318,
+		"hp": 128,
+		"attack": 171,
+		"defense": 39,
+		"type": ["Water", "Dark"]
+	},
+	{
+		"name": "Sharpedo",
+		"number": 319,
+		"hp": 172,
+		"attack": 243,
+		"defense": 83,
+		"type": ["Water", "Dark"]
+	},
+	{
+		"name": "Wailmer",
+		"number": 320,
+		"hp": 277,
+		"attack": 136,
+		"defense": 68,
+		"type": ["Water"]
+	},
+	{
+		"name": "Wailord",
+		"number": 321,
+		"hp": 347,
+		"attack": 175,
+		"defense": 87,
+		"type": ["Water"]
+	},
+	{
+		"name": "Numel",
+		"number": 322,
+		"hp": 155,
+		"attack": 119,
+		"defense": 79,
+		"type": ["Fire", "Ground"]
+	},
+	{
+		"name": "Camerupt",
+		"number": 323,
+		"hp": 172,
+		"attack": 194,
+		"defense": 136,
+		"type": ["Fire", "Ground"]
+	},
+	{
+		"name": "Torkoal",
+		"number": 324,
+		"hp": 172,
+		"attack": 151,
+		"defense": 203,
+		"type": ["Fire"]
+	},
+	{
+		"name": "Spoink",
+		"number": 325,
+		"hp": 155,
+		"attack": 125,
+		"defense": 122,
+		"type": ["Psychic"]
+	},
+	{
+		"name": "Grumpig",
+		"number": 326,
+		"hp": 190,
+		"attack": 171,
+		"defense": 188,
+		"type": ["Psychic"]
+	},
+	{
+		"name": "Spinda",
+		"number": 327,
+		"hp": 155,
+		"attack": 116,
+		"defense": 116,
+		"type": ["Normal"]
+	},
+	{
+		"name": "Trapinch",
+		"number": 328,
+		"hp": 128,
+		"attack": 162,
+		"defense": 78,
+		"type": ["Ground"]
+	},
+	{
+		"name": "Vibrava",
+		"number": 329,
+		"hp": 137,
+		"attack": 134,
+		"defense": 99,
+		"type": ["Ground", "Dragon"]
+	},
+	{
+		"name": "Flygon",
+		"number": 330,
+		"hp": 190,
+		"attack": 205,
+		"defense": 168,
+		"type": ["Ground", "Dragon"]
+	},
+	{
+		"name": "Cacnea",
+		"number": 331,
+		"hp": 137,
+		"attack": 156,
+		"defense": 74,
+		"type": ["Grass"]
+	},
+	{
+		"name": "Cacturne",
+		"number": 332,
+		"hp": 172,
+		"attack": 221,
+		"defense": 115,
+		"type": ["Grass", "Dark"]
+	},
+	{
+		"name": "Swablu",
+		"number": 333,
+		"hp": 128,
+		"attack": 76,
+		"defense": 132,
+		"type": ["Normal", "Flying"]
+	},
+	{
+		"name": "Altaria",
+		"number": 334,
+		"hp": 181,
+		"attack": 141,
+		"defense": 201,
+		"type": ["Dragon", "Flying"]
+	},
+	{
+		"name": "Zangoose",
+		"number": 335,
+		"hp": 177,
+		"attack": 222,
+		"defense": 124,
+		"type": ["Normal"]
+	},
+	{
+		"name": "Seviper",
+		"number": 336,
+		"hp": 177,
+		"attack": 196,
+		"defense": 118,
+		"type": ["Poison"]
+	},
+	{
+		"name": "Lunatone",
+		"number": 337,
+		"hp": 207,
+		"attack": 178,
+		"defense": 153,
+		"type": ["Rock", "Psychic"]
+	},
+	{
+		"name": "Solrock",
+		"number": 338,
+		"hp": 207,
+		"attack": 178,
+		"defense": 153,
+		"type": ["Rock", "Psychic"]
+	},
+	{
+		"name": "Barboach",
+		"number": 339,
+		"hp": 137,
+		"attack": 93,
+		"defense": 82,
+		"type": ["Water", "Ground"]
+	},
+	{
+		"name": "Whiscash",
+		"number": 340,
+		"hp": 242,
+		"attack": 151,
+		"defense": 141,
+		"type": ["Water", "Ground"]
+	},
+	{
+		"name": "Corphish",
+		"number": 341,
+		"hp": 125,
+		"attack": 141,
+		"defense": 99,
+		"type": ["Water"]
+	},
+	{
+		"name": "Crawdaunt",
+		"number": 342,
+		"hp": 160,
+		"attack": 224,
+		"defense": 142,
+		"type": ["Water", "Dark"]
+	},
+	{
+		"name": "Baltoy",
+		"number": 343,
+		"hp": 120,
+		"attack": 77,
+		"defense": 124,
+		"type": ["Ground", "Psychic"]
+	},
+	{
+		"name": "Claydol",
+		"number": 344,
+		"hp": 155,
+		"attack": 140,
+		"defense": 229,
+		"type": ["Ground", "Psychic"]
+	},
+	{
+		"name": "Lileep",
+		"number": 345,
+		"hp": 165,
+		"attack": 105,
+		"defense": 150,
+		"type": ["Rock", "Grass"]
+	},
+	{
+		"name": "Cradily",
+		"number": 346,
+		"hp": 200,
+		"attack": 152,
+		"defense": 194,
+		"type": ["Rock", "Grass"]
+	},
+	{
+		"name": "Anorith",
+		"number": 347,
+		"hp": 128,
+		"attack": 176,
+		"defense": 100,
+		"type": ["Rock", "Bug"]
+	},
+	{
+		"name": "Armaldo",
+		"number": 348,
+		"hp": 181,
+		"attack": 222,
+		"defense": 174,
+		"type": ["Rock", "Bug"]
+	},
+	{
+		"name": "Feebas",
+		"number": 349,
+		"hp": 85,
+		"attack": 29,
+		"defense": 85,
+		"type": ["Water"]
+	},
+	{
+		"name": "Milotic",
+		"number": 350,
+		"hp": 216,
+		"attack": 192,
+		"defense": 219,
+		"type": ["Water"]
+	},
+	{
+		"name": "Castform",
+		"number": 351,
+		"hp": 172,
+		"attack": 139,
+		"defense": 139,
+		"type": ["Normal"]
+	},
+	{
+		"name": "Rainy Castform",
+		"number": 351,
+		"hp": 172,
+		"attack": 139,
+		"defense": 139,
+		"type": ["Water"]
+	},
+	{
+		"name": "Snowy Castform",
+		"number": 351,
+		"hp": 172,
+		"attack": 139,
+		"defense": 139,
+		"type": ["Ice"]
+	},
+	{
+		"name": "Sunny Castform",
+		"number": 351,
+		"hp": 172,
+		"attack": 139,
+		"defense": 139,
+		"type": ["Fire"]
+	},
+	{
+		"name": "Kecleon",
+		"number": 352,
+		"hp": 155,
+		"attack": 161,
+		"defense": 189,
+		"type": ["Normal"]
+	},
+	{
+		"name": "Shuppet",
+		"number": 353,
+		"hp": 127,
+		"attack": 138,
+		"defense": 65,
+		"type": ["Ghost"]
+	},
+	{
+		"name": "Banette",
+		"number": 354,
+		"hp": 162,
+		"attack": 218,
+		"defense": 126,
+		"type": ["Ghost"]
+	},
+	{
+		"name": "Duskull",
+		"number": 355,
+		"hp": 85,
+		"attack": 70,
+		"defense": 162,
+		"type": ["Ghost"]
+	},
+	{
+		"name": "Dusclops",
+		"number": 356,
+		"hp": 120,
+		"attack": 124,
+		"defense": 234,
+		"type": ["Ghost"]
+	},
+	{
+		"name": "Tropius",
+		"number": 357,
+		"hp": 223,
+		"attack": 136,
+		"defense": 163,
+		"type": ["Grass", "Flying"]
+	},
+	{
+		"name": "Chimecho",
+		"number": 358,
+		"hp": 181,
+		"attack": 175,
+		"defense": 170,
+		"type": ["Psychic"]
+	},
+	{
+		"name": "Absol",
+		"number": 359,
+		"hp": 163,
+		"attack": 246,
+		"defense": 120,
+		"type": ["Dark"]
+	},
+	{
+		"name": "Wynaut",
+		"number": 360,
+		"hp": 216,
+		"attack": 41,
+		"defense": 86,
+		"type": ["Psychic"]
+	},
+	{
+		"name": "Snorunt",
+		"number": 361,
+		"hp": 137,
+		"attack": 95,
+		"defense": 95,
+		"type": ["Ice"]
+	},
+	{
+		"name": "Glalie",
+		"number": 362,
+		"hp": 190,
+		"attack": 162,
+		"defense": 162,
+		"type": ["Ice"]
+	},
+	{
+		"name": "Spheal",
+		"number": 363,
+		"hp": 172,
+		"attack": 95,
+		"defense": 90,
+		"type": ["Ice", "Water"]
+	},
+	{
+		"name": "Sealeo",
+		"number": 364,
+		"hp": 207,
+		"attack": 137,
+		"defense": 132,
+		"type": ["Ice", "Water"]
+	},
+	{
+		"name": "Walrein",
+		"number": 365,
+		"hp": 242,
+		"attack": 182,
+		"defense": 176,
+		"type": ["Ice", "Water"]
+	},
+	{
+		"name": "Clamperl",
+		"number": 366,
+		"hp": 111,
+		"attack": 133,
+		"defense": 135,
+		"type": ["Water"]
+	},
+	{
+		"name": "Huntail",
+		"number": 367,
+		"hp": 146,
+		"attack": 197,
+		"defense": 179,
+		"type": ["Water"]
+	},
+	{
+		"name": "Gorebyss",
+		"number": 368,
+		"hp": 146,
+		"attack": 211,
+		"defense": 179,
+		"type": ["Water"]
+	},
+	{
+		"name": "Relicanth",
+		"number": 369,
+		"hp": 225,
+		"attack": 162,
+		"defense": 203,
+		"type": ["Water", "Rock"]
+	},
+	{
+		"name": "Luvdisc",
+		"number": 370,
+		"hp": 125,
+		"attack": 81,
+		"defense": 128,
+		"type": ["Water"]
+	},
+	{
+		"name": "Bagon",
+		"number": 371,
+		"hp": 128,
+		"attack": 134,
+		"defense": 93,
+		"type": ["Dragon"]
+	},
+	{
+		"name": "Shelgon",
+		"number": 372,
+		"hp": 163,
+		"attack": 172,
+		"defense": 155,
+		"type": ["Dragon"]
+	},
+	{
+		"name": "Salamence",
+		"number": 373,
+		"hp": 216,
+		"attack": 277,
+		"defense": 168,
+		"type": ["Dragon", "Flying"]
+	},
+	{
+		"name": "Beldum",
+		"number": 374,
+		"hp": 120,
+		"attack": 96,
+		"defense": 132,
+		"type": ["Steel", "Psychic"]
+	},
+	{
+		"name": "Metang",
+		"number": 375,
+		"hp": 155,
+		"attack": 138,
+		"defense": 176,
+		"type": ["Steel", "Psychic"]
+	},
+	{
+		"name": "Metagross",
+		"number": 376,
+		"hp": 190,
+		"attack": 257,
+		"defense": 228,
+		"type": ["Steel", "Psychic"]
+	},
+	{
+		"name": "Regirock",
+		"number": 377,
+		"hp": 190,
+		"attack": 179,
+		"defense": 309,
+		"type": ["Rock"]
+	},
+	{
+		"name": "Regice",
+		"number": 378,
+		"hp": 190,
+		"attack": 179,
+		"defense": 309,
+		"type": ["Ice"]
+	},
+	{
+		"name": "Registeel",
+		"number": 379,
+		"hp": 190,
+		"attack": 143,
+		"defense": 285,
+		"type": ["Steel"]
+	},
+	{
+		"name": "Latias",
+		"number": 380,
+		"hp": 190,
+		"attack": 228,
+		"defense": 246,
+		"type": ["Dragon", "Psychic"]
+	},
+	{
+		"name": "Latios",
+		"number": 381,
+		"hp": 190,
+		"attack": 268,
+		"defense": 212,
+		"type": ["Dragon", "Psychic"]
+	},
+	{
+		"name": "Kyogre",
+		"number": 382,
+		"hp": 205,
+		"attack": 270,
+		"defense": 228,
+		"type": ["Water"]
+	},
+	{
+		"name": "Groudon",
+		"number": 383,
+		"hp": 205,
+		"attack": 270,
+		"defense": 228,
+		"type": ["Ground"]
+	},
+	{
+		"name": "Rayquaza",
+		"number": 384,
+		"hp": 213,
+		"attack": 284,
+		"defense": 170,
+		"type": ["Dragon", "Flying"]
+	},
+	{
+		"name": "Jirachi",
+		"number": 385,
+		"hp": 225,
+		"attack": 210,
+		"defense": 210,
+		"type": ["Steel", "Psychic"]
+	},
+	{
+		"name": "Deoxys",
+		"number": 386,
+		"hp": 137,
+		"attack": 345,
+		"defense": 115,
+		"type": ["Psychic"]
+	},
+	{
+		"name": "Attack Form Deoxys",
+		"number": 386,
+		"hp": 137,
+		"attack": 414,
+		"defense": 46,
+		"type": ["Psychic"]
+	},
+	{
+		"name": "Defence Form Deoxys",
+		"number": 386,
+		"hp": 137,
+		"attack": 144,
+		"defense": 330,
+		"type": ["Psychic"]
+	},
+	{
+		"name": "Speed Form Deoxys",
+		"number": 386,
+		"hp": 137,
+		"attack": 230,
+		"defense": 218,
+		"type": ["Psychic"]
+	},
+	{
+		"name": "Turtwig",
+		"number": 387,
+		"hp": 146,
+		"attack": 119,
+		"defense": 110,
+		"type": ["Grass"]
+	},
+	{
+		"name": "Grotle",
+		"number": 388,
+		"hp": 181,
+		"attack": 157,
+		"defense": 143,
+		"type": ["Grass"]
+	},
+	{
+		"name": "Torterra",
+		"number": 389,
+		"hp": 216,
+		"attack": 202,
+		"defense": 188,
+		"type": ["Grass", "Ground"]
+	},
+	{
+		"name": "Chimchar",
+		"number": 390,
+		"hp": 127,
+		"attack": 113,
+		"defense": 86,
+		"type": ["Fire"]
+	},
+	{
+		"name": "Monferno",
+		"number": 391,
+		"hp": 162,
+		"attack": 158,
+		"defense": 105,
+		"type": ["Fire", "Fighting"]
+	},
+	{
+		"name": "Infernape",
+		"number": 392,
+		"hp": 183,
+		"attack": 222,
+		"defense": 151,
+		"type": ["Fire", "Fighting"]
+	},
+	{
+		"name": "Piplup",
+		"number": 393,
+		"hp": 142,
+		"attack": 112,
+		"defense": 102,
+		"type": ["Water"]
+	},
+	{
+		"name": "Prinplup",
+		"number": 394,
+		"hp": 162,
+		"attack": 150,
+		"defense": 139,
+		"type": ["Water"]
+	},
+	{
+		"name": "Empoleon",
+		"number": 395,
+		"hp": 197,
+		"attack": 210,
+		"defense": 186,
+		"type": ["Water", "Steel"]
+	},
+	{
+		"name": "Starly",
+		"number": 396,
+		"hp": 120,
+		"attack": 101,
+		"defense": 58,
+		"type": ["Normal", "Flying"]
+	},
+	{
+		"name": "Staravia",
+		"number": 397,
+		"hp": 146,
+		"attack": 142,
+		"defense": 94,
+		"type": ["Normal", "Flying"]
+	},
+	{
+		"name": "Staraptor",
+		"number": 398,
+		"hp": 198,
+		"attack": 234,
+		"defense": 140,
+		"type": ["Normal", "Flying"]
+	},
+	{
+		"name": "Bidoof",
+		"number": 399,
+		"hp": 153,
+		"attack": 80,
+		"defense": 73,
+		"type": ["Normal"]
+	},
+	{
+		"name": "Bibarel",
+		"number": 400,
+		"hp": 188,
+		"attack": 162,
+		"defense": 119,
+		"type": ["Normal", "Water"]
+	},
+	{
+		"name": "Kricketot",
+		"number": 401,
+		"hp": 114,
+		"attack": 45,
+		"defense": 74,
+		"type": ["Bug"]
+	},
+	{
+		"name": "Kricketune",
+		"number": 402,
+		"hp": 184,
+		"attack": 160,
+		"defense": 100,
+		"type": ["Bug"]
+	},
+	{
+		"name": "Shinx",
+		"number": 403,
+		"hp": 128,
+		"attack": 117,
+		"defense": 64,
+		"type": ["Electric"]
+	},
+	{
+		"name": "Luxio",
+		"number": 404,
+		"hp": 155,
+		"attack": 159,
+		"defense": 95,
+		"type": ["Electric"]
+	},
+	{
+		"name": "Luxray",
+		"number": 405,
+		"hp": 190,
+		"attack": 232,
+		"defense": 156,
+		"type": ["Electric"]
+	},
+	{
+		"name": "Budew",
+		"number": 406,
+		"hp": 120,
+		"attack": 91,
+		"defense": 109,
+		"type": ["Grass", "Poison"]
+	},
+	{
+		"name": "Roserade",
+		"number": 407,
+		"hp": 155,
+		"attack": 243,
+		"defense": 185,
+		"type": ["Grass", "Poison"]
+	},
+	{
+		"name": "Cranidos",
+		"number": 408,
+		"hp": 167,
+		"attack": 218,
+		"defense": 71,
+		"type": ["Rock"]
+	},
+	{
+		"name": "Rampardos",
+		"number": 409,
+		"hp": 219,
+		"attack": 295,
+		"defense": 109,
+		"type": ["Rock"]
+	},
+	{
+		"name": "Shieldon",
+		"number": 410,
+		"hp": 102,
+		"attack": 76,
+		"defense": 195,
+		"type": ["Rock", "Steel"]
+	},
+	{
+		"name": "Bastiodon",
+		"number": 411,
+		"hp": 155,
+		"attack": 94,
+		"defense": 286,
+		"type": ["Rock", "Steel"]
+	},
+	{
+		"name": "Plant Cloak Burmy",
+		"number": 412,
+		"hp": 120,
+		"attack": 53,
+		"defense": 83,
+		"type": ["Bug"]
+	},
+	{
+		"name": "Sand Cloak Burmy",
+		"number": 412,
+		"hp": 120,
+		"attack": 53,
+		"defense": 83,
+		"type": ["Bug"]
+	},
+	{
+		"name": "Trash Cloak Burmy",
+		"number": 412,
+		"hp": 120,
+		"attack": 53,
+		"defense": 83,
+		"type": ["Bug"]
+	},
+	{
+		"name": "Plant Cloak Wormadam",
+		"number": 413,
+		"hp": 155,
+		"attack": 141,
+		"defense": 180,
+		"type": ["Bug", "Grass"]
+	},
+	{
+		"name": "Sand Cloak Wormadam",
+		"number": 413,
+		"hp": 155,
+		"attack": 141,
+		"defense": 180,
+		"type": ["Bug", "Ground"]
+	},
+	{
+		"name": "Trash Cloak Wormadam",
+		"number": 413,
+		"hp": 155,
+		"attack": 127,
+		"defense": 175,
+		"type": ["Bug", "Steel"]
+	},
+	{
+		"name": "Mothim",
+		"number": 414,
+		"hp": 172,
+		"attack": 185,
+		"defense": 98,
+		"type": ["Bug", "Flying"]
+	},
+	{
+		"name": "Combee",
+		"number": 415,
+		"hp": 102,
+		"attack": 59,
+		"defense": 83,
+		"type": ["Bug", "Flying"]
+	},
+	{
+		"name": "Vespiquen",
+		"number": 416,
+		"hp": 172,
+		"attack": 149,
+		"defense": 190,
+		"type": ["Bug", "Flying"]
+	},
+	{
+		"name": "Pachirisu",
+		"number": 417,
+		"hp": 155,
+		"attack": 94,
+		"defense": 172,
+		"type": ["Electric"]
+	},
+	{
+		"name": "Buizel",
+		"number": 418,
+		"hp": 146,
+		"attack": 132,
+		"defense": 67,
+		"type": ["Water"]
+	},
+	{
+		"name": "Floatzel",
+		"number": 419,
+		"hp": 198,
+		"attack": 221,
+		"defense": 114,
+		"type": ["Water"]
+	},
+	{
+		"name": "Cherubi",
+		"number": 420,
+		"hp": 128,
+		"attack": 108,
+		"defense": 92,
+		"type": ["Grass"]
+	},
+	{
+		"name": "Overcast Cherrim",
+		"number": 421,
+		"hp": 172,
+		"attack": 170,
+		"defense": 153,
+		"type": ["Grass"]
+	},
+	{
+		"name": "Sunshine Cherrim",
+		"number": 421,
+		"hp": 172,
+		"attack": 170,
+		"defense": 153,
+		"type": ["Grass"]
+	},
+	{
+		"name": "West Sea Shellos",
+		"number": 422,
+		"hp": 183,
+		"attack": 103,
+		"defense": 105,
+		"type": ["Water"]
+	},
+	{
+		"name": "East Sea Shellos",
+		"number": 422,
+		"hp": 183,
+		"attack": 103,
+		"defense": 105,
+		"type": ["Water"]
+	},
+	{
+		"name": "West Sea Gastrodon",
+		"number": 423,
+		"hp": 244,
+		"attack": 169,
+		"defense": 143,
+		"type": ["Water", "Ground"]
+	},
+	{
+		"name": "East Sea Gastrodon",
+		"number": 423,
+		"hp": 244,
+		"attack": 169,
+		"defense": 143,
+		"type": ["Water", "Ground"]
+	},
+	{
+		"name": "Ambipom",
+		"number": 424,
+		"hp": 181,
+		"attack": 205,
+		"defense": 143,
+		"type": ["Normal"]
+	},
+	{
+		"name": "Drifloon",
+		"number": 425,
+		"hp": 207,
+		"attack": 117,
+		"defense": 80,
+		"type": ["Ghost", "Flying"]
+	},
+	{
+		"name": "Drifblim",
+		"number": 426,
+		"hp": 312,
+		"attack": 180,
+		"defense": 102,
+		"type": ["Ghost", "Flying"]
+	},
+	{
+		"name": "Buneary",
+		"number": 427,
+		"hp": 146,
+		"attack": 130,
+		"defense": 105,
+		"type": ["Normal"]
+	},
+	{
+		"name": "Lopunny",
+		"number": 428,
+		"hp": 163,
+		"attack": 156,
+		"defense": 194,
+		"type": ["Normal"]
+	},
+	{
+		"name": "Mismagius",
+		"number": 429,
+		"hp": 155,
+		"attack": 211,
+		"defense": 187,
+		"type": ["Ghost"]
+	},
+	{
+		"name": "Honchkrow",
+		"number": 430,
+		"hp": 225,
+		"attack": 243,
+		"defense": 103,
+		"type": ["Dark", "Flying"]
+	},
+	{
+		"name": "Glameow",
+		"number": 431,
+		"hp": 135,
+		"attack": 109,
+		"defense": 82,
+		"type": ["Normal"]
+	},
+	{
+		"name": "Purugly",
+		"number": 432,
+		"hp": 174,
+		"attack": 172,
+		"defense": 133,
+		"type": ["Normal"]
+	},
+	{
+		"name": "Chingling",
+		"number": 433,
+		"hp": 128,
+		"attack": 114,
+		"defense": 94,
+		"type": ["Psychic"]
+	},
+	{
+		"name": "Stunky",
+		"number": 434,
+		"hp": 160,
+		"attack": 121,
+		"defense": 90,
+		"type": ["Poison", "Dark"]
+	},
+	{
+		"name": "Skuntank",
+		"number": 435,
+		"hp": 230,
+		"attack": 184,
+		"defense": 132,
+		"type": ["Poison", "Dark"]
+	},
+	{
+		"name": "Bronzor",
+		"number": 436,
+		"hp": 149,
+		"attack": 43,
+		"defense": 154,
+		"type": ["Steel", "Psychic"]
+	},
+	{
+		"name": "Bronzong",
+		"number": 437,
+		"hp": 167,
+		"attack": 161,
+		"defense": 213,
+		"type": ["Steel", "Psychic"]
+	},
+	{
+		"name": "Bonsly",
+		"number": 438,
+		"hp": 137,
+		"attack": 124,
+		"defense": 133,
+		"type": ["Rock"]
+	},
+	{
+		"name": "Mime Jr.",
+		"number": 439,
+		"hp": 85,
+		"attack": 125,
+		"defense": 142,
+		"type": ["Psychic", "Fairy"]
+	},
+	{
+		"name": "Happiny",
+		"number": 440,
+		"hp": 225,
+		"attack": 25,
+		"defense": 77,
+		"type": ["Normal"]
+	},
+	{
+		"name": "Chatot",
+		"number": 441,
+		"hp": 183,
+		"attack": 183,
+		"defense": 91,
+		"type": ["Normal", "Flying"]
+	},
+	{
+		"name": "Spiritomb",
+		"number": 442,
+		"hp": 137,
+		"attack": 169,
+		"defense": 199,
+		"type": ["Ghost", "Dark"]
+	},
+	{
+		"name": "Gible",
+		"number": 443,
+		"hp": 151,
+		"attack": 124,
+		"defense": 84,
+		"type": ["Dragon", "Ground"]
+	},
+	{
+		"name": "Gabite",
+		"number": 444,
+		"hp": 169,
+		"attack": 172,
+		"defense": 125,
+		"type": ["Dragon", "Ground"]
+	},
+	{
+		"name": "Garchomp",
+		"number": 445,
+		"hp": 239,
+		"attack": 261,
+		"defense": 193,
+		"type": ["Dragon", "Ground"]
+	},
+	{
+		"name": "Munchlax",
+		"number": 446,
+		"hp": 286,
+		"attack": 137,
+		"defense": 117,
+		"type": ["Normal"]
+	},
+	{
+		"name": "Riolu",
+		"number": 447,
+		"hp": 120,
+		"attack": 127,
+		"defense": 78,
+		"type": ["Fighting"]
+	},
+	{
+		"name": "Lucario",
+		"number": 448,
+		"hp": 172,
+		"attack": 236,
+		"defense": 144,
+		"type": ["Fighting", "Steel"]
+	},
+	{
+		"name": "Hippopotas",
+		"number": 449,
+		"hp": 169,
+		"attack": 124,
+		"defense": 118,
+		"type": ["Ground"]
+	},
+	{
+		"name": "Hippowdon",
+		"number": 450,
+		"hp": 239,
+		"attack": 201,
+		"defense": 191,
+		"type": ["Ground"]
+	},
+	{
+		"name": "Skorupi",
+		"number": 451,
+		"hp": 120,
+		"attack": 93,
+		"defense": 151,
+		"type": ["Poison", "Bug"]
+	},
+	{
+		"name": "Drapion",
+		"number": 452,
+		"hp": 172,
+		"attack": 180,
+		"defense": 202,
+		"type": ["Poison", "Dark"]
+	},
+	{
+		"name": "Croagunk",
+		"number": 453,
+		"hp": 134,
+		"attack": 116,
+		"defense": 76,
+		"type": ["Poison", "Fighting"]
+	},
+	{
+		"name": "Toxicroak",
+		"number": 454,
+		"hp": 195,
+		"attack": 211,
+		"defense": 133,
+		"type": ["Poison", "Fighting"]
+	},
+	{
+		"name": "Carnivine",
+		"number": 455,
+		"hp": 179,
+		"attack": 187,
+		"defense": 136,
+		"type": ["Grass"]
+	},
+	{
+		"name": "Finneon",
+		"number": 456,
+		"hp": 135,
+		"attack": 96,
+		"defense": 116,
+		"type": ["Water"]
+	},
+	{
+		"name": "Lumineon",
+		"number": 457,
+		"hp": 170,
+		"attack": 142,
+		"defense": 170,
+		"type": ["Water"]
+	},
+	{
+		"name": "Mantyke",
+		"number": 458,
+		"hp": 128,
+		"attack": 105,
+		"defense": 179,
+		"type": ["Water", "Flying"]
+	},
+	{
+		"name": "Snover",
+		"number": 459,
+		"hp": 155,
+		"attack": 115,
+		"defense": 105,
+		"type": ["Grass", "Ice"]
+	},
+	{
+		"name": "Abomasnow",
+		"number": 460,
+		"hp": 207,
+		"attack": 178,
+		"defense": 158,
+		"type": ["Grass", "Ice"]
+	},
+	{
+		"name": "Weavile",
+		"number": 461,
+		"hp": 172,
+		"attack": 243,
+		"defense": 171,
+		"type": ["Dark", "Ice"]
+	},
+	{
+		"name": "Magnezone",
+		"number": 462,
+		"hp": 172,
+		"attack": 238,
+		"defense": 205,
+		"type": ["Electric", "Steel"]
+	},
+	{
+		"name": "Lickilicky",
+		"number": 463,
+		"hp": 242,
+		"attack": 161,
+		"defense": 181,
+		"type": ["Normal"]
+	},
+	{
+		"name": "Rhyperior",
+		"number": 464,
+		"hp": 251,
+		"attack": 241,
+		"defense": 190,
+		"type": ["Ground", "Rock"]
+	},
+	{
+		"name": "Tangrowth",
+		"number": 465,
+		"hp": 225,
+		"attack": 207,
+		"defense": 184,
+		"type": ["Grass"]
+	},
+	{
+		"name": "Electivire",
+		"number": 466,
+		"hp": 181,
+		"attack": 249,
+		"defense": 163,
+		"type": ["Electric"]
+	},
+	{
+		"name": "Magmortar",
+		"number": 467,
+		"hp": 181,
+		"attack": 247,
+		"defense": 172,
+		"type": ["Fire"]
+	},
+	{
+		"name": "Togekiss",
+		"number": 468,
+		"hp": 198,
+		"attack": 225,
+		"defense": 217,
+		"type": ["Fairy", "Flying"]
+	},
+	{
+		"name": "Yanmega",
+		"number": 469,
+		"hp": 200,
+		"attack": 231,
+		"defense": 156,
+		"type": ["Bug", "Flying"]
+	},
+	{
+		"name": "Leafeon",
+		"number": 470,
+		"hp": 163,
+		"attack": 216,
+		"defense": 219,
+		"type": ["Grass"]
+	},
+	{
+		"name": "Glaceon",
+		"number": 471,
+		"hp": 163,
+		"attack": 238,
+		"defense": 205,
+		"type": ["Ice"]
+	},
+	{
+		"name": "Gliscor",
+		"number": 472,
+		"hp": 181,
+		"attack": 185,
+		"defense": 222,
+		"type": ["Ground", "Flying"]
+	},
+	{
+		"name": "Mamoswine",
+		"number": 473,
+		"hp": 242,
+		"attack": 247,
+		"defense": 146,
+		"type": ["Ice", "Ground"]
+	},
+	{
+		"name": "Porygon-Z",
+		"number": 474,
+		"hp": 198,
+		"attack": 264,
+		"defense": 150,
+		"type": ["Normal"]
+	},
+	{
+		"name": "Gallade",
+		"number": 475,
+		"hp": 169,
+		"attack": 237,
+		"defense": 195,
+		"type": ["Psychic", "Fighting"]
+	},
+	{
+		"name": "Probopass",
+		"number": 476,
+		"hp": 155,
+		"attack": 135,
+		"defense": 275,
+		"type": ["Rock", "Steel"]
+	},
+	{
+		"name": "Dusknoir",
+		"number": 477,
+		"hp": 128,
+		"attack": 180,
+		"defense": 254,
+		"type": ["Ghost"]
+	},
+	{
+		"name": "Froslass",
+		"number": 478,
+		"hp": 172,
+		"attack": 171,
+		"defense": 150,
+		"type": ["Ice", "Ghost"]
+	},
+	{
+		"name": "Rotom",
+		"number": 479,
+		"hp": 137,
+		"attack": 185,
+		"defense": 159,
+		"type": ["Electric", "Ghost"]
+	},
+	{
+		"name": "Fan Rotom",
+		"number": 479,
+		"hp": 137,
+		"attack": 204,
+		"defense": 219,
+		"type": ["Electric", "Flying"]
+	},
+	{
+		"name": "Frost Rotom",
+		"number": 479,
+		"hp": 137,
+		"attack": 204,
+		"defense": 219,
+		"type": ["Electric", "Ice"]
+	},
+	{
+		"name": "Heat Rotom",
+		"number": 479,
+		"hp": 137,
+		"attack": 204,
+		"defense": 219,
+		"type": ["Electric", "Fire"]
+	},
+	{
+		"name": "Mow Rotom",
+		"number": 479,
+		"hp": 137,
+		"attack": 204,
+		"defense": 219,
+		"type": ["Electric", "Grass"]
+	},
+	{
+		"name": "Wash Rotom",
+		"number": 479,
+		"hp": 137,
+		"attack": 204,
+		"defense": 219,
+		"type": ["Electric", "Water"]
+	},
+	{
+		"name": "Uxie",
+		"number": 480,
+		"hp": 181,
+		"attack": 156,
+		"defense": 270,
+		"type": ["Psychic"]
+	},
+	{
+		"name": "Mesprit",
+		"number": 481,
+		"hp": 190,
+		"attack": 212,
+		"defense": 212,
+		"type": ["Psychic"]
+	},
+	{
+		"name": "Azelf",
+		"number": 482,
+		"hp": 181,
+		"attack": 270,
+		"defense": 151,
+		"type": ["Psychic"]
+	},
+	{
+		"name": "Dialga",
+		"number": 483,
+		"hp": 205,
+		"attack": 275,
+		"defense": 211,
+		"type": ["Steel", "Dragon"]
+	},
+	{
+		"name": "Palkia",
+		"number": 484,
+		"hp": 189,
+		"attack": 280,
+		"defense": 215,
+		"type": ["Water", "Dragon"]
+	},
+	{
+		"name": "Heatran",
+		"number": 485,
+		"hp": 209,
+		"attack": 251,
+		"defense": 213,
+		"type": ["Fire", "Steel"]
+	},
+	{
+		"name": "Regigigas",
+		"number": 486,
+		"hp": 221,
+		"attack": 287,
+		"defense": 210,
+		"type": ["Normal"]
+	},
+	{
+		"name": "Altered Form Giratina",
+		"number": 487,
+		"hp": 284,
+		"attack": 187,
+		"defense": 225,
+		"type": ["Ghost", "Dragon"]
+	},
+	{
+		"name": "Origin Form Giratina",
+		"number": 487,
+		"hp": 284,
+		"attack": 225,
+		"defense": 187,
+		"type": ["Ghost", "Dragon"]
+	},
+	{
+		"name": "Cresselia",
+		"number": 488,
+		"hp": 260,
+		"attack": 152,
+		"defense": 258,
+		"type": ["Psychic"]
+	},
+	{
+		"name": "Phione",
+		"number": 489,
+		"hp": 190,
+		"attack": 162,
+		"defense": 162,
+		"type": ["Water"]
+	},
+	{
+		"name": "Manaphy",
+		"number": 490,
+		"hp": 225,
+		"attack": 210,
+		"defense": 210,
+		"type": ["Water"]
+	},
+	{
+		"name": "Darkrai",
+		"number": 491,
+		"hp": 172,
+		"attack": 285,
+		"defense": 198,
+		"type": ["Dark"]
+	},
+	{
+		"name": "Land Form Shaymin",
+		"number": 492,
+		"hp": 225,
+		"attack": 210,
+		"defense": 210,
+		"type": ["Grass"]
+	},
+	{
+		"name": "Sky Form Shaymin",
+		"number": 492,
+		"hp": 225,
+		"attack": 261,
+		"defense": 166,
+		"type": ["Grass", "Flying"]
+	},
+	{
+		"name": "Arceus Normal",
+		"number": 493,
+		"hp": 237,
+		"attack": 238,
+		"defense": 238,
+		"type": ["Normal"]
+	},
+	{
+		"name": "Arceus Fire",
+		"number": 493,
+		"hp": 237,
+		"attack": 238,
+		"defense": 238,
+		"type": ["Fire"]
+	},
+	{
+		"name": "Arceus Water",
+		"number": 493,
+		"hp": 237,
+		"attack": 238,
+		"defense": 238,
+		"type": ["Water"]
+	},
+	{
+		"name": "Arceus Grass",
+		"number": 493,
+		"hp": 237,
+		"attack": 238,
+		"defense": 238,
+		"type": ["Grass"]
+	},
+	{
+		"name": "Arceus Electric",
+		"number": 493,
+		"hp": 237,
+		"attack": 238,
+		"defense": 238,
+		"type": ["Electric"]
+	},
+	{
+		"name": "Arceus Ground",
+		"number": 493,
+		"hp": 237,
+		"attack": 238,
+		"defense": 238,
+		"type": ["Ground"]
+	},
+	{
+		"name": "Arceus Rock",
+		"number": 493,
+		"hp": 237,
+		"attack": 238,
+		"defense": 238,
+		"type": ["Rock"]
+	},
+	{
+		"name": "Arceus Poison",
+		"number": 493,
+		"hp": 237,
+		"attack": 238,
+		"defense": 238,
+		"type": ["Poison"]
+	},
+	{
+		"name": "Arceus Bug",
+		"number": 493,
+		"hp": 237,
+		"attack": 238,
+		"defense": 238,
+		"type": ["Bug"]
+	},
+	{
+		"name": "Arceus Flying",
+		"number": 493,
+		"hp": 237,
+		"attack": 238,
+		"defense": 238,
+		"type": ["Flying"]
+	},
+	{
+		"name": "Arceus Ghost",
+		"number": 493,
+		"hp": 237,
+		"attack": 238,
+		"defense": 238,
+		"type": ["ghost"]
+	},
+	{
+		"name": "Arceus Fighting",
+		"number": 493,
+		"hp": 237,
+		"attack": 238,
+		"defense": 238,
+		"type": ["fighting"]
+	},
+	{
+		"name": "Arceus Psychic",
+		"number": 493,
+		"hp": 237,
+		"attack": 238,
+		"defense": 238,
+		"type": ["psychic"]
+	},
+	{
+		"name": "Arceus Ice",
+		"number": 493,
+		"hp": 237,
+		"attack": 238,
+		"defense": 238,
+		"type": ["Ice"]
+	},
+	{
+		"name": "Arceus Dragon",
+		"number": 493,
+		"hp": 237,
+		"attack": 238,
+		"defense": 238,
+		"type": ["Dragon"]
+	},
+	{
+		"name": "Arceus Dark",
+		"number": 493,
+		"hp": 237,
+		"attack": 238,
+		"defense": 238,
+		"type": ["Dark"]
+	},
+	{
+		"name": "Arceus Steel",
+		"number": 493,
+		"hp": 237,
+		"attack": 238,
+		"defense": 238,
+		"type": ["Steel"]
+	},
+	{
+		"name": "Arceus Fairy",
+		"number": 493,
+		"hp": 237,
+		"attack": 238,
+		"defense": 238,
+		"type": ["Fairy"]
+	},
+	{
+		"name": "Victini",
+		"number": 494,
+		"hp": 225,
+		"attack": 210,
+		"defense": 210,
+		"type": ["Psychic", "Fire"]
+	},
+	{
+		"name": "Snivy",
+		"number": 495,
+		"hp": 128,
+		"attack": 88,
+		"defense": 107,
+		"type": ["Grass"]
+	},
+	{
+		"name": "Servine",
+		"number": 496,
+		"hp": 155,
+		"attack": 122,
+		"defense": 152,
+		"type": ["Grass"]
+	},
+	{
+		"name": "Serperior",
+		"number": 497,
+		"hp": 181,
+		"attack": 161,
+		"defense": 204,
+		"type": ["Grass"]
+	},
+	{
+		"name": "Tepig",
+		"number": 498,
+		"hp": 163,
+		"attack": 115,
+		"defense": 85,
+		"type": ["Fire"]
+	},
+	{
+		"name": "Pignite",
+		"number": 499,
+		"hp": 207,
+		"attack": 173,
+		"defense": 106,
+		"type": ["Fire", "Fighting"]
+	},
+	{
+		"name": "Emboar",
+		"number": 500,
+		"hp": 242,
+		"attack": 235,
+		"defense": 127,
+		"type": ["Fire", "Fighting"]
+	},
+	{
+		"name": "Oshawott",
+		"number": 501,
+		"hp": 146,
+		"attack": 117,
+		"defense": 85,
+		"type": ["Water"]
+	},
+	{
+		"name": "Dewott",
+		"number": 502,
+		"hp": 181,
+		"attack": 159,
+		"defense": 116,
+		"type": ["Water"]
+	},
+	{
+		"name": "Samurott",
+		"number": 503,
+		"hp": 216,
+		"attack": 212,
+		"defense": 157,
+		"type": ["Water"]
+	},
+	{
+		"name": "Patrat",
+		"number": 504,
+		"hp": 128,
+		"attack": 98,
+		"defense": 73,
+		"type": ["Normal"]
+	},
+	{
+		"name": "Watchog",
+		"number": 505,
+		"hp": 155,
+		"attack": 165,
+		"defense": 139,
+		"type": ["Normal"]
+	},
+	{
+		"name": "Lillipup",
+		"number": 506,
+		"hp": 128,
+		"attack": 107,
+		"defense": 86,
+		"type": ["Normal"]
+	},
+	{
+		"name": "Herdier",
+		"number": 507,
+		"hp": 163,
+		"attack": 145,
+		"defense": 126,
+		"type": ["Normal"]
+	},
+	{
+		"name": "Stoutland",
+		"number": 508,
+		"hp": 198,
+		"attack": 206,
+		"defense": 182,
+		"type": ["Normal"]
+	},
+	{
+		"name": "Purrloin",
+		"number": 509,
+		"hp": 121,
+		"attack": 98,
+		"defense": 73,
+		"type": ["Dark"]
+	},
+	{
+		"name": "Liepard",
+		"number": 510,
+		"hp": 162,
+		"attack": 187,
+		"defense": 106,
+		"type": ["Dark"]
+	},
+	{
+		"name": "Pansage",
+		"number": 511,
+		"hp": 137,
+		"attack": 104,
+		"defense": 94,
+		"type": ["Grass"]
+	},
+	{
+		"name": "Simisage",
+		"number": 512,
+		"hp": 181,
+		"attack": 206,
+		"defense": 133,
+		"type": ["Grass"]
+	},
+	{
+		"name": "Pansear",
+		"number": 513,
+		"hp": 137,
+		"attack": 104,
+		"defense": 94,
+		"type": ["Fire"]
+	},
+	{
+		"name": "Simisear",
+		"number": 514,
+		"hp": 181,
+		"attack": 206,
+		"defense": 133,
+		"type": ["Fire"]
+	},
+	{
+		"name": "Panpour",
+		"number": 515,
+		"hp": 137,
+		"attack": 104,
+		"defense": 94,
+		"type": ["Water"]
+	},
+	{
+		"name": "Simipour",
+		"number": 516,
+		"hp": 181,
+		"attack": 206,
+		"defense": 133,
+		"type": ["Water"]
+	},
+	{
+		"name": "Munna",
+		"number": 517,
+		"hp": 183,
+		"attack": 111,
+		"defense": 92,
+		"type": ["Psychic"]
+	},
+	{
+		"name": "Musharna",
+		"number": 518,
+		"hp": 253,
+		"attack": 183,
+		"defense": 166,
+		"type": ["Psychic"]
+	},
+	{
+		"name": "Pidove",
+		"number": 519,
+		"hp": 137,
+		"attack": 98,
+		"defense": 80,
+		"type": ["Normal", "Flying"]
+	},
+	{
+		"name": "Tranquill",
+		"number": 520,
+		"hp": 158,
+		"attack": 144,
+		"defense": 107,
+		"type": ["Normal", "Flying"]
+	},
+	{
+		"name": "Unfezant",
+		"number": 521,
+		"hp": 190,
+		"attack": 226,
+		"defense": 146,
+		"type": ["Normal", "Flying"]
+	},
+	{
+		"name": "Blitzle",
+		"number": 522,
+		"hp": 128,
+		"attack": 118,
+		"defense": 64,
+		"type": ["Electric"]
+	},
+	{
+		"name": "Zebstrika",
+		"number": 523,
+		"hp": 181,
+		"attack": 211,
+		"defense": 136,
+		"type": ["Electric"]
+	},
+	{
+		"name": "Roggenrola",
+		"number": 524,
+		"hp": 146,
+		"attack": 121,
+		"defense": 110,
+		"type": ["Rock"]
+	},
+	{
+		"name": "Boldore",
+		"number": 525,
+		"hp": 172,
+		"attack": 174,
+		"defense": 143,
+		"type": ["Rock"]
+	},
+	{
+		"name": "Gigalith",
+		"number": 526,
+		"hp": 198,
+		"attack": 226,
+		"defense": 201,
+		"type": ["Rock"]
+	},
+	{
+		"name": "Woobat",
+		"number": 527,
+		"hp": 163,
+		"attack": 107,
+		"defense": 85,
+		"type": ["Psychic", "Flying"]
+	},
+	{
+		"name": "Swoobat",
+		"number": 528,
+		"hp": 167,
+		"attack": 161,
+		"defense": 119,
+		"type": ["Psychic", "Flying"]
+	},
+	{
+		"name": "Drilbur",
+		"number": 529,
+		"hp": 155,
+		"attack": 154,
+		"defense": 85,
+		"type": ["Ground"]
+	},
+	{
+		"name": "Excadrill",
+		"number": 530,
+		"hp": 242,
+		"attack": 255,
+		"defense": 129,
+		"type": ["Ground", "Steel"]
+	},
+	{
+		"name": "Audino",
+		"number": 531,
+		"hp": 230,
+		"attack": 114,
+		"defense": 163,
+		"type": ["Normal"]
+	},
+	{
+		"name": "Timburr",
+		"number": 532,
+		"hp": 181,
+		"attack": 134,
+		"defense": 87,
+		"type": ["Fighting"]
+	},
+	{
+		"name": "Gurdurr",
+		"number": 533,
+		"hp": 198,
+		"attack": 180,
+		"defense": 134,
+		"type": ["Fighting"]
+	},
+	{
+		"name": "Conkeldurr",
+		"number": 534,
+		"hp": 233,
+		"attack": 243,
+		"defense": 158,
+		"type": ["Fighting"]
+	},
+	{
+		"name": "Tympole",
+		"number": 535,
+		"hp": 137,
+		"attack": 98,
+		"defense": 78,
+		"type": ["Water"]
+	},
+	{
+		"name": "Palpitoad",
+		"number": 536,
+		"hp": 181,
+		"attack": 128,
+		"defense": 109,
+		"type": ["Water", "Ground"]
+	},
+	{
+		"name": "Seismitoad",
+		"number": 537,
+		"hp": 233,
+		"attack": 188,
+		"defense": 150,
+		"type": ["Water", "Ground"]
+	},
+	{
+		"name": "Throh",
+		"number": 538,
+		"hp": 260,
+		"attack": 172,
+		"defense": 160,
+		"type": ["Fighting"]
+	},
+	{
+		"name": "Sawk",
+		"number": 539,
+		"hp": 181,
+		"attack": 231,
+		"defense": 153,
+		"type": ["Fighting"]
+	},
+	{
+		"name": "Sewaddle",
+		"number": 540,
+		"hp": 128,
+		"attack": 96,
+		"defense": 124,
+		"type": ["Bug", "Grass"]
+	},
+	{
+		"name": "Swadloon",
+		"number": 541,
+		"hp": 146,
+		"attack": 115,
+		"defense": 162,
+		"type": ["Bug", "Grass"]
+	},
+	{
+		"name": "Leavanny",
+		"number": 542,
+		"hp": 181,
+		"attack": 205,
+		"defense": 165,
+		"type": ["Bug", "Grass"]
+	},
+	{
+		"name": "Venipede",
+		"number": 543,
+		"hp": 102,
+		"attack": 83,
+		"defense": 99,
+		"type": ["Bug", "Poison"]
+	},
+	{
+		"name": "Whirlipede",
+		"number": 544,
+		"hp": 120,
+		"attack": 100,
+		"defense": 173,
+		"type": ["Bug", "Poison"]
+	},
+	{
+		"name": "Scolipede",
+		"number": 545,
+		"hp": 155,
+		"attack": 203,
+		"defense": 175,
+		"type": ["Bug", "Poison"]
+	},
+	{
+		"name": "Cottonee",
+		"number": 546,
+		"hp": 120,
+		"attack": 71,
+		"defense": 111,
+		"type": ["Grass", "Fairy"]
+	},
+	{
+		"name": "Whimsicott",
+		"number": 547,
+		"hp": 155,
+		"attack": 164,
+		"defense": 176,
+		"type": ["Grass", "Fairy"]
+	},
+	{
+		"name": "Petilil",
+		"number": 548,
+		"hp": 128,
+		"attack": 119,
+		"defense": 91,
+		"type": ["Grass"]
+	},
+	{
+		"name": "Lilligant",
+		"number": 549,
+		"hp": 172,
+		"attack": 214,
+		"defense": 155,
+		"type": ["Grass"]
+	},
+	{
+		"name": "Red Striped Basculin",
+		"number": 550,
+		"hp": 172,
+		"attack": 189,
+		"defense": 129,
+		"type": ["Water"]
+	},
+	{
+		"name": "Blue Striped Basculin",
+		"number": 550,
+		"hp": 172,
+		"attack": 189,
+		"defense": 129,
+		"type": ["Water"]
+	},
+	{
+		"name": "Sandile",
+		"number": 551,
+		"hp": 137,
+		"attack": 132,
+		"defense": 69,
+		"type": ["Ground", "Dark"]
+	},
+	{
+		"name": "Krokorok",
+		"number": 552,
+		"hp": 155,
+		"attack": 155,
+		"defense": 90,
+		"type": ["Ground", "Dark"]
+	},
+	{
+		"name": "Krookodile",
+		"number": 553,
+		"hp": 216,
+		"attack": 229,
+		"defense": 158,
+		"type": ["Ground", "Dark"]
+	},
+	{
+		"name": "Darumaka",
+		"number": 554,
+		"hp": 172,
+		"attack": 153,
+		"defense": 86,
+		"type": ["Fire"]
+	},
+	{
+		"name": "Galarian Darumaka",
+		"number": 554,
+		"hp": 172,
+		"attack": 153,
+		"defense": 86,
+		"type": ["Ice"]
+	},
+	{
+		"name": "Darmanitan",
+		"number": 555,
+		"hp": 233,
+		"attack": 263,
+		"defense": 114,
+		"type": ["Fire"]
+	},
+	{
+		"name": "Galarian Darmanitan",
+		"number": 555,
+		"hp": 233,
+		"attack": 263,
+		"defense": 114,
+		"type": ["Ice"]
+	},
+	{
+		"name": "Darmanitan Zen Mode",
+		"number": 555,
+		"hp": 233,
+		"attack": 243,
+		"defense": 202,
+		"type": ["Fire", "Psychic"]
+	},
+	{
+		"name": "Galarian Darmanitan Zen Mode",
+		"number": 555,
+		"hp": 233,
+		"attack": 323,
+		"defense": 123,
+		"type": ["Fire", "Ice"]
+	},
+	{
+		"name": "Maractus",
+		"number": 556,
+		"hp": 181,
+		"attack": 201,
+		"defense": 130,
+		"type": ["Grass"]
+	},
+	{
+		"name": "Dwebble",
+		"number": 557,
+		"hp": 137,
+		"attack": 118,
+		"defense": 128,
+		"type": ["Bug", "Rock"]
+	},
+	{
+		"name": "Crustle",
+		"number": 558,
+		"hp": 172,
+		"attack": 188,
+		"defense": 200,
+		"type": ["Bug", "Rock"]
+	},
+	{
+		"name": "Scraggy",
+		"number": 559,
+		"hp": 137,
+		"attack": 132,
+		"defense": 132,
+		"type": ["Dark", "Fighting"]
+	},
+	{
+		"name": "Scrafty",
+		"number": 560,
+		"hp": 163,
+		"attack": 163,
+		"defense": 222,
+		"type": ["Dark", "Fighting"]
+	},
+	{
+		"name": "Sigilyph",
+		"number": 561,
+		"hp": 176,
+		"attack": 204,
+		"defense": 167,
+		"type": ["Psychic", "Flying"]
+	},
+	{
+		"name": "Yamask",
+		"number": 562,
+		"hp": 116,
+		"attack": 95,
+		"defense": 141,
+		"type": ["Ghost"]
+	},
+	{
+		"name": "Cofagrigus",
+		"number": 563,
+		"hp": 151,
+		"attack": 163,
+		"defense": 237,
+		"type": ["Ghost"]
+	},
+	{
+		"name": "Tirtouga",
+		"number": 564,
+		"hp": 144,
+		"attack": 134,
+		"defense": 146,
+		"type": ["Water", "Rock"]
+	},
+	{
+		"name": "Carracosta",
+		"number": 565,
+		"hp": 179,
+		"attack": 192,
+		"defense": 197,
+		"type": ["Water", "Rock"]
+	},
+	{
+		"name": "Archen",
+		"number": 566,
+		"hp": 146,
+		"attack": 213,
+		"defense": 89,
+		"type": ["Rock", "Flying"]
+	},
+	{
+		"name": "Archeops",
+		"number": 567,
+		"hp": 181,
+		"attack": 292,
+		"defense": 139,
+		"type": ["Rock", "Flying"]
+	},
+	{
+		"name": "Trubbish",
+		"number": 568,
+		"hp": 137,
+		"attack": 96,
+		"defense": 122,
+		"type": ["Poison"]
+	},
+	{
+		"name": "Garbodor",
+		"number": 569,
+		"hp": 190,
+		"attack": 181,
+		"defense": 164,
+		"type": ["Poison"]
+	},
+	{
+		"name": "Zorua",
+		"number": 570,
+		"hp": 120,
+		"attack": 153,
+		"defense": 78,
+		"type": ["Dark"]
+	},
+	{
+		"name": "Zoroark",
+		"number": 571,
+		"hp": 155,
+		"attack": 250,
+		"defense": 127,
+		"type": ["Dark"]
+	},
+	{
+		"name": "Minccino",
+		"number": 572,
+		"hp": 146,
+		"attack": 98,
+		"defense": 80,
+		"type": ["Normal"]
+	},
+	{
+		"name": "Cinccino",
+		"number": 573,
+		"hp": 181,
+		"attack": 198,
+		"defense": 130,
+		"type": ["Normal"]
+	},
+	{
+		"name": "Gothita",
+		"number": 574,
+		"hp": 128,
+		"attack": 98,
+		"defense": 112,
+		"type": ["Psychic"]
+	},
+	{
+		"name": "Gothorita",
+		"number": 575,
+		"hp": 155,
+		"attack": 137,
+		"defense": 153,
+		"type": ["Psychic"]
+	},
+	{
+		"name": "Gothitelle",
+		"number": 576,
+		"hp": 172,
+		"attack": 176,
+		"defense": 205,
+		"type": ["Psychic"]
+	},
+	{
+		"name": "Solosis",
+		"number": 577,
+		"hp": 128,
+		"attack": 170,
+		"defense": 83,
+		"type": ["Psychic"]
+	},
+	{
+		"name": "Duosion",
+		"number": 578,
+		"hp": 163,
+		"attack": 208,
+		"defense": 103,
+		"type": ["Psychic"]
+	},
+	{
+		"name": "Reuniclus",
+		"number": 579,
+		"hp": 242,
+		"attack": 214,
+		"defense": 148,
+		"type": ["Psychic"]
+	},
+	{
+		"name": "Ducklett",
+		"number": 580,
+		"hp": 158,
+		"attack": 84,
+		"defense": 96,
+		"type": ["Water", "Flying"]
+	},
+	{
+		"name": "Swanna",
+		"number": 581,
+		"hp": 181,
+		"attack": 182,
+		"defense": 132,
+		"type": ["Water", "Flying"]
+	},
+	{
+		"name": "Vanillite",
+		"number": 582,
+		"hp": 113,
+		"attack": 118,
+		"defense": 106,
+		"type": ["Ice"]
+	},
+	{
+		"name": "Vanillish",
+		"number": 583,
+		"hp": 139,
+		"attack": 151,
+		"defense": 138,
+		"type": ["Ice"]
+	},
+	{
+		"name": "Vanilluxe",
+		"number": 584,
+		"hp": 174,
+		"attack": 218,
+		"defense": 184,
+		"type": ["Ice"]
+	},
+	{
+		"name": "Deerling Autumn Form",
+		"number": 585,
+		"hp": 155,
+		"attack": 115,
+		"defense": 100,
+		"type": ["Normal", "Grass"]
+	},
+	{
+		"name": "Deerling Spring Form",
+		"number": 585,
+		"hp": 155,
+		"attack": 115,
+		"defense": 100,
+		"type": ["Normal", "Grass"]
+	},
+	{
+		"name": "Deerling Summer Form",
+		"number": 585,
+		"hp": 155,
+		"attack": 115,
+		"defense": 100,
+		"type": ["Normal", "Grass"]
+	},
+	{
+		"name": "Deerling Winter Form",
+		"number": 585,
+		"hp": 155,
+		"attack": 115,
+		"defense": 100,
+		"type": ["Normal", "Grass"]
+	},
+	{
+		"name": "Sawsbuck Autumn Form",
+		"number": 586,
+		"hp": 190,
+		"attack": 198,
+		"defense": 146,
+		"type": ["Normal", "Grass"]
+	},
+	{
+		"name": "Sawsbuck Spring Form",
+		"number": 586,
+		"hp": 190,
+		"attack": 198,
+		"defense": 146,
+		"type": ["Normal", "Grass"]
+	},
+	{
+		"name": "Sawsbuck Summer Form",
+		"number": 586,
+		"hp": 190,
+		"attack": 198,
+		"defense": 146,
+		"type": ["Normal", "Grass"]
+	},
+	{
+		"name": "Sawsbuck Winter Form",
+		"number": 586,
+		"hp": 190,
+		"attack": 198,
+		"defense": 146,
+		"type": ["Normal", "Grass"]
+	},
+	{
+		"name": "Emolga",
+		"number": 587,
+		"hp": 146,
+		"attack": 158,
+		"defense": 127,
+		"type": ["Electric", "Flying"]
+	},
+	{
+		"name": "Karrablast",
+		"number": 588,
+		"hp": 137,
+		"attack": 137,
+		"defense": 87,
+		"type": ["Bug"]
+	},
+	{
+		"name": "Escavalier",
+		"number": 589,
+		"hp": 172,
+		"attack": 223,
+		"defense": 187,
+		"type": ["Bug", "Steel"]
+	},
+	{
+		"name": "Foongus",
+		"number": 590,
+		"hp": 170,
+		"attack": 97,
+		"defense": 91,
+		"type": ["Grass", "Poison"]
+	},
+	{
+		"name": "Amoonguss",
+		"number": 591,
+		"hp": 249,
+		"attack": 155,
+		"defense": 139,
+		"type": ["Grass", "Poison"]
+	},
+	{
+		"name": "Frillish",
+		"number": 592,
+		"hp": 146,
+		"attack": 115,
+		"defense": 134,
+		"type": ["Water", "Ghost"]
+	},
+	{
+		"name": "Jellicent",
+		"number": 593,
+		"hp": 225,
+		"attack": 159,
+		"defense": 178,
+		"type": ["Water", "Ghost"]
+	},
+	{
+		"name": "Alomomola",
+		"number": 594,
+		"hp": 338,
+		"attack": 138,
+		"defense": 131,
+		"type": ["Water"]
+	},
+	{
+		"name": "Joltik",
+		"number": 595,
+		"hp": 137,
+		"attack": 110,
+		"defense": 98,
+		"type": ["Bug", "Electric"]
+	},
+	{
+		"name": "Galvantula",
+		"number": 596,
+		"hp": 172,
+		"attack": 201,
+		"defense": 128,
+		"type": ["Bug", "Electric"]
+	},
+	{
+		"name": "Ferroseed",
+		"number": 597,
+		"hp": 127,
+		"attack": 82,
+		"defense": 155,
+		"type": ["Grass", "Steel"]
+	},
+	{
+		"name": "Ferrothorn",
+		"number": 598,
+		"hp": 179,
+		"attack": 158,
+		"defense": 223,
+		"type": ["Grass", "Steel"]
+	},
+	{
+		"name": "Klink",
+		"number": 599,
+		"hp": 120,
+		"attack": 98,
+		"defense": 121,
+		"type": ["Steel"]
+	},
+	{
+		"name": "Klang",
+		"number": 600,
+		"hp": 155,
+		"attack": 150,
+		"defense": 174,
+		"type": ["Steel"]
+	},
+	{
+		"name": "Klinklang",
+		"number": 601,
+		"hp": 155,
+		"attack": 199,
+		"defense": 214,
+		"type": ["Steel"]
+	},
+	{
+		"name": "Tynamo",
+		"number": 602,
+		"hp": 111,
+		"attack": 105,
+		"defense": 78,
+		"type": ["Electric"]
+	},
+	{
+		"name": "Eelektrik",
+		"number": 603,
+		"hp": 163,
+		"attack": 156,
+		"defense": 130,
+		"type": ["Electric"]
+	},
+	{
+		"name": "Eelektross",
+		"number": 604,
+		"hp": 198,
+		"attack": 217,
+		"defense": 152,
+		"type": ["Electric"]
+	},
+	{
+		"name": "Elgyem",
+		"number": 605,
+		"hp": 146,
+		"attack": 148,
+		"defense": 100,
+		"type": ["Psychic"]
+	},
+	{
+		"name": "Beheeyem",
+		"number": 606,
+		"hp": 181,
+		"attack": 221,
+		"defense": 163,
+		"type": ["Psychic"]
+	},
+	{
+		"name": "Litwick",
+		"number": 607,
+		"hp": 137,
+		"attack": 108,
+		"defense": 98,
+		"type": ["Ghost", "Fire"]
+	},
+	{
+		"name": "Lampent",
+		"number": 608,
+		"hp": 155,
+		"attack": 169,
+		"defense": 115,
+		"type": ["Ghost", "Fire"]
+	},
+	{
+		"name": "Chandelure",
+		"number": 609,
+		"hp": 155,
+		"attack": 271,
+		"defense": 182,
+		"type": ["Ghost", "Fire"]
+	},
+	{
+		"name": "Axew",
+		"number": 610,
+		"hp": 130,
+		"attack": 154,
+		"defense": 101,
+		"type": ["Dragon"]
+	},
+	{
+		"name": "Fraxure",
+		"number": 611,
+		"hp": 165,
+		"attack": 212,
+		"defense": 123,
+		"type": ["Dragon"]
+	},
+	{
+		"name": "Haxorus",
+		"number": 612,
+		"hp": 183,
+		"attack": 284,
+		"defense": 172,
+		"type": ["Dragon"]
+	},
+	{
+		"name": "Cubchoo",
+		"number": 613,
+		"hp": 146,
+		"attack": 128,
+		"defense": 74,
+		"type": ["Ice"]
+	},
+	{
+		"name": "Beartic",
+		"number": 614,
+		"hp": 216,
+		"attack": 233,
+		"defense": 152,
+		"type": ["Ice"]
+	},
+	{
+		"name": "Cryogonal",
+		"number": 615,
+		"hp": 190,
+		"attack": 190,
+		"defense": 218,
+		"type": ["Ice"]
+	},
+	{
+		"name": "Shelmet",
+		"number": 616,
+		"hp": 137,
+		"attack": 72,
+		"defense": 140,
+		"type": ["Bug"]
+	},
+	{
+		"name": "Accelgor",
+		"number": 617,
+		"hp": 190,
+		"attack": 220,
+		"defense": 120,
+		"type": ["Bug"]
+	},
+	{
+		"name": "Stunfisk",
+		"number": 618,
+		"hp": 240,
+		"attack": 144,
+		"defense": 171,
+		"type": ["Ground", "Electric"]
+	},
+	{
+		"name": "Galarian Stunfisk",
+		"number": 618,
+		"hp": 240,
+		"attack": 144,
+		"defense": 171,
+		"type": ["Steel", "Ground"]
+	},
+	{
+		"name": "Mienfoo",
+		"number": 619,
+		"hp": 128,
+		"attack": 160,
+		"defense": 98,
+		"type": ["Fighting"]
+	},
+	{
+		"name": "Mienshao",
+		"number": 620,
+		"hp": 163,
+		"attack": 258,
+		"defense": 127,
+		"type": ["Fighting"]
+	},
+	{
+		"name": "Druddigon",
+		"number": 621,
+		"hp": 184,
+		"attack": 213,
+		"defense": 170,
+		"type": ["Dragon"]
+	},
+	{
+		"name": "Golett",
+		"number": 622,
+		"hp": 153,
+		"attack": 127,
+		"defense": 92,
+		"type": ["Ground", "Ghost"]
+	},
+	{
+		"name": "Golurk",
+		"number": 623,
+		"hp": 205,
+		"attack": 222,
+		"defense": 154,
+		"type": ["Ground", "Ghost"]
+	},
+	{
+		"name": "Pawniard",
+		"number": 624,
+		"hp": 128,
+		"attack": 154,
+		"defense": 114,
+		"type": ["Dark", "Steel"]
+	},
+	{
+		"name": "Bisharp",
+		"number": 625,
+		"hp": 163,
+		"attack": 232,
+		"defense": 176,
+		"type": ["Dark", "Steel"]
+	},
+	{
+		"name": "Bouffalant",
+		"number": 626,
+		"hp": 216,
+		"attack": 195,
+		"defense": 182,
+		"type": ["Normal"]
+	},
+	{
+		"name": "Rufflet",
+		"number": 627,
+		"hp": 172,
+		"attack": 150,
+		"defense": 97,
+		"type": ["Normal", "Flying"]
+	},
+	{
+		"name": "Braviary",
+		"number": 628,
+		"hp": 225,
+		"attack": 232,
+		"defense": 152,
+		"type": ["Normal", "Flying"]
+	},
+	{
+		"name": "Vullaby",
+		"number": 629,
+		"hp": 172,
+		"attack": 105,
+		"defense": 139,
+		"type": ["Dark", "Flying"]
+	},
+	{
+		"name": "Mandibuzz",
+		"number": 630,
+		"hp": 242,
+		"attack": 129,
+		"defense": 205,
+		"type": ["Dark", "Flying"]
+	},
+	{
+		"name": "Heatmor",
+		"number": 631,
+		"hp": 198,
+		"attack": 204,
+		"defense": 129,
+		"type": ["Fire"]
+	},
+	{
+		"name": "Durant",
+		"number": 632,
+		"hp": 151,
+		"attack": 217,
+		"defense": 188,
+		"type": ["Bug", "Steel"]
+	},
+	{
+		"name": "Deino",
+		"number": 633,
+		"hp": 141,
+		"attack": 116,
+		"defense": 93,
+		"type": ["Dark", "Dragon"]
+	},
+	{
+		"name": "Zweilous",
+		"number": 634,
+		"hp": 176,
+		"attack": 159,
+		"defense": 135,
+		"type": ["Dark", "Dragon"]
+	},
+	{
+		"name": "Hydreigon",
+		"number": 635,
+		"hp": 211,
+		"attack": 256,
+		"defense": 188,
+		"type": ["Dark", "Dragon"]
+	},
+	{
+		"name": "Larvesta",
+		"number": 636,
+		"hp": 146,
+		"attack": 156,
+		"defense": 107,
+		"type": ["Bug", "Fire"]
+	},
+	{
+		"name": "Volcarona",
+		"number": 637,
+		"hp": 198,
+		"attack": 264,
+		"defense": 189,
+		"type": ["Bug", "Fire"]
+	},
+	{
+		"name": "Cobalion",
+		"number": 638,
+		"hp": 209,
+		"attack": 192,
+		"defense": 229,
+		"type": ["Steel", "Fighting"]
+	},
+	{
+		"name": "Terrakion",
+		"number": 639,
+		"hp": 209,
+		"attack": 260,
+		"defense": 192,
+		"type": ["Rock", "Fighting"]
+	},
+	{
+		"name": "Virizion",
+		"number": 640,
+		"hp": 209,
+		"attack": 192,
+		"defense": 229,
+		"type": ["Grass", "Fighting"]
+	},
+	{
+		"name": "Incarnate Tornadus",
+		"number": 641,
+		"hp": 188,
+		"attack": 266,
+		"defense": 164,
+		"type": ["Flying"]
+	},
+	{
+		"name": "Therian Tornadus",
+		"number": 641,
+		"hp": 188,
+		"attack": 238,
+		"defense": 189,
+		"type": ["Flying"]
+	},
+	{
+		"name": "Incarnate Thundurus",
+		"number": 642,
+		"hp": 188,
+		"attack": 266,
+		"defense": 164,
+		"type": ["Electric", "Flying"]
+	},
+	{
+		"name": "Therian Thundurus",
+		"number": 642,
+		"hp": 188,
+		"attack": 295,
+		"defense": 161,
+		"type": ["Electric", "Flying"]
+	},
+	{
+		"name": "Reshiram",
+		"number": 643,
+		"hp": 205,
+		"attack": 275,
+		"defense": 211,
+		"type": ["Dragon", "Fire"]
+	},
+	{
+		"name": "Zekrom",
+		"number": 644,
+		"hp": 205,
+		"attack": 275,
+		"defense": 211,
+		"type": ["Dragon", "Electric"]
+	},
+	{
+		"name": "Incarnate Landorus",
+		"number": 645,
+		"hp": 205,
+		"attack": 261,
+		"defense": 182,
+		"type": ["Ground", "Flying"]
+	},
+	{
+		"name": "Therian Landorus",
+		"number": 645,
+		"hp": 205,
+		"attack": 289,
+		"defense": 179,
+		"type": ["Ground", "Flying"]
+	},
+	{
+		"name": "Kyurem",
+		"number": 646,
+		"hp": 245,
+		"attack": 246,
+		"defense": 170,
+		"type": ["Dragon", "Ice"]
+	},
+	{
+		"name": "White Kyurem",
+		"number": 646,
+		"hp": 245,
+		"attack": 310,
+		"defense": 183,
+		"type": ["Dragon", "Ice"]
+	},
+	{
+		"name": "Black Kyurem",
+		"number": 646,
+		"hp": 245,
+		"attack": 310,
+		"defense": 183,
+		"type": ["Dragon", "Ice"]
+	},
+	{
+		"name": "Keldeo",
+		"number": 647,
+		"hp": 209,
+		"attack": 260,
+		"defense": 192,
+		"type": ["Water", "Fighting"]
+	},
+	{
+		"name": "Resolute Form Keldeo",
+		"number": 647,
+		"hp": 209,
+		"attack": 260,
+		"defense": 192,
+		"type": ["Water", "Fighting"]
+	},
+	{
+		"name": "Aria Meloetta",
+		"number": 648,
+		"hp": 225,
+		"attack": 250,
+		"defense": 225,
+		"type": ["Normal", "Psychic"]
+	},
+	{
+		"name": "Pirouette Meloetta",
+		"number": 648,
+		"hp": 225,
+		"attack": 269,
+		"defense": 188,
+		"type": ["Normal", "Fighting"]
+	},
+	{
+		"name": "Genesect",
+		"number": 649,
+		"hp": 252,
+		"attack": 199,
+		"defense": 174,
+		"type": ["Bug", "Steel"]
+	},
+	{
+		"name": "Meltan",
+		"number": 808,
+		"hp": 130,
+		"attack": 118,
+		"defense": 99,
+		"type": ["Steel"]
+	},
+	{
+		"name": "Melmetal",
+		"number": 809,
+		"hp": 264,
+		"attack": 226,
+		"defense": 190,
+		"type": ["Steel"]
+	},
+	{
+		"name": "Obstagoon",
+		"number": 862,
+		"hp": 212,
+		"attack": 180,
+		"defense": 194,
+		"type": ["Steel", "Dark"]
+	},
+	{
+		"name": "Perrserker",
+		"number": 863,
+		"hp": 172,
+		"attack": 195,
+		"defense": 162,
+		"type": ["Steel"]
+	},
+]

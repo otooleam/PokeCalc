@@ -1,0 +1,9139 @@
+{
+   "001": {
+      "name": "Bulbasaur",
+      "types": [
+         "Grass",
+         "Poison"
+      ],
+      "stamina": 128,
+      "attack": 118,
+      "defense": 111,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 20.0
+   },
+   "002": {
+      "name": "Ivysaur",
+      "types": [
+         "Grass",
+         "Poison"
+      ],
+      "stamina": 155,
+      "attack": 151,
+      "defense": 143,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 10.0
+   },
+   "003": {
+      "name": "Venusaur",
+      "types": [
+         "Grass",
+         "Poison"
+      ],
+      "stamina": 190,
+      "attack": 198,
+      "defense": 189,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 5.0
+   },
+   "004": {
+      "name": "Charmander",
+      "types": [
+         "Fire"
+      ],
+      "stamina": 118,
+      "attack": 116,
+      "defense": 93,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 20.0
+   },
+   "005": {
+      "name": "Charmeleon",
+      "types": [
+         "Fire"
+      ],
+      "stamina": 151,
+      "attack": 158,
+      "defense": 126,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 10.0
+   },
+   "006": {
+      "name": "Charizard",
+      "types": [
+         "Fire",
+         "Flying"
+      ],
+      "stamina": 186,
+      "attack": 223,
+      "defense": 173,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 5.0
+   },
+   "007": {
+      "name": "Squirtle",
+      "types": [
+         "Water"
+      ],
+      "stamina": 127,
+      "attack": 94,
+      "defense": 121,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 20.0
+   },
+   "008": {
+      "name": "Wartortle",
+      "types": [
+         "Water"
+      ],
+      "stamina": 153,
+      "attack": 126,
+      "defense": 155,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 10.0
+   },
+   "009": {
+      "name": "Blastoise",
+      "types": [
+         "Water"
+      ],
+      "stamina": 188,
+      "attack": 171,
+      "defense": 207,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 5.0
+   },
+   "010": {
+      "name": "Caterpie",
+      "types": [
+         "Bug"
+      ],
+      "stamina": 128,
+      "attack": 55,
+      "defense": 55,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 50.0
+   },
+   "011": {
+      "name": "Metapod",
+      "types": [
+         "Bug"
+      ],
+      "stamina": 137,
+      "attack": 45,
+      "defense": 80,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 25.0
+   },
+   "012": {
+      "name": "Butterfree",
+      "types": [
+         "Bug",
+         "Flying"
+      ],
+      "stamina": 155,
+      "attack": 167,
+      "defense": 137,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 12.5
+   },
+   "013": {
+      "name": "Weedle",
+      "types": [
+         "Bug",
+         "Poison"
+      ],
+      "stamina": 120,
+      "attack": 63,
+      "defense": 50,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 50.0
+   },
+   "014": {
+      "name": "Kakuna",
+      "types": [
+         "Bug",
+         "Poison"
+      ],
+      "stamina": 128,
+      "attack": 46,
+      "defense": 75,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 25.0
+   },
+   "015": {
+      "name": "Beedrill",
+      "types": [
+         "Bug",
+         "Poison"
+      ],
+      "stamina": 163,
+      "attack": 169,
+      "defense": 130,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 12.5
+   },
+   "016": {
+      "name": "Pidgey",
+      "types": [
+         "Normal",
+         "Flying"
+      ],
+      "stamina": 120,
+      "attack": 85,
+      "defense": 73,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 50.0
+   },
+   "017": {
+      "name": "Pidgeotto",
+      "types": [
+         "Normal",
+         "Flying"
+      ],
+      "stamina": 160,
+      "attack": 117,
+      "defense": 105,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 25.0
+   },
+   "018": {
+      "name": "Pidgeot",
+      "types": [
+         "Normal",
+         "Flying"
+      ],
+      "stamina": 195,
+      "attack": 166,
+      "defense": 154,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 12.5
+   },
+   "019": {
+      "name": "Rattata",
+      "types": [
+         "Normal"
+      ],
+      "stamina": 102,
+      "attack": 103,
+      "defense": 70,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 50.0
+   },
+   "019A": {
+      "name": "Alolan Rattata",
+      "types": [
+         "Dark",
+         "Normal"
+      ],
+      "stamina": 102,
+      "attack": 103,
+      "defense": 70,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 50.0
+   },
+   "020": {
+      "name": "Raticate",
+      "types": [
+         "Normal"
+      ],
+      "stamina": 146,
+      "attack": 161,
+      "defense": 139,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 20.0
+   },
+   "020A": {
+      "name": "Alolan Raticate",
+      "types": [
+         "Dark",
+         "Normal"
+      ],
+      "stamina": 181,
+      "attack": 135,
+      "defense": 154,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 20.0
+   },
+   "021": {
+      "name": "Spearow",
+      "types": [
+         "Normal",
+         "Flying"
+      ],
+      "stamina": 120,
+      "attack": 112,
+      "defense": 60,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 50.0
+   },
+   "022": {
+      "name": "Fearow",
+      "types": [
+         "Normal",
+         "Flying"
+      ],
+      "stamina": 163,
+      "attack": 182,
+      "defense": 133,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 20.0
+   },
+   "023": {
+      "name": "Ekans",
+      "types": [
+         "Poison"
+      ],
+      "stamina": 111,
+      "attack": 110,
+      "defense": 97,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 50.0
+   },
+   "024": {
+      "name": "Arbok",
+      "types": [
+         "Poison"
+      ],
+      "stamina": 155,
+      "attack": 167,
+      "defense": 153,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 20.0
+   },
+   "025": {
+      "name": "Pikachu",
+      "types": [
+         "Electric"
+      ],
+      "stamina": 111,
+      "attack": 112,
+      "defense": 96,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 20.0
+   },
+   "026": {
+      "name": "Raichu",
+      "types": [
+         "Electric"
+      ],
+      "stamina": 155,
+      "attack": 193,
+      "defense": 151,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 10.0
+   },
+   "026A": {
+      "name": "Alolan Raichu",
+      "types": [
+         "Electric",
+         "Psychic"
+      ],
+      "stamina": 155,
+      "attack": 201,
+      "defense": 154,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 10.0
+   },
+   "027": {
+      "name": "Sandshrew",
+      "types": [
+         "Ground"
+      ],
+      "stamina": 137,
+      "attack": 126,
+      "defense": 120,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 50.0
+   },
+   "027A": {
+      "name": "Alolan Sandshrew",
+      "types": [
+         "Ice",
+         "Steel"
+      ],
+      "stamina": 137,
+      "attack": 125,
+      "defense": 129,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 50.0
+   },
+   "028": {
+      "name": "Sandslash",
+      "types": [
+         "Ground"
+      ],
+      "stamina": 181,
+      "attack": 182,
+      "defense": 175,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 20.0
+   },
+   "028A": {
+      "name": "Alolan Sandslash",
+      "types": [
+         "Ice",
+         "Steel"
+      ],
+      "stamina": 181,
+      "attack": 177,
+      "defense": 195,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 20.0
+   },
+   "029": {
+      "name": "Nidoran F",
+      "types": [
+         "Poison"
+      ],
+      "stamina": 146,
+      "attack": 86,
+      "defense": 89,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 50.0
+   },
+   "030": {
+      "name": "Nidorina",
+      "types": [
+         "Poison"
+      ],
+      "stamina": 172,
+      "attack": 117,
+      "defense": 120,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 25.0
+   },
+   "031": {
+      "name": "Nidoqueen",
+      "types": [
+         "Poison",
+         "Ground"
+      ],
+      "stamina": 207,
+      "attack": 180,
+      "defense": 173,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 12.5
+   },
+   "032": {
+      "name": "Nidoran M",
+      "types": [
+         "Poison"
+      ],
+      "stamina": 130,
+      "attack": 105,
+      "defense": 76,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 50.0
+   },
+   "033": {
+      "name": "Nidorino",
+      "types": [
+         "Poison"
+      ],
+      "stamina": 156,
+      "attack": 137,
+      "defense": 111,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 25.0
+   },
+   "034": {
+      "name": "Nidoking",
+      "types": [
+         "Poison",
+         "Ground"
+      ],
+      "stamina": 191,
+      "attack": 204,
+      "defense": 156,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 12.5
+   },
+   "035": {
+      "name": "Clefairy",
+      "types": [
+         "Fairy"
+      ],
+      "stamina": 172,
+      "attack": 107,
+      "defense": 108,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 30.0
+   },
+   "036": {
+      "name": "Clefable",
+      "types": [
+         "Fairy"
+      ],
+      "stamina": 216,
+      "attack": 178,
+      "defense": 162,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 10.0
+   },
+   "037": {
+      "name": "Vulpix",
+      "types": [
+         "Fire"
+      ],
+      "stamina": 116,
+      "attack": 96,
+      "defense": 109,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 30.0
+   },
+   "037A": {
+      "name": "Alolan Vulpix",
+      "types": [
+         "Ice"
+      ],
+      "stamina": 116,
+      "attack": 96,
+      "defense": 109,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 30.0
+   },
+   "038": {
+      "name": "Ninetales",
+      "types": [
+         "Fire"
+      ],
+      "stamina": 177,
+      "attack": 169,
+      "defense": 190,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 10.0
+   },
+   "038A": {
+      "name": "Alolan Ninetales",
+      "types": [
+         "Ice",
+         "Fairy"
+      ],
+      "stamina": 177,
+      "attack": 170,
+      "defense": 193,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 10.0
+   },
+   "039": {
+      "name": "Jigglypuff",
+      "types": [
+         "Normal",
+         "Fairy"
+      ],
+      "stamina": 251,
+      "attack": 80,
+      "defense": 41,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 50.0
+   },
+   "040": {
+      "name": "Wigglytuff",
+      "types": [
+         "Normal",
+         "Fairy"
+      ],
+      "stamina": 295,
+      "attack": 156,
+      "defense": 90,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 20.0
+   },
+   "041": {
+      "name": "Zubat",
+      "types": [
+         "Poison",
+         "Flying"
+      ],
+      "stamina": 120,
+      "attack": 83,
+      "defense": 73,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 50.0
+   },
+   "042": {
+      "name": "Golbat",
+      "types": [
+         "Poison",
+         "Flying"
+      ],
+      "stamina": 181,
+      "attack": 161,
+      "defense": 150,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 20.0
+   },
+   "043": {
+      "name": "Oddish",
+      "types": [
+         "Grass",
+         "Poison"
+      ],
+      "stamina": 128,
+      "attack": 131,
+      "defense": 112,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 60.0
+   },
+   "044": {
+      "name": "Gloom",
+      "types": [
+         "Grass",
+         "Poison"
+      ],
+      "stamina": 155,
+      "attack": 153,
+      "defense": 136,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 30.0
+   },
+   "045": {
+      "name": "Vileplume",
+      "types": [
+         "Grass",
+         "Poison"
+      ],
+      "stamina": 181,
+      "attack": 202,
+      "defense": 167,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 15.0
+   },
+   "046": {
+      "name": "Paras",
+      "types": [
+         "Bug",
+         "Grass"
+      ],
+      "stamina": 111,
+      "attack": 121,
+      "defense": 99,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 40.0
+   },
+   "047": {
+      "name": "Parasect",
+      "types": [
+         "Bug",
+         "Grass"
+      ],
+      "stamina": 155,
+      "attack": 165,
+      "defense": 146,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 20.0
+   },
+   "048": {
+      "name": "Venonat",
+      "types": [
+         "Bug",
+         "Poison"
+      ],
+      "stamina": 155,
+      "attack": 100,
+      "defense": 100,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 50.0
+   },
+   "049": {
+      "name": "Venomoth",
+      "types": [
+         "Bug",
+         "Poison"
+      ],
+      "stamina": 172,
+      "attack": 179,
+      "defense": 143,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 20.0
+   },
+   "050": {
+      "name": "Diglett",
+      "types": [
+         "Ground"
+      ],
+      "stamina": 67,
+      "attack": 109,
+      "defense": 78,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 50.0
+   },
+   "050A": {
+      "name": "Alolan Diglett",
+      "types": [
+         "Ground",
+         "Steel"
+      ],
+      "stamina": 67,
+      "attack": 108,
+      "defense": 81,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 50.0
+   },
+   "051": {
+      "name": "Dugtrio",
+      "types": [
+         "Ground"
+      ],
+      "stamina": 111,
+      "attack": 167,
+      "defense": 134,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 20.0
+   },
+   "051A": {
+      "name": "Alolan Dugtrio",
+      "types": [
+         "Ground",
+         "Steel"
+      ],
+      "stamina": 111,
+      "attack": 201,
+      "defense": 142,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 20.0
+   },
+   "052": {
+      "name": "Meowth",
+      "types": [
+         "Normal"
+      ],
+      "stamina": 120,
+      "attack": 92,
+      "defense": 78,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 50.0
+   },
+   "052A": {
+      "name": "Alolan Meowth",
+      "types": [
+         "Dark"
+      ],
+      "stamina": 120,
+      "attack": 99,
+      "defense": 78,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 50.0
+   },
+   "052G": {
+      "name": "Galarian Meowth",
+      "types": [
+         "Steel"
+      ],
+      "stamina": 137,
+      "attack": 115,
+      "defense": 92,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 50.0
+   },
+   "053": {
+      "name": "Persian",
+      "types": [
+         "Normal"
+      ],
+      "stamina": 163,
+      "attack": 150,
+      "defense": 136,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 20.0
+   },
+   "053A": {
+      "name": "Alolan Persian",
+      "types": [
+         "Dark"
+      ],
+      "stamina": 163,
+      "attack": 158,
+      "defense": 136,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 20.0
+   },
+   "054": {
+      "name": "Psyduck",
+      "types": [
+         "Water"
+      ],
+      "stamina": 137,
+      "attack": 122,
+      "defense": 95,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 50.0
+   },
+   "055": {
+      "name": "Golduck",
+      "types": [
+         "Water"
+      ],
+      "stamina": 190,
+      "attack": 191,
+      "defense": 162,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 20.0
+   },
+   "056": {
+      "name": "Mankey",
+      "types": [
+         "Fighting"
+      ],
+      "stamina": 120,
+      "attack": 148,
+      "defense": 82,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 50.0
+   },
+   "057": {
+      "name": "Primeape",
+      "types": [
+         "Fighting"
+      ],
+      "stamina": 163,
+      "attack": 207,
+      "defense": 138,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 20.0
+   },
+   "058": {
+      "name": "Growlithe",
+      "types": [
+         "Fire"
+      ],
+      "stamina": 146,
+      "attack": 136,
+      "defense": 93,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 30.0
+   },
+   "059": {
+      "name": "Arcanine",
+      "types": [
+         "Fire"
+      ],
+      "stamina": 207,
+      "attack": 227,
+      "defense": 166,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 10.0
+   },
+   "060": {
+      "name": "Poliwag",
+      "types": [
+         "Water"
+      ],
+      "stamina": 120,
+      "attack": 101,
+      "defense": 82,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 50.0
+   },
+   "061": {
+      "name": "Poliwhirl",
+      "types": [
+         "Water"
+      ],
+      "stamina": 163,
+      "attack": 130,
+      "defense": 123,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 25.0
+   },
+   "062": {
+      "name": "Poliwrath",
+      "types": [
+         "Water",
+         "Fighting"
+      ],
+      "stamina": 207,
+      "attack": 182,
+      "defense": 184,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 12.5
+   },
+   "063": {
+      "name": "Abra",
+      "types": [
+         "Psychic"
+      ],
+      "stamina": 93,
+      "attack": 195,
+      "defense": 82,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 50.0
+   },
+   "064": {
+      "name": "Kadabra",
+      "types": [
+         "Psychic"
+      ],
+      "stamina": 120,
+      "attack": 232,
+      "defense": 117,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 25.0
+   },
+   "065": {
+      "name": "Alakazam",
+      "types": [
+         "Psychic"
+      ],
+      "stamina": 146,
+      "attack": 271,
+      "defense": 167,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 10.0
+   },
+   "066": {
+      "name": "Machop",
+      "types": [
+         "Fighting"
+      ],
+      "stamina": 172,
+      "attack": 137,
+      "defense": 82,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 50.0
+   },
+   "067": {
+      "name": "Machoke",
+      "types": [
+         "Fighting"
+      ],
+      "stamina": 190,
+      "attack": 177,
+      "defense": 125,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 25.0
+   },
+   "068": {
+      "name": "Machamp",
+      "types": [
+         "Fighting"
+      ],
+      "stamina": 207,
+      "attack": 234,
+      "defense": 159,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 10.0
+   },
+   "069": {
+      "name": "Bellsprout",
+      "types": [
+         "Grass",
+         "Poison"
+      ],
+      "stamina": 137,
+      "attack": 139,
+      "defense": 61,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 50.0
+   },
+   "070": {
+      "name": "Weepinbell",
+      "types": [
+         "Grass",
+         "Poison"
+      ],
+      "stamina": 163,
+      "attack": 172,
+      "defense": 92,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 25.0
+   },
+   "071": {
+      "name": "Victreebel",
+      "types": [
+         "Grass",
+         "Poison"
+      ],
+      "stamina": 190,
+      "attack": 207,
+      "defense": 135,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 12.5
+   },
+   "072": {
+      "name": "Tentacool",
+      "types": [
+         "Water",
+         "Poison"
+      ],
+      "stamina": 120,
+      "attack": 97,
+      "defense": 149,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 50.0
+   },
+   "073": {
+      "name": "Tentacruel",
+      "types": [
+         "Water",
+         "Poison"
+      ],
+      "stamina": 190,
+      "attack": 166,
+      "defense": 209,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 20.0
+   },
+   "074": {
+      "name": "Geodude",
+      "types": [
+         "Rock",
+         "Ground"
+      ],
+      "stamina": 120,
+      "attack": 132,
+      "defense": 132,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 50.0
+   },
+   "074A": {
+      "name": "Alolan Geodude",
+      "types": [
+         "Rock",
+         "Electric"
+      ],
+      "stamina": 120,
+      "attack": 132,
+      "defense": 132,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 50.0
+   },
+   "075": {
+      "name": "Graveler",
+      "types": [
+         "Rock",
+         "Ground"
+      ],
+      "stamina": 146,
+      "attack": 164,
+      "defense": 164,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 25.0
+   },
+   "075A": {
+      "name": "Alolan Graveler",
+      "types": [
+         "Rock",
+         "Electric"
+      ],
+      "stamina": 146,
+      "attack": 164,
+      "defense": 164,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 25.0
+   },
+   "076": {
+      "name": "Golem",
+      "types": [
+         "Rock",
+         "Ground"
+      ],
+      "stamina": 190,
+      "attack": 211,
+      "defense": 198,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 12.5
+   },
+   "076A": {
+      "name": "Alolan Golem",
+      "types": [
+         "Rock",
+         "Electric"
+      ],
+      "stamina": 190,
+      "attack": 211,
+      "defense": 198,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 12.5
+   },
+   "077": {
+      "name": "Ponyta",
+      "types": [
+         "Fire"
+      ],
+      "stamina": 137,
+      "attack": 170,
+      "defense": 127,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 40.0
+   },
+   "078": {
+      "name": "Rapidash",
+      "types": [
+         "Fire"
+      ],
+      "stamina": 163,
+      "attack": 207,
+      "defense": 162,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 15.0
+   },
+   "079": {
+      "name": "Slowpoke",
+      "types": [
+         "Water",
+         "Psychic"
+      ],
+      "stamina": 207,
+      "attack": 109,
+      "defense": 98,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 50.0
+   },
+   "080": {
+      "name": "Slowbro",
+      "types": [
+         "Water",
+         "Psychic"
+      ],
+      "stamina": 216,
+      "attack": 177,
+      "defense": 180,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 20.0
+   },
+   "081": {
+      "name": "Magnemite",
+      "types": [
+         "Electric",
+         "Steel"
+      ],
+      "stamina": 93,
+      "attack": 165,
+      "defense": 121,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 50.0
+   },
+   "082": {
+      "name": "Magneton",
+      "types": [
+         "Electric",
+         "Steel"
+      ],
+      "stamina": 137,
+      "attack": 223,
+      "defense": 169,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 20.0
+   },
+   "083": {
+      "name": "Farfetch'd",
+      "types": [
+         "Normal",
+         "Flying"
+      ],
+      "stamina": 141,
+      "attack": 124,
+      "defense": 115,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 30.0
+   },
+   "084": {
+      "name": "Doduo",
+      "types": [
+         "Normal",
+         "Flying"
+      ],
+      "stamina": 111,
+      "attack": 158,
+      "defense": 83,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 50.0
+   },
+   "085": {
+      "name": "Dodrio",
+      "types": [
+         "Normal",
+         "Flying"
+      ],
+      "stamina": 155,
+      "attack": 218,
+      "defense": 140,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 20.0
+   },
+   "086": {
+      "name": "Seel",
+      "types": [
+         "Water"
+      ],
+      "stamina": 163,
+      "attack": 85,
+      "defense": 121,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 50.0
+   },
+   "087": {
+      "name": "Dewgong",
+      "types": [
+         "Water",
+         "Ice"
+      ],
+      "stamina": 207,
+      "attack": 139,
+      "defense": 177,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 20.0
+   },
+   "088": {
+      "name": "Grimer",
+      "types": [
+         "Poison"
+      ],
+      "stamina": 190,
+      "attack": 135,
+      "defense": 90,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 50.0
+   },
+   "088A": {
+      "name": "Alolan Grimer",
+      "types": [
+         "Poison",
+         "Dark"
+      ],
+      "stamina": 190,
+      "attack": 135,
+      "defense": 90,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 50.0
+   },
+   "089": {
+      "name": "Muk",
+      "types": [
+         "Poison"
+      ],
+      "stamina": 233,
+      "attack": 190,
+      "defense": 172,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 20.0
+   },
+   "089A": {
+      "name": "Alolan Muk",
+      "types": [
+         "Poison",
+         "Dark"
+      ],
+      "stamina": 233,
+      "attack": 190,
+      "defense": 172,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 20.0
+   },
+   "090": {
+      "name": "Shellder",
+      "types": [
+         "Water"
+      ],
+      "stamina": 102,
+      "attack": 116,
+      "defense": 134,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 50.0
+   },
+   "091": {
+      "name": "Cloyster",
+      "types": [
+         "Water",
+         "Ice"
+      ],
+      "stamina": 137,
+      "attack": 186,
+      "defense": 256,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 20.0
+   },
+   "092": {
+      "name": "Gastly",
+      "types": [
+         "Ghost",
+         "Poison"
+      ],
+      "stamina": 102,
+      "attack": 186,
+      "defense": 67,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 40.0
+   },
+   "093": {
+      "name": "Haunter",
+      "types": [
+         "Ghost",
+         "Poison"
+      ],
+      "stamina": 128,
+      "attack": 223,
+      "defense": 107,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 20.0
+   },
+   "094": {
+      "name": "Gengar",
+      "types": [
+         "Ghost",
+         "Poison"
+      ],
+      "stamina": 155,
+      "attack": 261,
+      "defense": 149,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 10.0
+   },
+   "095": {
+      "name": "Onix",
+      "types": [
+         "Rock",
+         "Ground"
+      ],
+      "stamina": 111,
+      "attack": 85,
+      "defense": 232,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 20.0
+   },
+   "096": {
+      "name": "Drowzee",
+      "types": [
+         "Psychic"
+      ],
+      "stamina": 155,
+      "attack": 89,
+      "defense": 136,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 50.0
+   },
+   "097": {
+      "name": "Hypno",
+      "types": [
+         "Psychic"
+      ],
+      "stamina": 198,
+      "attack": 144,
+      "defense": 193,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 20.0
+   },
+   "098": {
+      "name": "Krabby",
+      "types": [
+         "Water"
+      ],
+      "stamina": 102,
+      "attack": 181,
+      "defense": 124,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 50.0
+   },
+   "099": {
+      "name": "Kingler",
+      "types": [
+         "Water"
+      ],
+      "stamina": 146,
+      "attack": 240,
+      "defense": 181,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 20.0
+   },
+   "100": {
+      "name": "Voltorb",
+      "types": [
+         "Electric"
+      ],
+      "stamina": 120,
+      "attack": 109,
+      "defense": 111,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 50.0
+   },
+   "101": {
+      "name": "Electrode",
+      "types": [
+         "Electric"
+      ],
+      "stamina": 155,
+      "attack": 173,
+      "defense": 173,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 20.0
+   },
+   "102": {
+      "name": "Exeggcute",
+      "types": [
+         "Grass",
+         "Psychic"
+      ],
+      "stamina": 155,
+      "attack": 107,
+      "defense": 125,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 50.0
+   },
+   "103": {
+      "name": "Exeggutor",
+      "types": [
+         "Grass",
+         "Psychic"
+      ],
+      "stamina": 216,
+      "attack": 233,
+      "defense": 149,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 20.0
+   },
+   "103A": {
+      "name": "Alolan Exeggutor",
+      "types": [
+         "Grass",
+         "Dragon"
+      ],
+      "stamina": 216,
+      "attack": 230,
+      "defense": 153,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 20.0
+   },
+   "104": {
+      "name": "Cubone",
+      "types": [
+         "Ground"
+      ],
+      "stamina": 137,
+      "attack": 90,
+      "defense": 144,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 40.0
+   },
+   "105": {
+      "name": "Marowak",
+      "types": [
+         "Ground"
+      ],
+      "stamina": 155,
+      "attack": 144,
+      "defense": 186,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 15.0
+   },
+   "105A": {
+      "name": "Alolan Marowak",
+      "types": [
+         "Fire",
+         "Ghost"
+      ],
+      "stamina": 155,
+      "attack": 144,
+      "defense": 186,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 15.0
+   },
+   "106": {
+      "name": "Hitmonlee",
+      "types": [
+         "Fighting"
+      ],
+      "stamina": 137,
+      "attack": 224,
+      "defense": 181,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 20.0
+   },
+   "107": {
+      "name": "Hitmonchan",
+      "types": [
+         "Fighting"
+      ],
+      "stamina": 137,
+      "attack": 193,
+      "defense": 197,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 20.0
+   },
+   "108": {
+      "name": "Lickitung",
+      "types": [
+         "Normal"
+      ],
+      "stamina": 207,
+      "attack": 108,
+      "defense": 137,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 20.0
+   },
+   "109": {
+      "name": "Koffing",
+      "types": [
+         "Poison"
+      ],
+      "stamina": 120,
+      "attack": 119,
+      "defense": 141,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 50.0
+   },
+   "110": {
+      "name": "Weezing",
+      "types": [
+         "Poison"
+      ],
+      "stamina": 163,
+      "attack": 174,
+      "defense": 197,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 20.0
+   },
+   "110G": {
+      "name": "Galarian Weezing",
+      "types": [
+         "Fairy",
+         "Poison"
+      ],
+      "stamina": 163,
+      "attack": 174,
+      "defense": 197,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 0.0
+   },
+   "111": {
+      "name": "Rhyhorn",
+      "types": [
+         "Ground",
+         "Rock"
+      ],
+      "stamina": 190,
+      "attack": 140,
+      "defense": 127,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 50.0
+   },
+   "112": {
+      "name": "Rhydon",
+      "types": [
+         "Ground",
+         "Rock"
+      ],
+      "stamina": 233,
+      "attack": 222,
+      "defense": 171,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 5.0
+   },
+   "113": {
+      "name": "Chansey",
+      "types": [
+         "Normal"
+      ],
+      "stamina": 487,
+      "attack": 60,
+      "defense": 128,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 20.0
+   },
+   "114": {
+      "name": "Tangela",
+      "types": [
+         "Grass"
+      ],
+      "stamina": 163,
+      "attack": 183,
+      "defense": 169,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 40.0
+   },
+   "115": {
+      "name": "Kangaskhan",
+      "types": [
+         "Normal"
+      ],
+      "stamina": 233,
+      "attack": 181,
+      "defense": 165,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 20.0
+   },
+   "116": {
+      "name": "Horsea",
+      "types": [
+         "Water"
+      ],
+      "stamina": 102,
+      "attack": 129,
+      "defense": 103,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 50.0
+   },
+   "117": {
+      "name": "Seadra",
+      "types": [
+         "Water"
+      ],
+      "stamina": 146,
+      "attack": 187,
+      "defense": 156,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 20.0
+   },
+   "118": {
+      "name": "Goldeen",
+      "types": [
+         "Water"
+      ],
+      "stamina": 128,
+      "attack": 123,
+      "defense": 110,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 50.0
+   },
+   "119": {
+      "name": "Seaking",
+      "types": [
+         "Water"
+      ],
+      "stamina": 190,
+      "attack": 175,
+      "defense": 147,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 20.0
+   },
+   "120": {
+      "name": "Staryu",
+      "types": [
+         "Water"
+      ],
+      "stamina": 102,
+      "attack": 137,
+      "defense": 112,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 50.0
+   },
+   "121": {
+      "name": "Starmie",
+      "types": [
+         "Water",
+         "Psychic"
+      ],
+      "stamina": 155,
+      "attack": 210,
+      "defense": 184,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 20.0
+   },
+   "122": {
+      "name": "Mr. Mime",
+      "types": [
+         "Psychic",
+         "Fairy"
+      ],
+      "stamina": 120,
+      "attack": 192,
+      "defense": 205,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 30.0
+   },
+   "123": {
+      "name": "Scyther",
+      "types": [
+         "Bug",
+         "Flying"
+      ],
+      "stamina": 172,
+      "attack": 218,
+      "defense": 170,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 30.0
+   },
+   "124": {
+      "name": "Jynx",
+      "types": [
+         "Ice",
+         "Psychic"
+      ],
+      "stamina": 163,
+      "attack": 223,
+      "defense": 151,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 30.0
+   },
+   "125": {
+      "name": "Electabuzz",
+      "types": [
+         "Electric"
+      ],
+      "stamina": 163,
+      "attack": 198,
+      "defense": 158,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 20.0
+   },
+   "126": {
+      "name": "Magmar",
+      "types": [
+         "Fire"
+      ],
+      "stamina": 163,
+      "attack": 206,
+      "defense": 154,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 20.0
+   },
+   "127": {
+      "name": "Pinsir",
+      "types": [
+         "Bug"
+      ],
+      "stamina": 163,
+      "attack": 238,
+      "defense": 182,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 30.0
+   },
+   "128": {
+      "name": "Tauros",
+      "types": [
+         "Normal"
+      ],
+      "stamina": 181,
+      "attack": 198,
+      "defense": 183,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 30.0
+   },
+   "129": {
+      "name": "Magikarp",
+      "types": [
+         "Water"
+      ],
+      "stamina": 85,
+      "attack": 29,
+      "defense": 85,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 70.0
+   },
+   "130": {
+      "name": "Gyarados",
+      "types": [
+         "Water",
+         "Flying"
+      ],
+      "stamina": 216,
+      "attack": 237,
+      "defense": 186,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 10.0
+   },
+   "131": {
+      "name": "Lapras",
+      "types": [
+         "Water",
+         "Ice"
+      ],
+      "stamina": 277,
+      "attack": 165,
+      "defense": 174,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 5.0
+   },
+   "132": {
+      "name": "Ditto",
+      "types": [
+         "Normal"
+      ],
+      "stamina": 134,
+      "attack": 91,
+      "defense": 91,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 20.0
+   },
+   "133": {
+      "name": "Eevee",
+      "types": [
+         "Normal"
+      ],
+      "stamina": 146,
+      "attack": 104,
+      "defense": 114,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 40.0
+   },
+   "134": {
+      "name": "Vaporeon",
+      "types": [
+         "Water"
+      ],
+      "stamina": 277,
+      "attack": 205,
+      "defense": 161,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 12.5
+   },
+   "135": {
+      "name": "Jolteon",
+      "types": [
+         "Electric"
+      ],
+      "stamina": 163,
+      "attack": 232,
+      "defense": 182,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 12.5
+   },
+   "136": {
+      "name": "Flareon",
+      "types": [
+         "Fire"
+      ],
+      "stamina": 163,
+      "attack": 246,
+      "defense": 179,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 12.5
+   },
+   "137": {
+      "name": "Porygon",
+      "types": [
+         "Normal"
+      ],
+      "stamina": 163,
+      "attack": 153,
+      "defense": 136,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 40.0
+   },
+   "138": {
+      "name": "Omanyte",
+      "types": [
+         "Rock",
+         "Water"
+      ],
+      "stamina": 111,
+      "attack": 155,
+      "defense": 153,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 40.0
+   },
+   "139": {
+      "name": "Omastar",
+      "types": [
+         "Rock",
+         "Water"
+      ],
+      "stamina": 172,
+      "attack": 207,
+      "defense": 201,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 15.0
+   },
+   "140": {
+      "name": "Kabuto",
+      "types": [
+         "Rock",
+         "Water"
+      ],
+      "stamina": 102,
+      "attack": 148,
+      "defense": 140,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 40.0
+   },
+   "141": {
+      "name": "Kabutops",
+      "types": [
+         "Rock",
+         "Water"
+      ],
+      "stamina": 155,
+      "attack": 220,
+      "defense": 186,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 15.0
+   },
+   "142": {
+      "name": "Aerodactyl",
+      "types": [
+         "Rock",
+         "Flying"
+      ],
+      "stamina": 190,
+      "attack": 221,
+      "defense": 159,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 20.0
+   },
+   "143": {
+      "name": "Snorlax",
+      "types": [
+         "Normal"
+      ],
+      "stamina": 330,
+      "attack": 190,
+      "defense": 169,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 5.0
+   },
+   "144": {
+      "name": "Articuno",
+      "types": [
+         "Ice",
+         "Flying"
+      ],
+      "stamina": 207,
+      "attack": 192,
+      "defense": 236,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 3.0
+   },
+   "145": {
+      "name": "Zapdos",
+      "types": [
+         "Electric",
+         "Flying"
+      ],
+      "stamina": 207,
+      "attack": 253,
+      "defense": 185,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 3.0
+   },
+   "146": {
+      "name": "Moltres",
+      "types": [
+         "Fire",
+         "Flying"
+      ],
+      "stamina": 207,
+      "attack": 251,
+      "defense": 181,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 3.0
+   },
+   "147": {
+      "name": "Dratini",
+      "types": [
+         "Dragon"
+      ],
+      "stamina": 121,
+      "attack": 119,
+      "defense": 91,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 40.0
+   },
+   "148": {
+      "name": "Dragonair",
+      "types": [
+         "Dragon"
+      ],
+      "stamina": 156,
+      "attack": 163,
+      "defense": 135,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 10.0
+   },
+   "149": {
+      "name": "Dragonite",
+      "types": [
+         "Dragon",
+         "Flying"
+      ],
+      "stamina": 209,
+      "attack": 263,
+      "defense": 198,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 5.0
+   },
+   "150": {
+      "name": "Mewtwo",
+      "types": [
+         "Psychic"
+      ],
+      "stamina": 214,
+      "attack": 300,
+      "defense": 182,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 2.0
+   },
+   "150A": {
+      "name": "Armored Mewtwo",
+      "types": [
+         "Psychic"
+      ],
+      "stamina": 214,
+      "attack": 182,
+      "defense": 278,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 2.0
+   },
+   "151": {
+      "name": "Mew",
+      "types": [
+         "Psychic"
+      ],
+      "stamina": 225,
+      "attack": 210,
+      "defense": 210,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 10000.0
+   },
+   "152": {
+      "name": "Chikorita",
+      "types": [
+         "Grass"
+      ],
+      "stamina": 128,
+      "attack": 92,
+      "defense": 122,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 20.0
+   },
+   "153": {
+      "name": "Bayleef",
+      "types": [
+         "Grass"
+      ],
+      "stamina": 155,
+      "attack": 122,
+      "defense": 155,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 12.5
+   },
+   "154": {
+      "name": "Meganium",
+      "types": [
+         "Grass"
+      ],
+      "stamina": 190,
+      "attack": 168,
+      "defense": 202,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 5.0
+   },
+   "155": {
+      "name": "Cyndaquil",
+      "types": [
+         "Fire"
+      ],
+      "stamina": 118,
+      "attack": 116,
+      "defense": 93,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 20.0
+   },
+   "156": {
+      "name": "Quilava",
+      "types": [
+         "Fire"
+      ],
+      "stamina": 151,
+      "attack": 158,
+      "defense": 126,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 12.5
+   },
+   "157": {
+      "name": "Typhlosion",
+      "types": [
+         "Fire"
+      ],
+      "stamina": 186,
+      "attack": 223,
+      "defense": 173,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 5.0
+   },
+   "158": {
+      "name": "Totodile",
+      "types": [
+         "Water"
+      ],
+      "stamina": 137,
+      "attack": 117,
+      "defense": 109,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 20.0
+   },
+   "159": {
+      "name": "Croconaw",
+      "types": [
+         "Water"
+      ],
+      "stamina": 163,
+      "attack": 150,
+      "defense": 142,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 12.5
+   },
+   "160": {
+      "name": "Feraligatr",
+      "types": [
+         "Water"
+      ],
+      "stamina": 198,
+      "attack": 205,
+      "defense": 188,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 5.0
+   },
+   "161": {
+      "name": "Sentret",
+      "types": [
+         "Normal"
+      ],
+      "stamina": 111,
+      "attack": 79,
+      "defense": 73,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 50.0
+   },
+   "162": {
+      "name": "Furret",
+      "types": [
+         "Normal"
+      ],
+      "stamina": 198,
+      "attack": 148,
+      "defense": 125,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 15.0
+   },
+   "163": {
+      "name": "Hoothoot",
+      "types": [
+         "Normal",
+         "Flying"
+      ],
+      "stamina": 155,
+      "attack": 67,
+      "defense": 88,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 50.0
+   },
+   "164": {
+      "name": "Noctowl",
+      "types": [
+         "Normal",
+         "Flying"
+      ],
+      "stamina": 225,
+      "attack": 145,
+      "defense": 156,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 15.0
+   },
+   "165": {
+      "name": "Ledyba",
+      "types": [
+         "Bug",
+         "Flying"
+      ],
+      "stamina": 120,
+      "attack": 72,
+      "defense": 118,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 50.0
+   },
+   "166": {
+      "name": "Ledian",
+      "types": [
+         "Bug",
+         "Flying"
+      ],
+      "stamina": 146,
+      "attack": 107,
+      "defense": 179,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 15.0
+   },
+   "167": {
+      "name": "Spinarak",
+      "types": [
+         "Bug",
+         "Poison"
+      ],
+      "stamina": 120,
+      "attack": 105,
+      "defense": 73,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 50.0
+   },
+   "168": {
+      "name": "Ariados",
+      "types": [
+         "Bug",
+         "Poison"
+      ],
+      "stamina": 172,
+      "attack": 161,
+      "defense": 124,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 15.0
+   },
+   "169": {
+      "name": "Crobat",
+      "types": [
+         "Poison",
+         "Flying"
+      ],
+      "stamina": 198,
+      "attack": 194,
+      "defense": 178,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 10.0
+   },
+   "170": {
+      "name": "Chinchou",
+      "types": [
+         "Water",
+         "Electric"
+      ],
+      "stamina": 181,
+      "attack": 106,
+      "defense": 97,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 40.0
+   },
+   "171": {
+      "name": "Lanturn",
+      "types": [
+         "Water",
+         "Electric"
+      ],
+      "stamina": 268,
+      "attack": 146,
+      "defense": 137,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 15.0
+   },
+   "172": {
+      "name": "Pichu",
+      "types": [
+         "Electric"
+      ],
+      "stamina": 85,
+      "attack": 77,
+      "defense": 53,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 0.0
+   },
+   "173": {
+      "name": "Cleffa",
+      "types": [
+         "Fairy"
+      ],
+      "stamina": 137,
+      "attack": 75,
+      "defense": 79,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 0.0
+   },
+   "174": {
+      "name": "Igglybuff",
+      "types": [
+         "Normal",
+         "Fairy"
+      ],
+      "stamina": 207,
+      "attack": 69,
+      "defense": 32,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 0.0
+   },
+   "175": {
+      "name": "Togepi",
+      "types": [
+         "Fairy"
+      ],
+      "stamina": 111,
+      "attack": 67,
+      "defense": 116,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 0.0
+   },
+   "176": {
+      "name": "Togetic",
+      "types": [
+         "Fairy",
+         "Flying"
+      ],
+      "stamina": 146,
+      "attack": 139,
+      "defense": 181,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 20.0
+   },
+   "177": {
+      "name": "Natu",
+      "types": [
+         "Psychic",
+         "Flying"
+      ],
+      "stamina": 120,
+      "attack": 134,
+      "defense": 89,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 40.0
+   },
+   "178": {
+      "name": "Xatu",
+      "types": [
+         "Psychic",
+         "Flying"
+      ],
+      "stamina": 163,
+      "attack": 192,
+      "defense": 146,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 15.0
+   },
+   "179": {
+      "name": "Mareep",
+      "types": [
+         "Electric"
+      ],
+      "stamina": 146,
+      "attack": 114,
+      "defense": 79,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 50.0
+   },
+   "180": {
+      "name": "Flaaffy",
+      "types": [
+         "Electric"
+      ],
+      "stamina": 172,
+      "attack": 145,
+      "defense": 109,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 25.0
+   },
+   "181": {
+      "name": "Ampharos",
+      "types": [
+         "Electric"
+      ],
+      "stamina": 207,
+      "attack": 211,
+      "defense": 169,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 12.5
+   },
+   "182": {
+      "name": "Bellossom",
+      "types": [
+         "Grass"
+      ],
+      "stamina": 181,
+      "attack": 169,
+      "defense": 186,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 5.0
+   },
+   "183": {
+      "name": "Marill",
+      "types": [
+         "Water",
+         "Fairy"
+      ],
+      "stamina": 172,
+      "attack": 37,
+      "defense": 93,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 50.0
+   },
+   "184": {
+      "name": "Azumarill",
+      "types": [
+         "Water",
+         "Fairy"
+      ],
+      "stamina": 225,
+      "attack": 112,
+      "defense": 152,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 15.0
+   },
+   "185": {
+      "name": "Sudowoodo",
+      "types": [
+         "Rock"
+      ],
+      "stamina": 172,
+      "attack": 167,
+      "defense": 176,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 12.5
+   },
+   "186": {
+      "name": "Politoed",
+      "types": [
+         "Water"
+      ],
+      "stamina": 207,
+      "attack": 174,
+      "defense": 179,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 10.0
+   },
+   "187": {
+      "name": "Hoppip",
+      "types": [
+         "Grass",
+         "Flying"
+      ],
+      "stamina": 111,
+      "attack": 67,
+      "defense": 94,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 50.0
+   },
+   "188": {
+      "name": "Skiploom",
+      "types": [
+         "Grass",
+         "Flying"
+      ],
+      "stamina": 146,
+      "attack": 91,
+      "defense": 120,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 25.0
+   },
+   "189": {
+      "name": "Jumpluff",
+      "types": [
+         "Grass",
+         "Flying"
+      ],
+      "stamina": 181,
+      "attack": 118,
+      "defense": 183,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 12.5
+   },
+   "190": {
+      "name": "Aipom",
+      "types": [
+         "Normal"
+      ],
+      "stamina": 146,
+      "attack": 136,
+      "defense": 112,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 20.0
+   },
+   "191": {
+      "name": "Sunkern",
+      "types": [
+         "Grass"
+      ],
+      "stamina": 102,
+      "attack": 55,
+      "defense": 55,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 50.0
+   },
+   "192": {
+      "name": "Sunflora",
+      "types": [
+         "Grass"
+      ],
+      "stamina": 181,
+      "attack": 185,
+      "defense": 135,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 10.0
+   },
+   "193": {
+      "name": "Yanma",
+      "types": [
+         "Bug",
+         "Flying"
+      ],
+      "stamina": 163,
+      "attack": 154,
+      "defense": 94,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 30.0
+   },
+   "194": {
+      "name": "Wooper",
+      "types": [
+         "Water",
+         "Ground"
+      ],
+      "stamina": 146,
+      "attack": 75,
+      "defense": 66,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 40.0
+   },
+   "195": {
+      "name": "Quagsire",
+      "types": [
+         "Water",
+         "Ground"
+      ],
+      "stamina": 216,
+      "attack": 152,
+      "defense": 143,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 15.0
+   },
+   "196": {
+      "name": "Espeon",
+      "types": [
+         "Psychic"
+      ],
+      "stamina": 163,
+      "attack": 261,
+      "defense": 175,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 12.5
+   },
+   "197": {
+      "name": "Umbreon",
+      "types": [
+         "Dark"
+      ],
+      "stamina": 216,
+      "attack": 126,
+      "defense": 240,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 12.5
+   },
+   "198": {
+      "name": "Murkrow",
+      "types": [
+         "Dark",
+         "Flying"
+      ],
+      "stamina": 155,
+      "attack": 175,
+      "defense": 87,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 20.0
+   },
+   "199": {
+      "name": "Slowking",
+      "types": [
+         "Water",
+         "Psychic"
+      ],
+      "stamina": 216,
+      "attack": 177,
+      "defense": 180,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 10.0
+   },
+   "200": {
+      "name": "Misdreavus",
+      "types": [
+         "Ghost"
+      ],
+      "stamina": 155,
+      "attack": 167,
+      "defense": 154,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 30.0
+   },
+   "201": {
+      "name": "Unown",
+      "types": [
+         "Psychic"
+      ],
+      "stamina": 134,
+      "attack": 136,
+      "defense": 91,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 30.0
+   },
+   "202": {
+      "name": "Wobbuffet",
+      "types": [
+         "Psychic"
+      ],
+      "stamina": 382,
+      "attack": 60,
+      "defense": 106,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 25.0
+   },
+   "203": {
+      "name": "Girafarig",
+      "types": [
+         "Normal",
+         "Psychic"
+      ],
+      "stamina": 172,
+      "attack": 182,
+      "defense": 133,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 30.0
+   },
+   "204": {
+      "name": "Pineco",
+      "types": [
+         "Bug"
+      ],
+      "stamina": 137,
+      "attack": 108,
+      "defense": 122,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 40.0
+   },
+   "205": {
+      "name": "Forretress",
+      "types": [
+         "Bug",
+         "Steel"
+      ],
+      "stamina": 181,
+      "attack": 161,
+      "defense": 205,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 15.0
+   },
+   "206": {
+      "name": "Dunsparce",
+      "types": [
+         "Normal"
+      ],
+      "stamina": 225,
+      "attack": 131,
+      "defense": 128,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 30.0
+   },
+   "207": {
+      "name": "Gligar",
+      "types": [
+         "Ground",
+         "Flying"
+      ],
+      "stamina": 163,
+      "attack": 143,
+      "defense": 184,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 20.0
+   },
+   "208": {
+      "name": "Steelix",
+      "types": [
+         "Steel",
+         "Ground"
+      ],
+      "stamina": 181,
+      "attack": 148,
+      "defense": 272,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 10.0
+   },
+   "209": {
+      "name": "Snubbull",
+      "types": [
+         "Fairy"
+      ],
+      "stamina": 155,
+      "attack": 137,
+      "defense": 85,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 40.0
+   },
+   "210": {
+      "name": "Granbull",
+      "types": [
+         "Fairy"
+      ],
+      "stamina": 207,
+      "attack": 212,
+      "defense": 131,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 15.0
+   },
+   "211": {
+      "name": "Qwilfish",
+      "types": [
+         "Water",
+         "Poison"
+      ],
+      "stamina": 163,
+      "attack": 184,
+      "defense": 138,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 30.0
+   },
+   "212": {
+      "name": "Scizor",
+      "types": [
+         "Bug",
+         "Steel"
+      ],
+      "stamina": 172,
+      "attack": 236,
+      "defense": 181,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 5.0
+   },
+   "213": {
+      "name": "Shuckle",
+      "types": [
+         "Bug",
+         "Rock"
+      ],
+      "stamina": 85,
+      "attack": 17,
+      "defense": 396,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 30.0
+   },
+   "214": {
+      "name": "Heracross",
+      "types": [
+         "Bug",
+         "Fighting"
+      ],
+      "stamina": 190,
+      "attack": 234,
+      "defense": 179,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 30.0
+   },
+   "215": {
+      "name": "Sneasel",
+      "types": [
+         "Dark",
+         "Ice"
+      ],
+      "stamina": 146,
+      "attack": 189,
+      "defense": 146,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 20.0
+   },
+   "216": {
+      "name": "Teddiursa",
+      "types": [
+         "Normal"
+      ],
+      "stamina": 155,
+      "attack": 142,
+      "defense": 93,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 50.0
+   },
+   "217": {
+      "name": "Ursaring",
+      "types": [
+         "Normal"
+      ],
+      "stamina": 207,
+      "attack": 236,
+      "defense": 144,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 15.0
+   },
+   "218": {
+      "name": "Slugma",
+      "types": [
+         "Fire"
+      ],
+      "stamina": 120,
+      "attack": 118,
+      "defense": 71,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 30.0
+   },
+   "219": {
+      "name": "Magcargo",
+      "types": [
+         "Fire",
+         "Rock"
+      ],
+      "stamina": 137,
+      "attack": 139,
+      "defense": 191,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 12.5
+   },
+   "220": {
+      "name": "Swinub",
+      "types": [
+         "Ice",
+         "Ground"
+      ],
+      "stamina": 137,
+      "attack": 90,
+      "defense": 69,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 30.0
+   },
+   "221": {
+      "name": "Piloswine",
+      "types": [
+         "Ice",
+         "Ground"
+      ],
+      "stamina": 225,
+      "attack": 181,
+      "defense": 138,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 12.5
+   },
+   "222": {
+      "name": "Corsola",
+      "types": [
+         "Water",
+         "Rock"
+      ],
+      "stamina": 146,
+      "attack": 118,
+      "defense": 156,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 30.0
+   },
+   "223": {
+      "name": "Remoraid",
+      "types": [
+         "Water"
+      ],
+      "stamina": 111,
+      "attack": 127,
+      "defense": 69,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 50.0
+   },
+   "224": {
+      "name": "Octillery",
+      "types": [
+         "Water"
+      ],
+      "stamina": 181,
+      "attack": 197,
+      "defense": 141,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 15.0
+   },
+   "225": {
+      "name": "Delibird",
+      "types": [
+         "Ice",
+         "Flying"
+      ],
+      "stamina": 128,
+      "attack": 128,
+      "defense": 90,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 20.0
+   },
+   "226": {
+      "name": "Mantine",
+      "types": [
+         "Water",
+         "Flying"
+      ],
+      "stamina": 163,
+      "attack": 148,
+      "defense": 226,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 30.0
+   },
+   "227": {
+      "name": "Skarmory",
+      "types": [
+         "Steel",
+         "Flying"
+      ],
+      "stamina": 163,
+      "attack": 148,
+      "defense": 226,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 20.0
+   },
+   "228": {
+      "name": "Houndour",
+      "types": [
+         "Dark",
+         "Fire"
+      ],
+      "stamina": 128,
+      "attack": 152,
+      "defense": 83,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 40.0
+   },
+   "229": {
+      "name": "Houndoom",
+      "types": [
+         "Dark",
+         "Fire"
+      ],
+      "stamina": 181,
+      "attack": 224,
+      "defense": 144,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 15.0
+   },
+   "230": {
+      "name": "Kingdra",
+      "types": [
+         "Water",
+         "Dragon"
+      ],
+      "stamina": 181,
+      "attack": 194,
+      "defense": 194,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 10.0
+   },
+   "231": {
+      "name": "Phanpy",
+      "types": [
+         "Ground"
+      ],
+      "stamina": 207,
+      "attack": 107,
+      "defense": 98,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 50.0
+   },
+   "232": {
+      "name": "Donphan",
+      "types": [
+         "Ground"
+      ],
+      "stamina": 207,
+      "attack": 214,
+      "defense": 185,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 12.5
+   },
+   "233": {
+      "name": "Porygon2",
+      "types": [
+         "Normal"
+      ],
+      "stamina": 198,
+      "attack": 198,
+      "defense": 180,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 5.0
+   },
+   "234": {
+      "name": "Stantler",
+      "types": [
+         "Normal"
+      ],
+      "stamina": 177,
+      "attack": 192,
+      "defense": 131,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 30.0
+   },
+   "235": {
+      "name": "Smeargle",
+      "types": [
+         "Normal"
+      ],
+      "stamina": 146,
+      "attack": 40,
+      "defense": 83,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 25.0
+   },
+   "236": {
+      "name": "Tyrogue",
+      "types": [
+         "Fighting"
+      ],
+      "stamina": 111,
+      "attack": 64,
+      "defense": 64,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 0.0
+   },
+   "237": {
+      "name": "Hitmontop",
+      "types": [
+         "Fighting"
+      ],
+      "stamina": 137,
+      "attack": 173,
+      "defense": 207,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 10.0
+   },
+   "238": {
+      "name": "Smoochum",
+      "types": [
+         "Ice",
+         "Psychic"
+      ],
+      "stamina": 128,
+      "attack": 153,
+      "defense": 91,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 0.0
+   },
+   "239": {
+      "name": "Elekid",
+      "types": [
+         "Electric"
+      ],
+      "stamina": 128,
+      "attack": 135,
+      "defense": 101,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 0.0
+   },
+   "240": {
+      "name": "Magby",
+      "types": [
+         "Fire"
+      ],
+      "stamina": 128,
+      "attack": 151,
+      "defense": 99,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 0.0
+   },
+   "241": {
+      "name": "Miltank",
+      "types": [
+         "Normal"
+      ],
+      "stamina": 216,
+      "attack": 157,
+      "defense": 193,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 20.0
+   },
+   "242": {
+      "name": "Blissey",
+      "types": [
+         "Normal"
+      ],
+      "stamina": 496,
+      "attack": 129,
+      "defense": 169,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 5.0
+   },
+   "243": {
+      "name": "Raikou",
+      "types": [
+         "Electric"
+      ],
+      "stamina": 207,
+      "attack": 241,
+      "defense": 195,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 2.0
+   },
+   "244": {
+      "name": "Entei",
+      "types": [
+         "Fire"
+      ],
+      "stamina": 251,
+      "attack": 235,
+      "defense": 171,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 2.0
+   },
+   "245": {
+      "name": "Suicune",
+      "types": [
+         "Water"
+      ],
+      "stamina": 225,
+      "attack": 180,
+      "defense": 235,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 2.0
+   },
+   "246": {
+      "name": "Larvitar",
+      "types": [
+         "Rock",
+         "Ground"
+      ],
+      "stamina": 137,
+      "attack": 115,
+      "defense": 93,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 40.0
+   },
+   "247": {
+      "name": "Pupitar",
+      "types": [
+         "Rock",
+         "Ground"
+      ],
+      "stamina": 172,
+      "attack": 155,
+      "defense": 133,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 10.0
+   },
+   "248": {
+      "name": "Tyranitar",
+      "types": [
+         "Rock",
+         "Dark"
+      ],
+      "stamina": 225,
+      "attack": 251,
+      "defense": 207,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 5.0
+   },
+   "249": {
+      "name": "Lugia",
+      "types": [
+         "Psychic",
+         "Flying"
+      ],
+      "stamina": 235,
+      "attack": 193,
+      "defense": 310,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 2.0
+   },
+   "250": {
+      "name": "Ho-Oh",
+      "types": [
+         "Fire",
+         "Flying"
+      ],
+      "stamina": 214,
+      "attack": 239,
+      "defense": 244,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 2.0
+   },
+   "251": {
+      "name": "Celebi",
+      "types": [
+         "Psychic",
+         "Grass"
+      ],
+      "stamina": 225,
+      "attack": 210,
+      "defense": 210,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 10000.0
+   },
+   "252": {
+      "name": "Treecko",
+      "types": [
+         "Grass"
+      ],
+      "stamina": 120,
+      "attack": 124,
+      "defense": 94,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 20.0
+   },
+   "253": {
+      "name": "Grovyle",
+      "types": [
+         "Grass"
+      ],
+      "stamina": 137,
+      "attack": 172,
+      "defense": 120,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 10.0
+   },
+   "254": {
+      "name": "Sceptile",
+      "types": [
+         "Grass"
+      ],
+      "stamina": 172,
+      "attack": 223,
+      "defense": 169,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 5.0
+   },
+   "255": {
+      "name": "Torchic",
+      "types": [
+         "Fire"
+      ],
+      "stamina": 128,
+      "attack": 130,
+      "defense": 87,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 20.0
+   },
+   "256": {
+      "name": "Combusken",
+      "types": [
+         "Fire",
+         "Fighting"
+      ],
+      "stamina": 155,
+      "attack": 163,
+      "defense": 115,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 10.0
+   },
+   "257": {
+      "name": "Blaziken",
+      "types": [
+         "Fire",
+         "Fighting"
+      ],
+      "stamina": 190,
+      "attack": 240,
+      "defense": 141,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 5.0
+   },
+   "258": {
+      "name": "Mudkip",
+      "types": [
+         "Water"
+      ],
+      "stamina": 137,
+      "attack": 126,
+      "defense": 93,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 20.0
+   },
+   "259": {
+      "name": "Marshtomp",
+      "types": [
+         "Water",
+         "Ground"
+      ],
+      "stamina": 172,
+      "attack": 156,
+      "defense": 133,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 10.0
+   },
+   "260": {
+      "name": "Swampert",
+      "types": [
+         "Water",
+         "Ground"
+      ],
+      "stamina": 225,
+      "attack": 208,
+      "defense": 175,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 5.0
+   },
+   "261": {
+      "name": "Poochyena",
+      "types": [
+         "Dark"
+      ],
+      "stamina": 111,
+      "attack": 96,
+      "defense": 61,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 50.0
+   },
+   "262": {
+      "name": "Mightyena",
+      "types": [
+         "Dark"
+      ],
+      "stamina": 172,
+      "attack": 171,
+      "defense": 132,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 20.0
+   },
+   "263": {
+      "name": "Zigzagoon",
+      "types": [
+         "Normal"
+      ],
+      "stamina": 116,
+      "attack": 58,
+      "defense": 80,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 50.0
+   },
+   "263G": {
+      "name": "Galarian Zigzagoon",
+      "types": [
+         "Normal",
+		 "Dark"
+      ],
+      "stamina": 116,
+      "attack": 58,
+      "defense": 80,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 50.0
+   },
+   "264": {
+      "name": "Linoone",
+      "types": [
+         "Normal"
+      ],
+      "stamina": 186,
+      "attack": 142,
+      "defense": 128,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 20.0
+   },
+   "264G": {
+      "name": "Galarian Linoone",
+      "types": [
+         "Normal",
+		 "Dark"
+      ],
+      "stamina": 186,
+      "attack": 142,
+      "defense": 128,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 50.0
+   },
+   "265": {
+      "name": "Wurmple",
+      "types": [
+         "Bug"
+      ],
+      "stamina": 128,
+      "attack": 75,
+      "defense": 59,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 50.0
+   },
+   "266": {
+      "name": "Silcoon",
+      "types": [
+         "Bug"
+      ],
+      "stamina": 137,
+      "attack": 60,
+      "defense": 77,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 25.0
+   },
+   "267": {
+      "name": "Beautifly",
+      "types": [
+         "Bug",
+         "Flying"
+      ],
+      "stamina": 155,
+      "attack": 189,
+      "defense": 98,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 12.5
+   },
+   "268": {
+      "name": "Cascoon",
+      "types": [
+         "Bug"
+      ],
+      "stamina": 137,
+      "attack": 60,
+      "defense": 77,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 25.0
+   },
+   "269": {
+      "name": "Dustox",
+      "types": [
+         "Bug",
+         "Poison"
+      ],
+      "stamina": 155,
+      "attack": 98,
+      "defense": 162,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 12.5
+   },
+   "270": {
+      "name": "Lotad",
+      "types": [
+         "Water",
+         "Grass"
+      ],
+      "stamina": 120,
+      "attack": 71,
+      "defense": 77,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 50.0
+   },
+   "271": {
+      "name": "Lombre",
+      "types": [
+         "Water",
+         "Grass"
+      ],
+      "stamina": 155,
+      "attack": 112,
+      "defense": 119,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 25.0
+   },
+   "272": {
+      "name": "Ludicolo",
+      "types": [
+         "Water",
+         "Grass"
+      ],
+      "stamina": 190,
+      "attack": 173,
+      "defense": 176,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 12.5
+   },
+   "273": {
+      "name": "Seedot",
+      "types": [
+         "Grass"
+      ],
+      "stamina": 120,
+      "attack": 71,
+      "defense": 77,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 50.0
+   },
+   "274": {
+      "name": "Nuzleaf",
+      "types": [
+         "Grass",
+         "Dark"
+      ],
+      "stamina": 172,
+      "attack": 134,
+      "defense": 78,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 25.0
+   },
+   "275": {
+      "name": "Shiftry",
+      "types": [
+         "Grass",
+         "Dark"
+      ],
+      "stamina": 207,
+      "attack": 200,
+      "defense": 121,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 12.5
+   },
+   "276": {
+      "name": "Taillow",
+      "types": [
+         "Normal",
+         "Flying"
+      ],
+      "stamina": 120,
+      "attack": 106,
+      "defense": 61,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 50.0
+   },
+   "277": {
+      "name": "Swellow",
+      "types": [
+         "Normal",
+         "Flying"
+      ],
+      "stamina": 155,
+      "attack": 185,
+      "defense": 124,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 20.0
+   },
+   "278": {
+      "name": "Wingull",
+      "types": [
+         "Water",
+         "Flying"
+      ],
+      "stamina": 120,
+      "attack": 106,
+      "defense": 61,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 50.0
+   },
+   "279": {
+      "name": "Pelipper",
+      "types": [
+         "Water",
+         "Flying"
+      ],
+      "stamina": 155,
+      "attack": 175,
+      "defense": 174,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 20.0
+   },
+   "280": {
+      "name": "Ralts",
+      "types": [
+         "Psychic",
+         "Fairy"
+      ],
+      "stamina": 99,
+      "attack": 79,
+      "defense": 59,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 40.0
+   },
+   "281": {
+      "name": "Kirlia",
+      "types": [
+         "Psychic",
+         "Fairy"
+      ],
+      "stamina": 116,
+      "attack": 117,
+      "defense": 90,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 10.0
+   },
+   "282": {
+      "name": "Gardevoir",
+      "types": [
+         "Psychic",
+         "Fairy"
+      ],
+      "stamina": 169,
+      "attack": 237,
+      "defense": 195,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 5.0
+   },
+   "283": {
+      "name": "Surskit",
+      "types": [
+         "Bug",
+         "Water"
+      ],
+      "stamina": 120,
+      "attack": 93,
+      "defense": 87,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 50.0
+   },
+   "284": {
+      "name": "Masquerain",
+      "types": [
+         "Bug",
+         "Flying"
+      ],
+      "stamina": 172,
+      "attack": 192,
+      "defense": 150,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 20.0
+   },
+   "285": {
+      "name": "Shroomish",
+      "types": [
+         "Grass"
+      ],
+      "stamina": 155,
+      "attack": 74,
+      "defense": 110,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 50.0
+   },
+   "286": {
+      "name": "Breloom",
+      "types": [
+         "Grass",
+         "Fighting"
+      ],
+      "stamina": 155,
+      "attack": 241,
+      "defense": 144,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 20.0
+   },
+   "287": {
+      "name": "Slakoth",
+      "types": [
+         "Normal"
+      ],
+      "stamina": 155,
+      "attack": 104,
+      "defense": 92,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 40.0
+   },
+   "288": {
+      "name": "Vigoroth",
+      "types": [
+         "Normal"
+      ],
+      "stamina": 190,
+      "attack": 159,
+      "defense": 145,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 10.0
+   },
+   "289": {
+      "name": "Slaking",
+      "types": [
+         "Normal"
+      ],
+      "stamina": 284,
+      "attack": 290,
+      "defense": 166,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 5.0
+   },
+   "290": {
+      "name": "Nincada",
+      "types": [
+         "Bug",
+         "Ground"
+      ],
+      "stamina": 104,
+      "attack": 80,
+      "defense": 126,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 20.0
+   },
+   "291": {
+      "name": "Ninjask",
+      "types": [
+         "Bug",
+         "Flying"
+      ],
+      "stamina": 156,
+      "attack": 199,
+      "defense": 112,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 10.0
+   },
+   "292": {
+      "name": "Shedinja",
+      "types": [
+         "Bug",
+         "Ghost"
+      ],
+      "stamina": 1,
+      "attack": 153,
+      "defense": 73,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 5.0
+   },
+   "293": {
+      "name": "Whismur",
+      "types": [
+         "Normal"
+      ],
+      "stamina": 162,
+      "attack": 92,
+      "defense": 42,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 50.0
+   },
+   "294": {
+      "name": "Loudred",
+      "types": [
+         "Normal"
+      ],
+      "stamina": 197,
+      "attack": 134,
+      "defense": 81,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 25.0
+   },
+   "295": {
+      "name": "Exploud",
+      "types": [
+         "Normal"
+      ],
+      "stamina": 232,
+      "attack": 179,
+      "defense": 137,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 12.5
+   },
+   "296": {
+      "name": "Makuhita",
+      "types": [
+         "Fighting"
+      ],
+      "stamina": 176,
+      "attack": 99,
+      "defense": 54,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 50.0
+   },
+   "297": {
+      "name": "Hariyama",
+      "types": [
+         "Fighting"
+      ],
+      "stamina": 302,
+      "attack": 209,
+      "defense": 114,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 20.0
+   },
+   "298": {
+      "name": "Azurill",
+      "types": [
+         "Normal",
+         "Fairy"
+      ],
+      "stamina": 137,
+      "attack": 36,
+      "defense": 71,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 10.0
+   },
+   "299": {
+      "name": "Nosepass",
+      "types": [
+         "Rock"
+      ],
+      "stamina": 102,
+      "attack": 82,
+      "defense": 215,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 20.0
+   },
+   "300": {
+      "name": "Skitty",
+      "types": [
+         "Normal"
+      ],
+      "stamina": 137,
+      "attack": 84,
+      "defense": 79,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 50.0
+   },
+   "301": {
+      "name": "Delcatty",
+      "types": [
+         "Normal"
+      ],
+      "stamina": 172,
+      "attack": 132,
+      "defense": 127,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 20.0
+   },
+   "302": {
+      "name": "Sableye",
+      "types": [
+         "Dark",
+         "Ghost"
+      ],
+      "stamina": 137,
+      "attack": 141,
+      "defense": 136,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 20.0
+   },
+   "303": {
+      "name": "Mawile",
+      "types": [
+         "Steel",
+         "Fairy"
+      ],
+      "stamina": 137,
+      "attack": 155,
+      "defense": 141,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 50.0
+   },
+   "304": {
+      "name": "Aron",
+      "types": [
+         "Steel",
+         "Rock"
+      ],
+      "stamina": 137,
+      "attack": 121,
+      "defense": 141,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 50.0
+   },
+   "305": {
+      "name": "Lairon",
+      "types": [
+         "Steel",
+         "Rock"
+      ],
+      "stamina": 155,
+      "attack": 158,
+      "defense": 198,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 25.0
+   },
+   "306": {
+      "name": "Aggron",
+      "types": [
+         "Steel",
+         "Rock"
+      ],
+      "stamina": 172,
+      "attack": 198,
+      "defense": 257,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 12.5
+   },
+   "307": {
+      "name": "Meditite",
+      "types": [
+         "Fighting",
+         "Psychic"
+      ],
+      "stamina": 102,
+      "attack": 78,
+      "defense": 107,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 50.0
+   },
+   "308": {
+      "name": "Medicham",
+      "types": [
+         "Fighting",
+         "Psychic"
+      ],
+      "stamina": 155,
+      "attack": 121,
+      "defense": 152,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 20.0
+   },
+   "309": {
+      "name": "Electrike",
+      "types": [
+         "Electric"
+      ],
+      "stamina": 120,
+      "attack": 123,
+      "defense": 78,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 50.0
+   },
+   "310": {
+      "name": "Manectric",
+      "types": [
+         "Electric"
+      ],
+      "stamina": 172,
+      "attack": 215,
+      "defense": 127,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 20.0
+   },
+   "311": {
+      "name": "Plusle",
+      "types": [
+         "Electric"
+      ],
+      "stamina": 155,
+      "attack": 167,
+      "defense": 129,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 30.0
+   },
+   "312": {
+      "name": "Minun",
+      "types": [
+         "Electric"
+      ],
+      "stamina": 155,
+      "attack": 147,
+      "defense": 150,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 30.0
+   },
+   "313": {
+      "name": "Volbeat",
+      "types": [
+         "Bug"
+      ],
+      "stamina": 163,
+      "attack": 143,
+      "defense": 166,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 30.0
+   },
+   "314": {
+      "name": "Illumise",
+      "types": [
+         "Bug"
+      ],
+      "stamina": 163,
+      "attack": 143,
+      "defense": 166,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 30.0
+   },
+   "315": {
+      "name": "Roselia",
+      "types": [
+         "Grass",
+         "Poison"
+      ],
+      "stamina": 137,
+      "attack": 186,
+      "defense": 131,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 30.0
+   },
+   "316": {
+      "name": "Gulpin",
+      "types": [
+         "Poison"
+      ],
+      "stamina": 172,
+      "attack": 80,
+      "defense": 99,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 50.0
+   },
+   "317": {
+      "name": "Swalot",
+      "types": [
+         "Poison"
+      ],
+      "stamina": 225,
+      "attack": 140,
+      "defense": 159,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 20.0
+   },
+   "318": {
+      "name": "Carvanha",
+      "types": [
+         "Water",
+         "Dark"
+      ],
+      "stamina": 128,
+      "attack": 171,
+      "defense": 39,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 50.0
+   },
+   "319": {
+      "name": "Sharpedo",
+      "types": [
+         "Water",
+         "Dark"
+      ],
+      "stamina": 172,
+      "attack": 243,
+      "defense": 83,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 20.0
+   },
+   "320": {
+      "name": "Wailmer",
+      "types": [
+         "Water"
+      ],
+      "stamina": 277,
+      "attack": 136,
+      "defense": 68,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 50.0
+   },
+   "321": {
+      "name": "Wailord",
+      "types": [
+         "Water"
+      ],
+      "stamina": 347,
+      "attack": 175,
+      "defense": 87,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 20.0
+   },
+   "322": {
+      "name": "Numel",
+      "types": [
+         "Fire",
+         "Ground"
+      ],
+      "stamina": 155,
+      "attack": 119,
+      "defense": 79,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 50.0
+   },
+   "323": {
+      "name": "Camerupt",
+      "types": [
+         "Fire",
+         "Ground"
+      ],
+      "stamina": 172,
+      "attack": 194,
+      "defense": 136,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 20.0
+   },
+   "324": {
+      "name": "Torkoal",
+      "types": [
+         "Fire"
+      ],
+      "stamina": 172,
+      "attack": 151,
+      "defense": 203,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 30.0
+   },
+   "325": {
+      "name": "Spoink",
+      "types": [
+         "Psychic"
+      ],
+      "stamina": 155,
+      "attack": 125,
+      "defense": 122,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 50.0
+   },
+   "326": {
+      "name": "Grumpig",
+      "types": [
+         "Psychic"
+      ],
+      "stamina": 190,
+      "attack": 171,
+      "defense": 188,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 20.0
+   },
+   "327": {
+      "name": "Spinda",
+      "types": [
+         "Normal"
+      ],
+      "stamina": 155,
+      "attack": 116,
+      "defense": 116,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 30.0
+   },
+   "328": {
+      "name": "Trapinch",
+      "types": [
+         "Ground"
+      ],
+      "stamina": 128,
+      "attack": 162,
+      "defense": 78,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 40.0
+   },
+   "329": {
+      "name": "Vibrava",
+      "types": [
+         "Ground",
+         "Dragon"
+      ],
+      "stamina": 137,
+      "attack": 134,
+      "defense": 99,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 10.0
+   },
+   "330": {
+      "name": "Flygon",
+      "types": [
+         "Ground",
+         "Dragon"
+      ],
+      "stamina": 190,
+      "attack": 205,
+      "defense": 168,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 5.0
+   },
+   "331": {
+      "name": "Cacnea",
+      "types": [
+         "Grass"
+      ],
+      "stamina": 137,
+      "attack": 156,
+      "defense": 74,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 50.0
+   },
+   "332": {
+      "name": "Cacturne",
+      "types": [
+         "Grass",
+         "Dark"
+      ],
+      "stamina": 172,
+      "attack": 221,
+      "defense": 115,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 20.0
+   },
+   "333": {
+      "name": "Swablu",
+      "types": [
+         "Normal",
+         "Flying"
+      ],
+      "stamina": 128,
+      "attack": 76,
+      "defense": 132,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 50.0
+   },
+   "334": {
+      "name": "Altaria",
+      "types": [
+         "Dragon",
+         "Flying"
+      ],
+      "stamina": 181,
+      "attack": 141,
+      "defense": 201,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 20.0
+   },
+   "335": {
+      "name": "Zangoose",
+      "types": [
+         "Normal"
+      ],
+      "stamina": 177,
+      "attack": 222,
+      "defense": 124,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 30.0
+   },
+   "336": {
+      "name": "Seviper",
+      "types": [
+         "Poison"
+      ],
+      "stamina": 177,
+      "attack": 196,
+      "defense": 118,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 30.0
+   },
+   "337": {
+      "name": "Lunatone",
+      "types": [
+         "Rock",
+         "Psychic"
+      ],
+      "stamina": 207,
+      "attack": 178,
+      "defense": 153,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 30.0
+   },
+   "338": {
+      "name": "Solrock",
+      "types": [
+         "Rock",
+         "Psychic"
+      ],
+      "stamina": 207,
+      "attack": 178,
+      "defense": 153,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 30.0
+   },
+   "339": {
+      "name": "Barboach",
+      "types": [
+         "Water",
+         "Ground"
+      ],
+      "stamina": 137,
+      "attack": 93,
+      "defense": 82,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 50.0
+   },
+   "340": {
+      "name": "Whiscash",
+      "types": [
+         "Water",
+         "Ground"
+      ],
+      "stamina": 242,
+      "attack": 151,
+      "defense": 141,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 20.0
+   },
+   "341": {
+      "name": "Corphish",
+      "types": [
+         "Water"
+      ],
+      "stamina": 125,
+      "attack": 141,
+      "defense": 99,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 50.0
+   },
+   "342": {
+      "name": "Crawdaunt",
+      "types": [
+         "Water",
+         "Dark"
+      ],
+      "stamina": 160,
+      "attack": 224,
+      "defense": 142,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 20.0
+   },
+   "343": {
+      "name": "Baltoy",
+      "types": [
+         "Ground",
+         "Psychic"
+      ],
+      "stamina": 120,
+      "attack": 77,
+      "defense": 124,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 50.0
+   },
+   "344": {
+      "name": "Claydol",
+      "types": [
+         "Ground",
+         "Psychic"
+      ],
+      "stamina": 155,
+      "attack": 140,
+      "defense": 229,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 20.0
+   },
+   "345": {
+      "name": "Lileep",
+      "types": [
+         "Rock",
+         "Grass"
+      ],
+      "stamina": 165,
+      "attack": 105,
+      "defense": 150,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 50.0
+   },
+   "346": {
+      "name": "Cradily",
+      "types": [
+         "Rock",
+         "Grass"
+      ],
+      "stamina": 200,
+      "attack": 152,
+      "defense": 194,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 20.0
+   },
+   "347": {
+      "name": "Anorith",
+      "types": [
+         "Rock",
+         "Bug"
+      ],
+      "stamina": 128,
+      "attack": 176,
+      "defense": 100,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 50.0
+   },
+   "348": {
+      "name": "Armaldo",
+      "types": [
+         "Rock",
+         "Bug"
+      ],
+      "stamina": 181,
+      "attack": 222,
+      "defense": 174,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 20.0
+   },
+   "349": {
+      "name": "Feebas",
+      "types": [
+         "Water"
+      ],
+      "stamina": 85,
+      "attack": 29,
+      "defense": 85,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 70.0
+   },
+   "350": {
+      "name": "Milotic",
+      "types": [
+         "Water"
+      ],
+      "stamina": 216,
+      "attack": 192,
+      "defense": 219,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 10.0
+   },
+   "351": {
+      "name": "Castform",
+      "types": [
+         "Normal"
+      ],
+      "stamina": 172,
+      "attack": 139,
+      "defense": 139,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 30.0
+   },
+   "351R": {
+      "name": "Rainy Castform",
+      "types": [
+         "Water"
+      ],
+      "stamina": 172,
+      "attack": 139,
+      "defense": 139,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 30.0
+   },
+   "351H": {
+      "name": "Snowy Castform",
+      "types": [
+         "Ice"
+      ],
+      "stamina": 172,
+      "attack": 139,
+      "defense": 139,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 30.0
+   },
+   "351S": {
+      "name": "Sunny Castform",
+      "types": [
+         "Fire"
+      ],
+      "stamina": 172,
+      "attack": 139,
+      "defense": 139,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 30.0
+   },
+   "352": {
+      "name": "Kecleon",
+      "types": [
+         "Normal"
+      ],
+      "stamina": 155,
+      "attack": 161,
+      "defense": 189,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 30.0
+   },
+   "353": {
+      "name": "Shuppet",
+      "types": [
+         "Ghost"
+      ],
+      "stamina": 127,
+      "attack": 138,
+      "defense": 65,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 40.0
+   },
+   "354": {
+      "name": "Banette",
+      "types": [
+         "Ghost"
+      ],
+      "stamina": 162,
+      "attack": 218,
+      "defense": 126,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 20.0
+   },
+   "355": {
+      "name": "Duskull",
+      "types": [
+         "Ghost"
+      ],
+      "stamina": 85,
+      "attack": 70,
+      "defense": 162,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 40.0
+   },
+   "356": {
+      "name": "Dusclops",
+      "types": [
+         "Ghost"
+      ],
+      "stamina": 120,
+      "attack": 124,
+      "defense": 234,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 20.0
+   },
+   "357": {
+      "name": "Tropius",
+      "types": [
+         "Grass",
+         "Flying"
+      ],
+      "stamina": 223,
+      "attack": 136,
+      "defense": 163,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 30.0
+   },
+   "358": {
+      "name": "Chimecho",
+      "types": [
+         "Psychic"
+      ],
+      "stamina": 181,
+      "attack": 175,
+      "defense": 170,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 30.0
+   },
+   "359": {
+      "name": "Absol",
+      "types": [
+         "Dark"
+      ],
+      "stamina": 163,
+      "attack": 246,
+      "defense": 120,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 50.0
+   },
+   "360": {
+      "name": "Wynaut",
+      "types": [
+         "Psychic"
+      ],
+      "stamina": 216,
+      "attack": 41,
+      "defense": 86,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 30.0
+   },
+   "361": {
+      "name": "Snorunt",
+      "types": [
+         "Ice"
+      ],
+      "stamina": 137,
+      "attack": 95,
+      "defense": 95,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 50.0
+   },
+   "362": {
+      "name": "Glalie",
+      "types": [
+         "Ice"
+      ],
+      "stamina": 190,
+      "attack": 162,
+      "defense": 162,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 20.0
+   },
+   "363": {
+      "name": "Spheal",
+      "types": [
+         "Ice",
+         "Water"
+      ],
+      "stamina": 172,
+      "attack": 95,
+      "defense": 90,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 50.0
+   },
+   "364": {
+      "name": "Sealeo",
+      "types": [
+         "Ice",
+         "Water"
+      ],
+      "stamina": 207,
+      "attack": 137,
+      "defense": 132,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 25.0
+   },
+   "365": {
+      "name": "Walrein",
+      "types": [
+         "Ice",
+         "Water"
+      ],
+      "stamina": 242,
+      "attack": 182,
+      "defense": 176,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 12.5
+   },
+   "366": {
+      "name": "Clamperl",
+      "types": [
+         "Water"
+      ],
+      "stamina": 111,
+      "attack": 133,
+      "defense": 135,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 50.0
+   },
+   "367": {
+      "name": "Huntail",
+      "types": [
+         "Water"
+      ],
+      "stamina": 146,
+      "attack": 197,
+      "defense": 179,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 20.0
+   },
+   "368": {
+      "name": "Gorebyss",
+      "types": [
+         "Water"
+      ],
+      "stamina": 146,
+      "attack": 211,
+      "defense": 179,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 20.0
+   },
+   "369": {
+      "name": "Relicanth",
+      "types": [
+         "Water",
+         "Rock"
+      ],
+      "stamina": 225,
+      "attack": 162,
+      "defense": 203,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 90.0
+   },
+   "370": {
+      "name": "Luvdisc",
+      "types": [
+         "Water"
+      ],
+      "stamina": 125,
+      "attack": 81,
+      "defense": 128,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 30.0
+   },
+   "371": {
+      "name": "Bagon",
+      "types": [
+         "Dragon"
+      ],
+      "stamina": 128,
+      "attack": 134,
+      "defense": 93,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 40.0
+   },
+   "372": {
+      "name": "Shelgon",
+      "types": [
+         "Dragon"
+      ],
+      "stamina": 163,
+      "attack": 172,
+      "defense": 155,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 10.0
+   },
+   "373": {
+      "name": "Salamence",
+      "types": [
+         "Dragon",
+         "Flying"
+      ],
+      "stamina": 216,
+      "attack": 277,
+      "defense": 168,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 5.0
+   },
+   "374": {
+      "name": "Beldum",
+      "types": [
+         "Steel",
+         "Psychic"
+      ],
+      "stamina": 120,
+      "attack": 96,
+      "defense": 132,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 40.0
+   },
+   "375": {
+      "name": "Metang",
+      "types": [
+         "Steel",
+         "Psychic"
+      ],
+      "stamina": 155,
+      "attack": 138,
+      "defense": 176,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 10.0
+   },
+   "376": {
+      "name": "Metagross",
+      "types": [
+         "Steel",
+         "Psychic"
+      ],
+      "stamina": 190,
+      "attack": 257,
+      "defense": 228,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 5.0
+   },
+   "377": {
+      "name": "Regirock",
+      "types": [
+         "Rock"
+      ],
+      "stamina": 190,
+      "attack": 179,
+      "defense": 309,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 2.0
+   },
+   "378": {
+      "name": "Regice",
+      "types": [
+         "Ice"
+      ],
+      "stamina": 190,
+      "attack": 179,
+      "defense": 309,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 2.0
+   },
+   "379": {
+      "name": "Registeel",
+      "types": [
+         "Steel"
+      ],
+      "stamina": 190,
+      "attack": 143,
+      "defense": 285,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 2.0
+   },
+   "380": {
+      "name": "Latias",
+      "types": [
+         "Dragon",
+         "Psychic"
+      ],
+      "stamina": 190,
+      "attack": 228,
+      "defense": 246,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 2.0
+   },
+   "381": {
+      "name": "Latios",
+      "types": [
+         "Dragon",
+         "Psychic"
+      ],
+      "stamina": 190,
+      "attack": 268,
+      "defense": 212,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 2.0
+   },
+   "382": {
+      "name": "Kyogre",
+      "types": [
+         "Water"
+      ],
+      "stamina": 205,
+      "attack": 270,
+      "defense": 228,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 2.0
+   },
+   "383": {
+      "name": "Groudon",
+      "types": [
+         "Ground"
+      ],
+      "stamina": 205,
+      "attack": 270,
+      "defense": 228,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 2.0
+   },
+   "384": {
+      "name": "Rayquaza",
+      "types": [
+         "Dragon",
+         "Flying"
+      ],
+      "stamina": 213,
+      "attack": 284,
+      "defense": 170,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 2.0
+   },
+   "385": {
+      "name": "Jirachi",
+      "types": [
+         "Steel",
+         "Psychic"
+      ],
+      "stamina": 225,
+      "attack": 210,
+      "defense": 210,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 10000.0
+   },
+   "386": {
+      "name": "Deoxys",
+      "types": [
+         "Psychic"
+      ],
+      "stamina": 137,
+      "attack": 345,
+      "defense": 115,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 6.0
+   },
+   "386A": {
+      "name": "Attack Form Deoxys",
+      "types": [
+         "Psychic"
+      ],
+      "stamina": 137,
+      "attack": 414,
+      "defense": 46,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 6.0
+   },
+   "386D": {
+      "name": "Defence Form Deoxys",
+      "types": [
+         "Psychic"
+      ],
+      "stamina": 137,
+      "attack": 144,
+      "defense": 330,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 6.0
+   },
+   "386S": {
+      "name": "Speed Form Deoxys",
+      "types": [
+         "Psychic"
+      ],
+      "stamina": 137,
+      "attack": 230,
+      "defense": 218,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 6.0
+   },
+   "387": {
+      "name": "Turtwig",
+      "types": [
+         "Grass"
+      ],
+      "stamina": 146,
+      "attack": 119,
+      "defense": 110,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 20.0
+   },
+   "388": {
+      "name": "Grotle",
+      "types": [
+         "Grass"
+      ],
+      "stamina": 181,
+      "attack": 157,
+      "defense": 143,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 10.0
+   },
+   "389": {
+      "name": "Torterra",
+      "types": [
+         "Grass",
+         "Ground"
+      ],
+      "stamina": 216,
+      "attack": 202,
+      "defense": 188,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 5.0
+   },
+   "390": {
+      "name": "Chimchar",
+      "types": [
+         "Fire"
+      ],
+      "stamina": 127,
+      "attack": 113,
+      "defense": 86,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 20.0
+   },
+   "391": {
+      "name": "Monferno",
+      "types": [
+         "Fire",
+         "Fighting"
+      ],
+      "stamina": 162,
+      "attack": 158,
+      "defense": 105,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 10.0
+   },
+   "392": {
+      "name": "Infernape",
+      "types": [
+         "Fire",
+         "Fighting"
+      ],
+      "stamina": 183,
+      "attack": 222,
+      "defense": 151,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 5.0
+   },
+   "393": {
+      "name": "Piplup",
+      "types": [
+         "Water"
+      ],
+      "stamina": 142,
+      "attack": 112,
+      "defense": 102,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 20.0
+   },
+   "394": {
+      "name": "Prinplup",
+      "types": [
+         "Water"
+      ],
+      "stamina": 162,
+      "attack": 150,
+      "defense": 139,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 10.0
+   },
+   "395": {
+      "name": "Empoleon",
+      "types": [
+         "Water",
+         "Steel"
+      ],
+      "stamina": 197,
+      "attack": 210,
+      "defense": 186,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 5.0
+   },
+   "396": {
+      "name": "Starly",
+      "types": [
+         "Normal",
+         "Flying"
+      ],
+      "stamina": 120,
+      "attack": 101,
+      "defense": 58,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 50.0
+   },
+   "397": {
+      "name": "Staravia",
+      "types": [
+         "Normal",
+         "Flying"
+      ],
+      "stamina": 146,
+      "attack": 142,
+      "defense": 94,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 25.0
+   },
+   "398": {
+      "name": "Staraptor",
+      "types": [
+         "Normal",
+         "Flying"
+      ],
+      "stamina": 198,
+      "attack": 234,
+      "defense": 140,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 12.5
+   },
+   "399": {
+      "name": "Bidoof",
+      "types": [
+         "Normal"
+      ],
+      "stamina": 153,
+      "attack": 80,
+      "defense": 73,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 50.0
+   },
+   "400": {
+      "name": "Bibarel",
+      "types": [
+         "Normal",
+         "Water"
+      ],
+      "stamina": 188,
+      "attack": 162,
+      "defense": 119,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 20.0
+   },
+   "401": {
+      "name": "Kricketot",
+      "types": [
+         "Bug"
+      ],
+      "stamina": 114,
+      "attack": 45,
+      "defense": 74,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 50.0
+   },
+   "402": {
+      "name": "Kricketune",
+      "types": [
+         "Bug"
+      ],
+      "stamina": 184,
+      "attack": 160,
+      "defense": 100,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 20.0
+   },
+   "403": {
+      "name": "Shinx",
+      "types": [
+         "Electric"
+      ],
+      "stamina": 128,
+      "attack": 117,
+      "defense": 64,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 50.0
+   },
+   "404": {
+      "name": "Luxio",
+      "types": [
+         "Electric"
+      ],
+      "stamina": 155,
+      "attack": 159,
+      "defense": 95,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 25.0
+   },
+   "405": {
+      "name": "Luxray",
+      "types": [
+         "Electric"
+      ],
+      "stamina": 190,
+      "attack": 232,
+      "defense": 156,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 12.5
+   },
+   "406": {
+      "name": "Budew",
+      "types": [
+         "Grass",
+         "Poison"
+      ],
+      "stamina": 120,
+      "attack": 91,
+      "defense": 109,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 10.0
+   },
+   "407": {
+      "name": "Roserade",
+      "types": [
+         "Grass",
+         "Poison"
+      ],
+      "stamina": 155,
+      "attack": 243,
+      "defense": 185,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 15.0
+   },
+   "408": {
+      "name": "Cranidos",
+      "types": [
+         "Rock"
+      ],
+      "stamina": 167,
+      "attack": 218,
+      "defense": 71,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 50.0
+   },
+   "409": {
+      "name": "Rampardos",
+      "types": [
+         "Rock"
+      ],
+      "stamina": 219,
+      "attack": 295,
+      "defense": 109,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 20.0
+   },
+   "410": {
+      "name": "Shieldon",
+      "types": [
+         "Rock",
+         "Steel"
+      ],
+      "stamina": 102,
+      "attack": 76,
+      "defense": 195,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 50.0
+   },
+   "411": {
+      "name": "Bastiodon",
+      "types": [
+         "Rock",
+         "Steel"
+      ],
+      "stamina": 155,
+      "attack": 94,
+      "defense": 286,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 20.0
+   },
+   "412P": {
+      "name": "Plant Cloak Burmy",
+      "types": [
+         "Bug"
+      ],
+      "stamina": 120,
+      "attack": 53,
+      "defense": 83,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 50.0
+   },
+   "412S": {
+      "name": "Sand Cloak Burmy",
+      "types": [
+         "Bug"
+      ],
+      "stamina": 120,
+      "attack": 53,
+      "defense": 83,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 50.0
+   },
+   "412T": {
+      "name": "Trash Cloak Burmy",
+      "types": [
+         "Bug"
+      ],
+      "stamina": 120,
+      "attack": 53,
+      "defense": 83,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 50.0
+   },
+   "413P": {
+      "name": "Plant Cloak Wormadam",
+      "types": [
+         "Bug",
+         "Grass"
+      ],
+      "stamina": 155,
+      "attack": 141,
+      "defense": 180,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 15.0
+   },
+   "413S": {
+      "name": "Sand Cloak Wormadam",
+      "types": [
+         "Bug",
+         "Ground"
+      ],
+      "stamina": 155,
+      "attack": 141,
+      "defense": 180,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 15.0
+   },
+   "413T": {
+      "name": "Trash Cloak Wormadam",
+      "types": [
+         "Bug",
+         "Steel"
+      ],
+      "stamina": 155,
+      "attack": 127,
+      "defense": 175,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 15.0
+   },
+   "414": {
+      "name": "Mothim",
+      "types": [
+         "Bug",
+         "Flying"
+      ],
+      "stamina": 172,
+      "attack": 185,
+      "defense": 98,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 15.0
+   },
+   "415": {
+      "name": "Combee",
+      "types": [
+         "Bug",
+         "Flying"
+      ],
+      "stamina": 102,
+      "attack": 59,
+      "defense": 83,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 15.0
+   },
+   "416": {
+      "name": "Vespiquen",
+      "types": [
+         "Bug",
+         "Flying"
+      ],
+      "stamina": 172,
+      "attack": 149,
+      "defense": 190,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 15.0
+   },
+   "417": {
+      "name": "Pachirisu",
+      "types": [
+         "Electric"
+      ],
+      "stamina": 155,
+      "attack": 94,
+      "defense": 172,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 30.0
+   },
+   "418": {
+      "name": "Buizel",
+      "types": [
+         "Water"
+      ],
+      "stamina": 146,
+      "attack": 132,
+      "defense": 67,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 50.0
+   },
+   "419": {
+      "name": "Floatzel",
+      "types": [
+         "Water"
+      ],
+      "stamina": 198,
+      "attack": 221,
+      "defense": 114,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 20.0
+   },
+   "420": {
+      "name": "Cherubi",
+      "types": [
+         "Grass"
+      ],
+      "stamina": 128,
+      "attack": 108,
+      "defense": 92,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 50.0
+   },
+   "421O": {
+      "name": "Overcast Cherrim",
+      "types": [
+         "Grass"
+      ],
+      "stamina": 172,
+      "attack": 170,
+      "defense": 153,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 10.0
+   },
+   "421S": {
+      "name": "Sunshine Cherrim",
+      "types": [
+         "Grass"
+      ],
+      "stamina": 172,
+      "attack": 170,
+      "defense": 153,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 10.0
+   },
+   "422": {
+      "name": "West Sea Shellos",
+      "types": [
+         "Water"
+      ],
+      "stamina": 183,
+      "attack": 103,
+      "defense": 105,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 50.0
+   },
+   "422E": {
+      "name": "East Sea Shellos",
+      "types": [
+         "Water"
+      ],
+      "stamina": 183,
+      "attack": 103,
+      "defense": 105,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 0.0
+   },
+   "423": {
+      "name": "West Sea Gastrodon",
+      "types": [
+         "Water",
+         "Ground"
+      ],
+      "stamina": 244,
+      "attack": 169,
+      "defense": 143,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 20.0
+   },
+   "423E": {
+      "name": "East Sea Gastrodon",
+      "types": [
+         "Water",
+         "Ground"
+      ],
+      "stamina": 244,
+      "attack": 169,
+      "defense": 143,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 0.0
+   },
+   "424": {
+      "name": "Ambipom",
+      "types": [
+         "Normal"
+      ],
+      "stamina": 181,
+      "attack": 205,
+      "defense": 143,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 20.0
+   },
+   "425": {
+      "name": "Drifloon",
+      "types": [
+         "Ghost",
+         "Flying"
+      ],
+      "stamina": 207,
+      "attack": 117,
+      "defense": 80,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 40.0
+   },
+   "426": {
+      "name": "Drifblim",
+      "types": [
+         "Ghost",
+         "Flying"
+      ],
+      "stamina": 312,
+      "attack": 180,
+      "defense": 102,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 20.0
+   },
+   "427": {
+      "name": "Buneary",
+      "types": [
+         "Normal"
+      ],
+      "stamina": 146,
+      "attack": 130,
+      "defense": 105,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 50.0
+   },
+   "428": {
+      "name": "Lopunny",
+      "types": [
+         "Normal"
+      ],
+      "stamina": 163,
+      "attack": 156,
+      "defense": 194,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 20.0
+   },
+   "429": {
+      "name": "Mismagius",
+      "types": [
+         "Ghost"
+      ],
+      "stamina": 155,
+      "attack": 211,
+      "defense": 187,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 10.0
+   },
+   "430": {
+      "name": "Honchkrow",
+      "types": [
+         "Dark",
+         "Flying"
+      ],
+      "stamina": 225,
+      "attack": 243,
+      "defense": 103,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 10.0
+   },
+   "431": {
+      "name": "Glameow",
+      "types": [
+         "Normal"
+      ],
+      "stamina": 135,
+      "attack": 109,
+      "defense": 82,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 40.0
+   },
+   "432": {
+      "name": "Purugly",
+      "types": [
+         "Normal"
+      ],
+      "stamina": 174,
+      "attack": 172,
+      "defense": 133,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 15.0
+   },
+   "433": {
+      "name": "Chingling",
+      "types": [
+         "Psychic"
+      ],
+      "stamina": 128,
+      "attack": 114,
+      "defense": 94,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 10.0
+   },
+   "434": {
+      "name": "Stunky",
+      "types": [
+         "Poison",
+         "Dark"
+      ],
+      "stamina": 160,
+      "attack": 121,
+      "defense": 90,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 50.0
+   },
+   "435": {
+      "name": "Skuntank",
+      "types": [
+         "Poison",
+         "Dark"
+      ],
+      "stamina": 230,
+      "attack": 184,
+      "defense": 132,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 20.0
+   },
+   "436": {
+      "name": "Bronzor",
+      "types": [
+         "Steel",
+         "Psychic"
+      ],
+      "stamina": 149,
+      "attack": 43,
+      "defense": 154,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 50.0
+   },
+   "437": {
+      "name": "Bronzong",
+      "types": [
+         "Steel",
+         "Psychic"
+      ],
+      "stamina": 167,
+      "attack": 161,
+      "defense": 213,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 20.0
+   },
+   "438": {
+      "name": "Bonsly",
+      "types": [
+         "Rock"
+      ],
+      "stamina": 137,
+      "attack": 124,
+      "defense": 133,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 10.0
+   },
+   "439": {
+      "name": "Mime Jr.",
+      "types": [
+         "Psychic",
+         "Fairy"
+      ],
+      "stamina": 85,
+      "attack": 125,
+      "defense": 142,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 10.0
+   },
+   "440": {
+      "name": "Happiny",
+      "types": [
+         "Normal"
+      ],
+      "stamina": 225,
+      "attack": 25,
+      "defense": 77,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 10.0
+   },
+   "441": {
+      "name": "Chatot",
+      "types": [
+         "Normal",
+         "Flying"
+      ],
+      "stamina": 183,
+      "attack": 183,
+      "defense": 91,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 30.0
+   },
+   "442": {
+      "name": "Spiritomb",
+      "types": [
+         "Ghost",
+         "Dark"
+      ],
+      "stamina": 137,
+      "attack": 169,
+      "defense": 199,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 10.0
+   },
+   "443": {
+      "name": "Gible",
+      "types": [
+         "Dragon",
+         "Ground"
+      ],
+      "stamina": 151,
+      "attack": 124,
+      "defense": 84,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 40.0
+   },
+   "444": {
+      "name": "Gabite",
+      "types": [
+         "Dragon",
+         "Ground"
+      ],
+      "stamina": 169,
+      "attack": 172,
+      "defense": 125,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 10.0
+   },
+   "445": {
+      "name": "Garchomp",
+      "types": [
+         "Dragon",
+         "Ground"
+      ],
+      "stamina": 239,
+      "attack": 261,
+      "defense": 193,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 5.0
+   },
+   "446": {
+      "name": "Munchlax",
+      "types": [
+         "Normal"
+      ],
+      "stamina": 286,
+      "attack": 137,
+      "defense": 117,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 10.0
+   },
+   "447": {
+      "name": "Riolu",
+      "types": [
+         "Fighting"
+      ],
+      "stamina": 120,
+      "attack": 127,
+      "defense": 78,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 0.0
+   },
+   "448": {
+      "name": "Lucario",
+      "types": [
+         "Fighting",
+         "Steel"
+      ],
+      "stamina": 172,
+      "attack": 236,
+      "defense": 144,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 10.0
+   },
+   "449": {
+      "name": "Hippopotas",
+      "types": [
+         "Ground"
+      ],
+      "stamina": 169,
+      "attack": 124,
+      "defense": 118,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 40.0
+   },
+   "450": {
+      "name": "Hippowdon",
+      "types": [
+         "Ground"
+      ],
+      "stamina": 239,
+      "attack": 201,
+      "defense": 191,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 15.0
+   },
+   "451": {
+      "name": "Skorupi",
+      "types": [
+         "Poison",
+         "Bug"
+      ],
+      "stamina": 120,
+      "attack": 93,
+      "defense": 151,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 40.0
+   },
+   "452": {
+      "name": "Drapion",
+      "types": [
+         "Poison",
+         "Dark"
+      ],
+      "stamina": 172,
+      "attack": 180,
+      "defense": 202,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 15.0
+   },
+   "453": {
+      "name": "Croagunk",
+      "types": [
+         "Poison",
+         "Fighting"
+      ],
+      "stamina": 134,
+      "attack": 116,
+      "defense": 76,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 40.0
+   },
+   "454": {
+      "name": "Toxicroak",
+      "types": [
+         "Poison",
+         "Fighting"
+      ],
+      "stamina": 195,
+      "attack": 211,
+      "defense": 133,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 15.0
+   },
+   "455": {
+      "name": "Carnivine",
+      "types": [
+         "Grass"
+      ],
+      "stamina": 179,
+      "attack": 187,
+      "defense": 136,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 90.0
+   },
+   "456": {
+      "name": "Finneon",
+      "types": [
+         "Water"
+      ],
+      "stamina": 135,
+      "attack": 96,
+      "defense": 116,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 50.0
+   },
+   "457": {
+      "name": "Lumineon",
+      "types": [
+         "Water"
+      ],
+      "stamina": 170,
+      "attack": 142,
+      "defense": 170,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 20.0
+   },
+   "458": {
+      "name": "Mantyke",
+      "types": [
+         "Water",
+         "Flying"
+      ],
+      "stamina": 128,
+      "attack": 105,
+      "defense": 179,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 10.0
+   },
+   "459": {
+      "name": "Snover",
+      "types": [
+         "Grass",
+         "Ice"
+      ],
+      "stamina": 155,
+      "attack": 115,
+      "defense": 105,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 30.0
+   },
+   "460": {
+      "name": "Abomasnow",
+      "types": [
+         "Grass",
+         "Ice"
+      ],
+      "stamina": 207,
+      "attack": 178,
+      "defense": 158,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 12.5
+   },
+   "461": {
+      "name": "Weavile",
+      "types": [
+         "Dark",
+         "Ice"
+      ],
+      "stamina": 172,
+      "attack": 243,
+      "defense": 171,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 15.0
+   },
+   "462": {
+      "name": "Magnezone",
+      "types": [
+         "Electric",
+         "Steel"
+      ],
+      "stamina": 172,
+      "attack": 238,
+      "defense": 205,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 12.5
+   },
+   "463": {
+      "name": "Lickilicky",
+      "types": [
+         "Normal"
+      ],
+      "stamina": 242,
+      "attack": 161,
+      "defense": 181,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 15.0
+   },
+   "464": {
+      "name": "Rhyperior",
+      "types": [
+         "Ground",
+         "Rock"
+      ],
+      "stamina": 251,
+      "attack": 241,
+      "defense": 190,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 5.0
+   },
+   "465": {
+      "name": "Tangrowth",
+      "types": [
+         "Grass"
+      ],
+      "stamina": 225,
+      "attack": 207,
+      "defense": 184,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 15.0
+   },
+   "466": {
+      "name": "Electivire",
+      "types": [
+         "Electric"
+      ],
+      "stamina": 181,
+      "attack": 249,
+      "defense": 163,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 15.0
+   },
+   "467": {
+      "name": "Magmortar",
+      "types": [
+         "Fire"
+      ],
+      "stamina": 181,
+      "attack": 247,
+      "defense": 172,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 15.0
+   },
+   "468": {
+      "name": "Togekiss",
+      "types": [
+         "Fairy",
+         "Flying"
+      ],
+      "stamina": 198,
+      "attack": 225,
+      "defense": 217,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 1.0
+   },
+   "469": {
+      "name": "Yanmega",
+      "types": [
+         "Bug",
+         "Flying"
+      ],
+      "stamina": 200,
+      "attack": 231,
+      "defense": 156,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 17.5
+   },
+   "470": {
+      "name": "Leafeon",
+      "types": [
+         "Grass"
+      ],
+      "stamina": 163,
+      "attack": 216,
+      "defense": 219,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 12.5
+   },
+   "471": {
+      "name": "Glaceon",
+      "types": [
+         "Ice"
+      ],
+      "stamina": 163,
+      "attack": 238,
+      "defense": 205,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 12.5
+   },
+   "472": {
+      "name": "Gliscor",
+      "types": [
+         "Ground",
+         "Flying"
+      ],
+      "stamina": 181,
+      "attack": 185,
+      "defense": 222,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 12.5
+   },
+   "473": {
+      "name": "Mamoswine",
+      "types": [
+         "Ice",
+         "Ground"
+      ],
+      "stamina": 242,
+      "attack": 247,
+      "defense": 146,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 5.0
+   },
+   "474": {
+      "name": "Porygon-Z",
+      "types": [
+         "Normal"
+      ],
+      "stamina": 198,
+      "attack": 264,
+      "defense": 150,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 5.0
+   },
+   "475": {
+      "name": "Gallade",
+      "types": [
+         "Psychic",
+         "Fighting"
+      ],
+      "stamina": 169,
+      "attack": 237,
+      "defense": 195,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 50.0
+   },
+   "476": {
+      "name": "Probopass",
+      "types": [
+         "Rock",
+         "Steel"
+      ],
+      "stamina": 155,
+      "attack": 135,
+      "defense": 275,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 10.0
+   },
+   "477": {
+      "name": "Dusknoir",
+      "types": [
+         "Ghost"
+      ],
+      "stamina": 128,
+      "attack": 180,
+      "defense": 254,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 10.0
+   },
+   "478": {
+      "name": "Froslass",
+      "types": [
+         "Ice",
+         "Ghost"
+      ],
+      "stamina": 172,
+      "attack": 171,
+      "defense": 150,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 20.0
+   },
+   "479": {
+      "name": "Rotom",
+      "types": [
+         "Electric",
+         "Ghost"
+      ],
+      "stamina": 137,
+      "attack": 185,
+      "defense": 159,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 30.0
+   },
+   "479F": {
+      "name": "Fan Rotom",
+      "types": [
+         "Electric",
+         "Flying"
+      ],
+      "stamina": 137,
+      "attack": 204,
+      "defense": 219,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 30.0
+   },
+   "479R": {
+      "name": "Frost Rotom",
+      "types": [
+         "Electric",
+         "Ice"
+      ],
+      "stamina": 137,
+      "attack": 204,
+      "defense": 219,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 30.0
+   },
+   "479O": {
+      "name": "Heat Rotom",
+      "types": [
+         "Electric",
+         "Fire"
+      ],
+      "stamina": 137,
+      "attack": 204,
+      "defense": 219,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 30.0
+   },
+   "479L": {
+      "name": "Mow Rotom",
+      "types": [
+         "Electric",
+         "Grass"
+      ],
+      "stamina": 137,
+      "attack": 204,
+      "defense": 219,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 30.0
+   },
+   "479W": {
+      "name": "Wash Rotom",
+      "types": [
+         "Electric",
+         "Water"
+      ],
+      "stamina": 137,
+      "attack": 204,
+      "defense": 219,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 30.0
+   },
+   "480": {
+      "name": "Uxie",
+      "types": [
+         "Psychic"
+      ],
+      "stamina": 181,
+      "attack": 156,
+      "defense": 270,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 2.0
+   },
+   "481": {
+      "name": "Mesprit",
+      "types": [
+         "Psychic"
+      ],
+      "stamina": 190,
+      "attack": 212,
+      "defense": 212,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 2.0
+   },
+   "482": {
+      "name": "Azelf",
+      "types": [
+         "Psychic"
+      ],
+      "stamina": 181,
+      "attack": 270,
+      "defense": 151,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 2.0
+   },
+   "483": {
+      "name": "Dialga",
+      "types": [
+         "Steel",
+         "Dragon"
+      ],
+      "stamina": 205,
+      "attack": 275,
+      "defense": 211,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 2.0
+   },
+   "484": {
+      "name": "Palkia",
+      "types": [
+         "Water",
+         "Dragon"
+      ],
+      "stamina": 189,
+      "attack": 280,
+      "defense": 215,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 2.0
+   },
+   "485": {
+      "name": "Heatran",
+      "types": [
+         "Fire",
+         "Steel"
+      ],
+      "stamina": 209,
+      "attack": 251,
+      "defense": 213,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 2.0
+   },
+   "486": {
+      "name": "Regigigas",
+      "types": [
+         "Normal"
+      ],
+      "stamina": 221,
+      "attack": 287,
+      "defense": 210,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 2.0
+   },
+   "487A": {
+      "name": "Altered Form Giratina",
+      "types": [
+         "Ghost",
+         "Dragon"
+      ],
+      "stamina": 284,
+      "attack": 187,
+      "defense": 225,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 2.0
+   },
+   "487O": {
+      "name": "Origin Form Giratina",
+      "types": [
+         "Ghost",
+         "Dragon"
+      ],
+      "stamina": 284,
+      "attack": 225,
+      "defense": 187,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 2.0
+   },
+   "488": {
+      "name": "Cresselia",
+      "types": [
+         "Psychic"
+      ],
+      "stamina": 260,
+      "attack": 152,
+      "defense": 258,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 2.0
+   },
+   "489": {
+      "name": "Phione",
+      "types": [
+         "Water"
+      ],
+      "stamina": 190,
+      "attack": 162,
+      "defense": 162,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 2.0
+   },
+   "490": {
+      "name": "Manaphy",
+      "types": [
+         "Water"
+      ],
+      "stamina": 225,
+      "attack": 210,
+      "defense": 210,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 2.0
+   },
+   "491": {
+      "name": "Darkrai",
+      "types": [
+         "Dark"
+      ],
+      "stamina": 172,
+      "attack": 285,
+      "defense": 198,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 2.0
+   },
+   "492L": {
+      "name": "Land Form Shaymin",
+      "types": [
+         "Grass"
+      ],
+      "stamina": 225,
+      "attack": 210,
+      "defense": 210,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 2.0
+   },
+   "492S": {
+      "name": "Sky Form Shaymin",
+      "types": [
+         "Grass",
+         "Flying"
+      ],
+      "stamina": 225,
+      "attack": 261,
+      "defense": 166,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 2.0
+   },
+   "493N": {
+      "name": "Arceus Normal",
+      "types": [
+         "Normal"
+      ],
+      "stamina": 237,
+      "attack": 238,
+      "defense": 238,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 2.0
+   },
+   "493Fire": {
+      "name": "Arceus Fire",
+      "types": [
+         "Fire"
+      ],
+      "stamina": 237,
+      "attack": 238,
+      "defense": 238,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 2.0
+   },
+   "493W": {
+      "name": "Arceus Water",
+      "types": [
+         "Water"
+      ],
+      "stamina": 237,
+      "attack": 238,
+      "defense": 238,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 2.0
+   },
+   "493Gra": {
+      "name": "Arceus Grass",
+      "types": [
+         "Grass"
+      ],
+      "stamina": 237,
+      "attack": 238,
+      "defense": 238,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 2.0
+   },
+   "493E": {
+      "name": "Arceus Electric",
+      "types": [
+         "Electric"
+      ],
+      "stamina": 237,
+      "attack": 238,
+      "defense": 238,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 2.0
+   },
+   "493Grohu": {
+      "name": "Arceus Ground",
+      "types": [
+         "Ground"
+      ],
+      "stamina": 237,
+      "attack": 238,
+      "defense": 238,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 2.0
+   },
+   "493R": {
+      "name": "Arceus Rock",
+      "types": [
+         "Rock"
+      ],
+      "stamina": 237,
+      "attack": 238,
+      "defense": 238,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 2.0
+   },
+   "493Poiuyt": {
+      "name": "Arceus Poison",
+      "types": [
+         "Poison"
+      ],
+      "stamina": 237,
+      "attack": 238,
+      "defense": 238,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 2.0
+   },
+   "493B": {
+      "name": "Arceus Bug",
+      "types": [
+         "Bug"
+      ],
+      "stamina": 237,
+      "attack": 238,
+      "defense": 238,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 2.0
+   },
+   "493Fly": {
+      "name": "Arceus Flying",
+      "types": [
+         "Flying"
+      ],
+      "stamina": 237,
+      "attack": 238,
+      "defense": 238,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 2.0
+   },
+   "493G": {
+      "name": "Arceus Ghost",
+      "types": [
+         "ghost"
+      ],
+      "stamina": 237,
+      "attack": 238,
+      "defense": 238,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 2.0
+   },
+   "493Fight": {
+      "name": "Arceus Fighting",
+      "types": [
+         "fighting"
+      ],
+      "stamina": 237,
+      "attack": 238,
+      "defense": 238,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 2.0
+   },
+   "493P": {
+      "name": "Arceus Psychic",
+      "types": [
+         "psychic"
+      ],
+      "stamina": 237,
+      "attack": 238,
+      "defense": 238,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 2.0
+   },
+   "493I": {
+      "name": "Arceus Ice",
+      "types": [
+         "Ice"
+      ],
+      "stamina": 237,
+      "attack": 238,
+      "defense": 238,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 2.0
+   },
+   "493Drsaf": {
+      "name": "Arceus Dragon",
+      "types": [
+         "Dragon"
+      ],
+      "stamina": 237,
+      "attack": 238,
+      "defense": 238,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 2.0
+   },
+   "493D": {
+      "name": "Arceus Dark",
+      "types": [
+         "Dark"
+      ],
+      "stamina": 237,
+      "attack": 238,
+      "defense": 238,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 2.0
+   },
+   "493S": {
+      "name": "Arceus Steel",
+      "types": [
+         "Steel"
+      ],
+      "stamina": 237,
+      "attack": 238,
+      "defense": 238,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 2.0
+   },
+   "493F": {
+      "name": "Arceus Fairy",
+      "types": [
+         "Fairy"
+      ],
+      "stamina": 237,
+      "attack": 238,
+      "defense": 238,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 2.0
+   },
+   "494": {
+      "name": "Victini",
+      "types": [
+         "Psychic",
+         "Fire"
+      ],
+      "stamina": 225,
+      "attack": 210,
+      "defense": 210,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 10000.0
+   },
+   "495": {
+      "name": "Snivy",
+      "types": [
+         "Grass"
+      ],
+      "stamina": 128,
+      "attack": 88,
+      "defense": 107,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 20.0
+   },
+   "496": {
+      "name": "Servine",
+      "types": [
+         "Grass"
+      ],
+      "stamina": 155,
+      "attack": 122,
+      "defense": 152,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 10.0
+   },
+   "497": {
+      "name": "Serperior",
+      "types": [
+         "Grass"
+      ],
+      "stamina": 181,
+      "attack": 161,
+      "defense": 204,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 5.0
+   },
+   "498": {
+      "name": "Tepig",
+      "types": [
+         "Fire"
+      ],
+      "stamina": 163,
+      "attack": 115,
+      "defense": 85,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 20.0
+   },
+   "499": {
+      "name": "Pignite",
+      "types": [
+         "Fire",
+         "Fighting"
+      ],
+      "stamina": 207,
+      "attack": 173,
+      "defense": 106,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 10.0
+   },
+   "500": {
+      "name": "Emboar",
+      "types": [
+         "Fire",
+         "Fighting"
+      ],
+      "stamina": 242,
+      "attack": 235,
+      "defense": 127,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 5.0
+   },
+   "501": {
+      "name": "Oshawott",
+      "types": [
+         "Water"
+      ],
+      "stamina": 146,
+      "attack": 117,
+      "defense": 85,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 20.0
+   },
+   "502": {
+      "name": "Dewott",
+      "types": [
+         "Water"
+      ],
+      "stamina": 181,
+      "attack": 159,
+      "defense": 116,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 10.0
+   },
+   "503": {
+      "name": "Samurott",
+      "types": [
+         "Water"
+      ],
+      "stamina": 216,
+      "attack": 212,
+      "defense": 157,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 5.0
+   },
+   "504": {
+      "name": "Patrat",
+      "types": [
+         "Normal"
+      ],
+      "stamina": 128,
+      "attack": 98,
+      "defense": 73,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 50.0
+   },
+   "505": {
+      "name": "Watchog",
+      "types": [
+         "Normal"
+      ],
+      "stamina": 155,
+      "attack": 165,
+      "defense": 139,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 20.0
+   },
+   "506": {
+      "name": "Lillipup",
+      "types": [
+         "Normal"
+      ],
+      "stamina": 128,
+      "attack": 107,
+      "defense": 86,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 50.0
+   },
+   "507": {
+      "name": "Herdier",
+      "types": [
+         "Normal"
+      ],
+      "stamina": 163,
+      "attack": 145,
+      "defense": 126,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 25.0
+   },
+   "508": {
+      "name": "Stoutland",
+      "types": [
+         "Normal"
+      ],
+      "stamina": 198,
+      "attack": 206,
+      "defense": 182,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 12.5
+   },
+   "509": {
+      "name": "Purrloin",
+      "types": [
+         "Dark"
+      ],
+      "stamina": 121,
+      "attack": 98,
+      "defense": 73,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 50.0
+   },
+   "510": {
+      "name": "Liepard",
+      "types": [
+         "Dark"
+      ],
+      "stamina": 162,
+      "attack": 187,
+      "defense": 106,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 20.0
+   },
+   "511": {
+      "name": "Pansage",
+      "types": [
+         "Grass"
+      ],
+      "stamina": 137,
+      "attack": 104,
+      "defense": 94,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 50.0
+   },
+   "512": {
+      "name": "Simisage",
+      "types": [
+         "Grass"
+      ],
+      "stamina": 181,
+      "attack": 206,
+      "defense": 133,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 50.0
+   },
+   "513": {
+      "name": "Pansear",
+      "types": [
+         "Fire"
+      ],
+      "stamina": 137,
+      "attack": 104,
+      "defense": 94,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 20.0
+   },
+   "514": {
+      "name": "Simisear",
+      "types": [
+         "Fire"
+      ],
+      "stamina": 181,
+      "attack": 206,
+      "defense": 133,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 50.0
+   },
+   "515": {
+      "name": "Panpour",
+      "types": [
+         "Water"
+      ],
+      "stamina": 137,
+      "attack": 104,
+      "defense": 94,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 50.0
+   },
+   "516": {
+      "name": "Simipour",
+      "types": [
+         "Water"
+      ],
+      "stamina": 181,
+      "attack": 206,
+      "defense": 133,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 20.0
+   },
+   "517": {
+      "name": "Munna",
+      "types": [
+         "Psychic"
+      ],
+      "stamina": 183,
+      "attack": 111,
+      "defense": 92,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 50.0
+   },
+   "518": {
+      "name": "Musharna",
+      "types": [
+         "Psychic"
+      ],
+      "stamina": 253,
+      "attack": 183,
+      "defense": 166,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 20.0
+   },
+   "519": {
+      "name": "Pidove",
+      "types": [
+         "Normal",
+         "Flying"
+      ],
+      "stamina": 137,
+      "attack": 98,
+      "defense": 80,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 50.0
+   },
+   "520": {
+      "name": "Tranquill",
+      "types": [
+         "Normal",
+         "Flying"
+      ],
+      "stamina": 158,
+      "attack": 144,
+      "defense": 107,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 25.0
+   },
+   "521": {
+      "name": "Unfezant",
+      "types": [
+         "Normal",
+         "Flying"
+      ],
+      "stamina": 190,
+      "attack": 226,
+      "defense": 146,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 12.5
+   },
+   "522": {
+      "name": "Blitzle",
+      "types": [
+         "Electric"
+      ],
+      "stamina": 128,
+      "attack": 118,
+      "defense": 64,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 30.0
+   },
+   "523": {
+      "name": "Zebstrika",
+      "types": [
+         "Electric"
+      ],
+      "stamina": 181,
+      "attack": 211,
+      "defense": 136,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 10.0
+   },
+   "524": {
+      "name": "Roggenrola",
+      "types": [
+         "Rock"
+      ],
+      "stamina": 146,
+      "attack": 121,
+      "defense": 110,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 50.0
+   },
+   "525": {
+      "name": "Boldore",
+      "types": [
+         "Rock"
+      ],
+      "stamina": 172,
+      "attack": 174,
+      "defense": 143,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 25.0
+   },
+   "526": {
+      "name": "Gigalith",
+      "types": [
+         "Rock"
+      ],
+      "stamina": 198,
+      "attack": 226,
+      "defense": 201,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 12.5
+   },
+   "527": {
+      "name": "Woobat",
+      "types": [
+         "Psychic",
+         "Flying"
+      ],
+      "stamina": 163,
+      "attack": 107,
+      "defense": 85,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 50.0
+   },
+   "528": {
+      "name": "Swoobat",
+      "types": [
+         "Psychic",
+         "Flying"
+      ],
+      "stamina": 167,
+      "attack": 161,
+      "defense": 119,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 20.0
+   },
+   "529": {
+      "name": "Drilbur",
+      "types": [
+         "Ground"
+      ],
+      "stamina": 155,
+      "attack": 154,
+      "defense": 85,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 50.0
+   },
+   "530": {
+      "name": "Excadrill",
+      "types": [
+         "Ground",
+         "Steel"
+      ],
+      "stamina": 242,
+      "attack": 255,
+      "defense": 129,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 20.0
+   },
+   "531": {
+      "name": "Audino",
+      "types": [
+         "Normal"
+      ],
+      "stamina": 230,
+      "attack": 114,
+      "defense": 163,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 5.0
+   },
+   "532": {
+      "name": "Timburr",
+      "types": [
+         "Fighting"
+      ],
+      "stamina": 181,
+      "attack": 134,
+      "defense": 87,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 50.0
+   },
+   "533": {
+      "name": "Gurdurr",
+      "types": [
+         "Fighting"
+      ],
+      "stamina": 198,
+      "attack": 180,
+      "defense": 134,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 25.0
+   },
+   "534": {
+      "name": "Conkeldurr",
+      "types": [
+         "Fighting"
+      ],
+      "stamina": 233,
+      "attack": 243,
+      "defense": 158,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 12.5
+   },
+   "535": {
+      "name": "Tympole",
+      "types": [
+         "Water"
+      ],
+      "stamina": 137,
+      "attack": 98,
+      "defense": 78,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 50.0
+   },
+   "536": {
+      "name": "Palpitoad",
+      "types": [
+         "Water",
+         "Ground"
+      ],
+      "stamina": 181,
+      "attack": 128,
+      "defense": 109,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 25.0
+   },
+   "537": {
+      "name": "Seismitoad",
+      "types": [
+         "Water",
+         "Ground"
+      ],
+      "stamina": 233,
+      "attack": 188,
+      "defense": 150,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 12.5
+   },
+   "538": {
+      "name": "Throh",
+      "types": [
+         "Fighting"
+      ],
+      "stamina": 260,
+      "attack": 172,
+      "defense": 160,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 20.0
+   },
+   "539": {
+      "name": "Sawk",
+      "types": [
+         "Fighting"
+      ],
+      "stamina": 181,
+      "attack": 231,
+      "defense": 153,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 20.0
+   },
+   "540": {
+      "name": "Sewaddle",
+      "types": [
+         "Bug",
+         "Grass"
+      ],
+      "stamina": 128,
+      "attack": 96,
+      "defense": 124,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 50.0
+   },
+   "541": {
+      "name": "Swadloon",
+      "types": [
+         "Bug",
+         "Grass"
+      ],
+      "stamina": 146,
+      "attack": 115,
+      "defense": 162,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 25.0
+   },
+   "542": {
+      "name": "Leavanny",
+      "types": [
+         "Bug",
+         "Grass"
+      ],
+      "stamina": 181,
+      "attack": 205,
+      "defense": 165,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 12.5
+   },
+   "543": {
+      "name": "Venipede",
+      "types": [
+         "Bug",
+         "Poison"
+      ],
+      "stamina": 102,
+      "attack": 83,
+      "defense": 99,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 30.0
+   },
+   "544": {
+      "name": "Whirlipede",
+      "types": [
+         "Bug",
+         "Poison"
+      ],
+      "stamina": 120,
+      "attack": 100,
+      "defense": 173,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 15.0
+   },
+   "545": {
+      "name": "Scolipede",
+      "types": [
+         "Bug",
+         "Poison"
+      ],
+      "stamina": 155,
+      "attack": 203,
+      "defense": 175,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 20.0
+   },
+   "546": {
+      "name": "Cottonee",
+      "types": [
+         "Grass",
+         "Fairy"
+      ],
+      "stamina": 120,
+      "attack": 71,
+      "defense": 111,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 30.0
+   },
+   "547": {
+      "name": "Whimsicott",
+      "types": [
+         "Grass",
+         "Fairy"
+      ],
+      "stamina": 155,
+      "attack": 164,
+      "defense": 176,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 15.0
+   },
+   "548": {
+      "name": "Petilil",
+      "types": [
+         "Grass"
+      ],
+      "stamina": 128,
+      "attack": 119,
+      "defense": 91,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 30.0
+   },
+   "549": {
+      "name": "Lilligant",
+      "types": [
+         "Grass"
+      ],
+      "stamina": 172,
+      "attack": 214,
+      "defense": 155,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 15.0
+   },
+   "550": {
+      "name": "Red Striped Basculin",
+      "types": [
+         "Water"
+      ],
+      "stamina": 172,
+      "attack": 189,
+      "defense": 129,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 20.0
+   },
+   "550B": {
+      "name": "Blue Striped Basculin",
+      "types": [
+         "Water"
+      ],
+      "stamina": 172,
+      "attack": 189,
+      "defense": 129,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 0.0
+   },
+   "551": {
+      "name": "Sandile",
+      "types": [
+         "Ground",
+         "Dark"
+      ],
+      "stamina": 137,
+      "attack": 132,
+      "defense": 69,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 50.0
+   },
+   "552": {
+      "name": "Krokorok",
+      "types": [
+         "Ground",
+         "Dark"
+      ],
+      "stamina": 155,
+      "attack": 155,
+      "defense": 90,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 25.0
+   },
+   "553": {
+      "name": "Krookodile",
+      "types": [
+         "Ground",
+         "Dark"
+      ],
+      "stamina": 216,
+      "attack": 229,
+      "defense": 158,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 12.5
+   },
+   "554": {
+      "name": "Darumaka",
+      "types": [
+         "Fire"
+      ],
+      "stamina": 172,
+      "attack": 153,
+      "defense": 86,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 30.0
+   },
+   "554G": {
+      "name": "Galarian Darumaka",
+      "types": [
+         "Ice"
+      ],
+      "stamina": 172,
+      "attack": 153,
+      "defense": 86,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 30.0
+   },
+   "555": {
+      "name": "Darmanitan",
+      "types": [
+         "Fire"
+      ],
+      "stamina": 233,
+      "attack": 263,
+      "defense": 114,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 10.0
+   },
+      "555G": {
+      "name": "Galarian Darmanitan",
+      "types": [
+         "Ice"
+      ],
+      "stamina": 233,
+      "attack": 263,
+      "defense": 114,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 10.0
+   },
+   "555Z": {
+      "name": "Darmanitan Zen Mode",
+      "types": [
+         "Fire",
+         "Psychic"
+      ],
+      "stamina": 233,
+      "attack": 243,
+      "defense": 202,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 10.0
+   },
+   "555GZ": {
+      "name": "Galarian Darmanitan Zen Mode",
+      "types": [
+         "Fire",
+         "Ice"
+      ],
+      "stamina": 233,
+      "attack": 323,
+      "defense": 123,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 10.0
+   },
+   "556": {
+      "name": "Maractus",
+      "types": [
+         "Grass"
+      ],
+      "stamina": 181,
+      "attack": 201,
+      "defense": 130,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 20.0
+   },
+   "557": {
+      "name": "Dwebble",
+      "types": [
+         "Bug",
+         "Rock"
+      ],
+      "stamina": 137,
+      "attack": 118,
+      "defense": 128,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 30.0
+   },
+   "558": {
+      "name": "Crustle",
+      "types": [
+         "Bug",
+         "Rock"
+      ],
+      "stamina": 172,
+      "attack": 188,
+      "defense": 200,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 10.0
+   },
+   "559": {
+      "name": "Scraggy",
+      "types": [
+         "Dark",
+         "Fighting"
+      ],
+      "stamina": 137,
+      "attack": 132,
+      "defense": 132,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 30.0
+   },
+   "560": {
+      "name": "Scrafty",
+      "types": [
+         "Dark",
+         "Fighting"
+      ],
+      "stamina": 163,
+      "attack": 163,
+      "defense": 222,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 10.0
+   },
+   "561": {
+      "name": "Sigilyph",
+      "types": [
+         "Psychic",
+         "Flying"
+      ],
+      "stamina": 176,
+      "attack": 204,
+      "defense": 167,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 20.0
+   },
+   "562": {
+      "name": "Yamask",
+      "types": [
+         "Ghost"
+      ],
+      "stamina": 116,
+      "attack": 95,
+      "defense": 141,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 30.0
+   },
+   "563": {
+      "name": "Cofagrigus",
+      "types": [
+         "Ghost"
+      ],
+      "stamina": 151,
+      "attack": 163,
+      "defense": 237,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 10.0
+   },
+   "564": {
+      "name": "Tirtouga",
+      "types": [
+         "Water",
+         "Rock"
+      ],
+      "stamina": 144,
+      "attack": 134,
+      "defense": 146,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 30.0
+   },
+   "565": {
+      "name": "Carracosta",
+      "types": [
+         "Water",
+         "Rock"
+      ],
+      "stamina": 179,
+      "attack": 192,
+      "defense": 197,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 10.0
+   },
+   "566": {
+      "name": "Archen",
+      "types": [
+         "Rock",
+         "Flying"
+      ],
+      "stamina": 146,
+      "attack": 213,
+      "defense": 89,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 30.0
+   },
+   "567": {
+      "name": "Archeops",
+      "types": [
+         "Rock",
+         "Flying"
+      ],
+      "stamina": 181,
+      "attack": 292,
+      "defense": 139,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 10.0
+   },
+   "568": {
+      "name": "Trubbish",
+      "types": [
+         "Poison"
+      ],
+      "stamina": 137,
+      "attack": 96,
+      "defense": 122,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 30.0
+   },
+   "569": {
+      "name": "Garbodor",
+      "types": [
+         "Poison"
+      ],
+      "stamina": 190,
+      "attack": 181,
+      "defense": 164,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 10.0
+   },
+   "570": {
+      "name": "Zorua",
+      "types": [
+         "Dark"
+      ],
+      "stamina": 120,
+      "attack": 153,
+      "defense": 78,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 30.0
+   },
+   "571": {
+      "name": "Zoroark",
+      "types": [
+         "Dark"
+      ],
+      "stamina": 155,
+      "attack": 250,
+      "defense": 127,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 10.0
+   },
+   "572": {
+      "name": "Minccino",
+      "types": [
+         "Normal"
+      ],
+      "stamina": 146,
+      "attack": 98,
+      "defense": 80,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 30.0
+   },
+   "573": {
+      "name": "Cinccino",
+      "types": [
+         "Normal"
+      ],
+      "stamina": 181,
+      "attack": 198,
+      "defense": 130,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 10.0
+   },
+   "574": {
+      "name": "Gothita",
+      "types": [
+         "Psychic"
+      ],
+      "stamina": 128,
+      "attack": 98,
+      "defense": 112,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 50.0
+   },
+   "575": {
+      "name": "Gothorita",
+      "types": [
+         "Psychic"
+      ],
+      "stamina": 155,
+      "attack": 137,
+      "defense": 153,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 25.0
+   },
+   "576": {
+      "name": "Gothitelle",
+      "types": [
+         "Psychic"
+      ],
+      "stamina": 172,
+      "attack": 176,
+      "defense": 205,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 12.5
+   },
+   "577": {
+      "name": "Solosis",
+      "types": [
+         "Psychic"
+      ],
+      "stamina": 128,
+      "attack": 170,
+      "defense": 83,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 50.0
+   },
+   "578": {
+      "name": "Duosion",
+      "types": [
+         "Psychic"
+      ],
+      "stamina": 163,
+      "attack": 208,
+      "defense": 103,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 25.0
+   },
+   "579": {
+      "name": "Reuniclus",
+      "types": [
+         "Psychic"
+      ],
+      "stamina": 242,
+      "attack": 214,
+      "defense": 148,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 12.5
+   },
+   "580": {
+      "name": "Ducklett",
+      "types": [
+         "Water",
+         "Flying"
+      ],
+      "stamina": 158,
+      "attack": 84,
+      "defense": 96,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 50.0
+   },
+   "581": {
+      "name": "Swanna",
+      "types": [
+         "Water",
+         "Flying"
+      ],
+      "stamina": 181,
+      "attack": 182,
+      "defense": 132,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 40.0
+   },
+   "582": {
+      "name": "Vanillite",
+      "types": [
+         "Ice"
+      ],
+      "stamina": 113,
+      "attack": 118,
+      "defense": 106,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 10.0
+   },
+   "583": {
+      "name": "Vanillish",
+      "types": [
+         "Ice"
+      ],
+      "stamina": 139,
+      "attack": 151,
+      "defense": 138,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 5.0
+   },
+   "584": {
+      "name": "Vanilluxe",
+      "types": [
+         "Ice"
+      ],
+      "stamina": 174,
+      "attack": 218,
+      "defense": 184,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 12.5
+   },
+   "585A": {
+      "name": "Deerling Autumn Form",
+      "types": [
+         "Normal",
+         "Grass"
+      ],
+      "stamina": 155,
+      "attack": 115,
+      "defense": 100,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 30.0
+   },
+   "585Sdfg": {
+      "name": "Deerling Spring Form",
+      "types": [
+         "Normal",
+         "Grass"
+      ],
+      "stamina": 155,
+      "attack": 115,
+      "defense": 100,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 30.0
+   },
+   "585S": {
+      "name": "Deerling Summer Form",
+      "types": [
+         "Normal",
+         "Grass"
+      ],
+      "stamina": 155,
+      "attack": 115,
+      "defense": 100,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 30.0
+   },
+   "585W": {
+      "name": "Deerling Winter Form",
+      "types": [
+         "Normal",
+         "Grass"
+      ],
+      "stamina": 155,
+      "attack": 115,
+      "defense": 100,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 30.0
+   },
+   "586A": {
+      "name": "Sawsbuck Autumn Form",
+      "types": [
+         "Normal",
+         "Grass"
+      ],
+      "stamina": 190,
+      "attack": 198,
+      "defense": 146,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 15.0
+   },
+   "586Sdfgh": {
+      "name": "Sawsbuck Spring Form",
+      "types": [
+         "Normal",
+         "Grass"
+      ],
+      "stamina": 190,
+      "attack": 198,
+      "defense": 146,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 15.0
+   },
+   "586S": {
+      "name": "Sawsbuck Summer Form",
+      "types": [
+         "Normal",
+         "Grass"
+      ],
+      "stamina": 190,
+      "attack": 198,
+      "defense": 146,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 15.0
+   },
+   "586W": {
+      "name": "Sawsbuck Winter Form",
+      "types": [
+         "Normal",
+         "Grass"
+      ],
+      "stamina": 190,
+      "attack": 198,
+      "defense": 146,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 15.0
+   },
+   "587": {
+      "name": "Emolga",
+      "types": [
+         "Electric",
+         "Flying"
+      ],
+      "stamina": 146,
+      "attack": 158,
+      "defense": 127,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 20.0
+   },
+   "588": {
+      "name": "Karrablast",
+      "types": [
+         "Bug"
+      ],
+      "stamina": 137,
+      "attack": 137,
+      "defense": 87,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 30.0
+   },
+   "589": {
+      "name": "Escavalier",
+      "types": [
+         "Bug",
+         "Steel"
+      ],
+      "stamina": 172,
+      "attack": 223,
+      "defense": 187,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 12.5
+   },
+   "590": {
+      "name": "Foongus",
+      "types": [
+         "Grass",
+         "Poison"
+      ],
+      "stamina": 170,
+      "attack": 97,
+      "defense": 91,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 30.0
+   },
+   "591": {
+      "name": "Amoonguss",
+      "types": [
+         "Grass",
+         "Poison"
+      ],
+      "stamina": 249,
+      "attack": 155,
+      "defense": 139,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 12.5
+   },
+   "592": {
+      "name": "Frillish",
+      "types": [
+         "Water",
+         "Ghost"
+      ],
+      "stamina": 146,
+      "attack": 115,
+      "defense": 134,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 30.0
+   },
+   "593": {
+      "name": "Jellicent",
+      "types": [
+         "Water",
+         "Ghost"
+      ],
+      "stamina": 225,
+      "attack": 159,
+      "defense": 178,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 12.5
+   },
+   "594": {
+      "name": "Alomomola",
+      "types": [
+         "Water"
+      ],
+      "stamina": 338,
+      "attack": 138,
+      "defense": 131,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 20.0
+   },
+   "595": {
+      "name": "Joltik",
+      "types": [
+         "Bug",
+         "Electric"
+      ],
+      "stamina": 137,
+      "attack": 110,
+      "defense": 98,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 30.0
+   },
+   "596": {
+      "name": "Galvantula",
+      "types": [
+         "Bug",
+         "Electric"
+      ],
+      "stamina": 172,
+      "attack": 201,
+      "defense": 128,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 12.5
+   },
+   "597": {
+      "name": "Ferroseed",
+      "types": [
+         "Grass",
+         "Steel"
+      ],
+      "stamina": 127,
+      "attack": 82,
+      "defense": 155,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 30.0
+   },
+   "598": {
+      "name": "Ferrothorn",
+      "types": [
+         "Grass",
+         "Steel"
+      ],
+      "stamina": 179,
+      "attack": 158,
+      "defense": 223,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 12.5
+   },
+   "599": {
+      "name": "Klink",
+      "types": [
+         "Steel"
+      ],
+      "stamina": 120,
+      "attack": 98,
+      "defense": 121,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 40.0
+   },
+   "600": {
+      "name": "Klang",
+      "types": [
+         "Steel"
+      ],
+      "stamina": 155,
+      "attack": 150,
+      "defense": 174,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 10.0
+   },
+   "601": {
+      "name": "Klinklang",
+      "types": [
+         "Steel"
+      ],
+      "stamina": 155,
+      "attack": 199,
+      "defense": 214,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 5.0
+   },
+   "602": {
+      "name": "Tynamo",
+      "types": [
+         "Electric"
+      ],
+      "stamina": 111,
+      "attack": 105,
+      "defense": 78,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 40.0
+   },
+   "603": {
+      "name": "Eelektrik",
+      "types": [
+         "Electric"
+      ],
+      "stamina": 163,
+      "attack": 156,
+      "defense": 130,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 10.0
+   },
+   "604": {
+      "name": "Eelektross",
+      "types": [
+         "Electric"
+      ],
+      "stamina": 198,
+      "attack": 217,
+      "defense": 152,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 5.0
+   },
+   "605": {
+      "name": "Elgyem",
+      "types": [
+         "Psychic"
+      ],
+      "stamina": 146,
+      "attack": 148,
+      "defense": 100,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 30.0
+   },
+   "606": {
+      "name": "Beheeyem",
+      "types": [
+         "Psychic"
+      ],
+      "stamina": 181,
+      "attack": 221,
+      "defense": 163,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 15.0
+   },
+   "607": {
+      "name": "Litwick",
+      "types": [
+         "Ghost",
+         "Fire"
+      ],
+      "stamina": 137,
+      "attack": 108,
+      "defense": 98,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 40.0
+   },
+   "608": {
+      "name": "Lampent",
+      "types": [
+         "Ghost",
+         "Fire"
+      ],
+      "stamina": 155,
+      "attack": 169,
+      "defense": 115,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 10.0
+   },
+   "609": {
+      "name": "Chandelure",
+      "types": [
+         "Ghost",
+         "Fire"
+      ],
+      "stamina": 155,
+      "attack": 271,
+      "defense": 182,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 5.0
+   },
+   "610": {
+      "name": "Axew",
+      "types": [
+         "Dragon"
+      ],
+      "stamina": 130,
+      "attack": 154,
+      "defense": 101,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 40.0
+   },
+   "611": {
+      "name": "Fraxure",
+      "types": [
+         "Dragon"
+      ],
+      "stamina": 165,
+      "attack": 212,
+      "defense": 123,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 10.0
+   },
+   "612": {
+      "name": "Haxorus",
+      "types": [
+         "Dragon"
+      ],
+      "stamina": 183,
+      "attack": 284,
+      "defense": 172,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 5.0
+   },
+   "613": {
+      "name": "Cubchoo",
+      "types": [
+         "Ice"
+      ],
+      "stamina": 146,
+      "attack": 128,
+      "defense": 74,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 30.0
+   },
+   "614": {
+      "name": "Beartic",
+      "types": [
+         "Ice"
+      ],
+      "stamina": 216,
+      "attack": 233,
+      "defense": 152,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 15.0
+   },
+   "615": {
+      "name": "Cryogonal",
+      "types": [
+         "Ice"
+      ],
+      "stamina": 190,
+      "attack": 190,
+      "defense": 218,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 20.0
+   },
+   "616": {
+      "name": "Shelmet",
+      "types": [
+         "Bug"
+      ],
+      "stamina": 137,
+      "attack": 72,
+      "defense": 140,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 30.0
+   },
+   "617": {
+      "name": "Accelgor",
+      "types": [
+         "Bug"
+      ],
+      "stamina": 190,
+      "attack": 220,
+      "defense": 120,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 15.0
+   },
+   "618": {
+      "name": "Stunfisk",
+      "types": [
+         "Ground",
+         "Electric"
+      ],
+      "stamina": 240,
+      "attack": 144,
+      "defense": 171,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 20.0
+   },
+	"618G": {
+      "name": "Galarian Stunfisk",
+      "types": [
+         "Steel",
+         "Ground"
+      ],
+      "stamina": 240,
+      "attack": 144,
+      "defense": 171,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 20.0
+   },
+   "619": {
+      "name": "Mienfoo",
+      "types": [
+         "Fighting"
+      ],
+      "stamina": 128,
+      "attack": 160,
+      "defense": 98,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 30.0
+   },
+   "620": {
+      "name": "Mienshao",
+      "types": [
+         "Fighting"
+      ],
+      "stamina": 163,
+      "attack": 258,
+      "defense": 127,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 15.0
+   },
+   "621": {
+      "name": "Druddigon",
+      "types": [
+         "Dragon"
+      ],
+      "stamina": 184,
+      "attack": 213,
+      "defense": 170,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 20.0
+   },
+   "622": {
+      "name": "Golett",
+      "types": [
+         "Ground",
+         "Ghost"
+      ],
+      "stamina": 153,
+      "attack": 127,
+      "defense": 92,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 30.0
+   },
+   "623": {
+      "name": "Golurk",
+      "types": [
+         "Ground",
+         "Ghost"
+      ],
+      "stamina": 205,
+      "attack": 222,
+      "defense": 154,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 15.0
+   },
+   "624": {
+      "name": "Pawniard",
+      "types": [
+         "Dark",
+         "Steel"
+      ],
+      "stamina": 128,
+      "attack": 154,
+      "defense": 114,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 30.0
+   },
+   "625": {
+      "name": "Bisharp",
+      "types": [
+         "Dark",
+         "Steel"
+      ],
+      "stamina": 163,
+      "attack": 232,
+      "defense": 176,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 15.0
+   },
+   "626": {
+      "name": "Bouffalant",
+      "types": [
+         "Normal"
+      ],
+      "stamina": 216,
+      "attack": 195,
+      "defense": 182,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 20.0
+   },
+   "627": {
+      "name": "Rufflet",
+      "types": [
+         "Normal",
+         "Flying"
+      ],
+      "stamina": 172,
+      "attack": 150,
+      "defense": 97,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 30.0
+   },
+   "628": {
+      "name": "Braviary",
+      "types": [
+         "Normal",
+         "Flying"
+      ],
+      "stamina": 225,
+      "attack": 232,
+      "defense": 152,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 15.0
+   },
+   "629": {
+      "name": "Vullaby",
+      "types": [
+         "Dark",
+         "Flying"
+      ],
+      "stamina": 172,
+      "attack": 105,
+      "defense": 139,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 30.0
+   },
+   "630": {
+      "name": "Mandibuzz",
+      "types": [
+         "Dark",
+         "Flying"
+      ],
+      "stamina": 242,
+      "attack": 129,
+      "defense": 205,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 15.0
+   },
+   "631": {
+      "name": "Heatmor",
+      "types": [
+         "Fire"
+      ],
+      "stamina": 198,
+      "attack": 204,
+      "defense": 129,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 20.0
+   },
+   "632": {
+      "name": "Durant",
+      "types": [
+         "Bug",
+         "Steel"
+      ],
+      "stamina": 151,
+      "attack": 217,
+      "defense": 188,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 20.0
+   },
+   "633": {
+      "name": "Deino",
+      "types": [
+         "Dark",
+         "Dragon"
+      ],
+      "stamina": 141,
+      "attack": 116,
+      "defense": 93,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 40.0
+   },
+   "634": {
+      "name": "Zweilous",
+      "types": [
+         "Dark",
+         "Dragon"
+      ],
+      "stamina": 176,
+      "attack": 159,
+      "defense": 135,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 10.0
+   },
+   "635": {
+      "name": "Hydreigon",
+      "types": [
+         "Dark",
+         "Dragon"
+      ],
+      "stamina": 211,
+      "attack": 256,
+      "defense": 188,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 5.0
+   },
+   "636": {
+      "name": "Larvesta",
+      "types": [
+         "Bug",
+         "Fire"
+      ],
+      "stamina": 146,
+      "attack": 156,
+      "defense": 107,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 70.0
+   },
+   "637": {
+      "name": "Volcarona",
+      "types": [
+         "Bug",
+         "Fire"
+      ],
+      "stamina": 198,
+      "attack": 264,
+      "defense": 189,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 10.0
+   },
+   "638": {
+      "name": "Cobalion",
+      "types": [
+         "Steel",
+         "Fighting"
+      ],
+      "stamina": 209,
+      "attack": 192,
+      "defense": 229,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 2.0
+   },
+   "639": {
+      "name": "Terrakion",
+      "types": [
+         "Rock",
+         "Fighting"
+      ],
+      "stamina": 209,
+      "attack": 260,
+      "defense": 192,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 2.0
+   },
+   "640": {
+      "name": "Virizion",
+      "types": [
+         "Grass",
+         "Fighting"
+      ],
+      "stamina": 209,
+      "attack": 192,
+      "defense": 229,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 2.0
+   },
+   "641": {
+      "name": "Incarnate Tornadus",
+      "types": [
+         "Flying"
+      ],
+      "stamina": 188,
+      "attack": 266,
+      "defense": 164,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 2.0
+   },
+   "641T": {
+      "name": "Therian Tornadus",
+      "types": [
+         "Flying"
+      ],
+      "stamina": 188,
+      "attack": 238,
+      "defense": 189,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 2.0
+   },
+   "642": {
+      "name": "Incarnate Thundurus",
+      "types": [
+         "Electric",
+         "Flying"
+      ],
+      "stamina": 188,
+      "attack": 266,
+      "defense": 164,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 2.0
+   },
+   "642T": {
+      "name": "Therian Thundurus",
+      "types": [
+         "Electric",
+         "Flying"
+      ],
+      "stamina": 188,
+      "attack": 295,
+      "defense": 161,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 2.0
+   },
+   "643": {
+      "name": "Reshiram",
+      "types": [
+         "Dragon",
+         "Fire"
+      ],
+      "stamina": 205,
+      "attack": 275,
+      "defense": 211,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 2.0
+   },
+   "644": {
+      "name": "Zekrom",
+      "types": [
+         "Dragon",
+         "Electric"
+      ],
+      "stamina": 205,
+      "attack": 275,
+      "defense": 211,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 2.0
+   },
+   "645": {
+      "name": "Incarnate Landorus",
+      "types": [
+         "Ground",
+         "Flying"
+      ],
+      "stamina": 205,
+      "attack": 261,
+      "defense": 182,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 2.0
+   },
+   "645T": {
+      "name": "Therian Landorus",
+      "types": [
+         "Ground",
+         "Flying"
+      ],
+      "stamina": 205,
+      "attack": 289,
+      "defense": 179,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 2.0
+   },
+   "646": {
+      "name": "Kyurem",
+      "types": [
+         "Dragon",
+         "Ice"
+      ],
+      "stamina": 245,
+      "attack": 246,
+      "defense": 170,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 2.0
+   },
+   "646W": {
+      "name": "White Kyurem",
+      "types": [
+         "Dragon",
+         "Ice"
+      ],
+      "stamina": 245,
+      "attack": 310,
+      "defense": 183,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 2.0
+   },
+   "646B": {
+      "name": "Black Kyurem",
+      "types": [
+         "Dragon",
+         "Ice"
+      ],
+      "stamina": 245,
+      "attack": 310,
+      "defense": 183,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 2.0
+   },
+   "647": {
+      "name": "Keldeo",
+      "types": [
+         "Water",
+         "Fighting"
+      ],
+      "stamina": 209,
+      "attack": 260,
+      "defense": 192,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 2.0
+   },
+   "647R": {
+      "name": "Resolute Form Keldeo",
+      "types": [
+         "Water",
+         "Fighting"
+      ],
+      "stamina": 209,
+      "attack": 260,
+      "defense": 192,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 0.0
+   },
+   "648A": {
+      "name": "Aria Meloetta",
+      "types": [
+         "Normal",
+         "Psychic"
+      ],
+      "stamina": 225,
+      "attack": 250,
+      "defense": 225,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 2.0
+   },
+   "648P": {
+      "name": "Pirouette Meloetta",
+      "types": [
+         "Normal",
+         "Fighting"
+      ],
+      "stamina": 225,
+      "attack": 269,
+      "defense": 188,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 2.0
+   },
+   "649": {
+      "name": "Genesect",
+      "types": [
+         "Bug",
+         "Steel"
+      ],
+      "stamina": 252,
+      "attack": 199,
+      "defense": 174,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 2.0
+   },
+   "808": {
+      "name": "Meltan",
+      "types": [
+         "Steel"
+      ],
+      "stamina": 130,
+      "attack": 118,
+      "defense": 99,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 30.0
+   },
+   "809": {
+      "name": "Melmetal",
+      "types": [
+         "Steel"
+      ],
+      "stamina": 264,
+      "attack": 226,
+      "defense": 190,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 30.0
+   },
+   "862": {
+      "name": "Obstagoon",
+      "types": [
+         "Steel",
+		 "Dark"
+      ],
+      "stamina": 212,
+      "attack": 180,
+      "defense": 194,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 30.0
+   },
+   "863": {
+      "name": "Perrserker",
+      "types": [
+         "Steel"
+      ],
+      "stamina": 172,
+      "attack": 195,
+      "defense": 162,
+      "fast_attacks": [],
+      "charge_attacks": [],
+      "catch_rate": 30.0
+   }
+}

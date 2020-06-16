@@ -1,0 +1,19 @@
+
+[
+    {
+        "name": "Bulbasaur",
+        "number": 1,
+        "hp": 128,
+        "attack": 118,
+        "defense": 111,
+        "type":["grass", "poison"]
+    },
+    {
+        "name": "Cryogonal",
+        "number": 615,
+        "hp": 190,
+        "attack": 190,
+        "defense": 218,
+        "type":["ice"]
+    }
+]
