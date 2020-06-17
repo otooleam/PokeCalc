@@ -8,7 +8,7 @@ namespace PokeCalc
 {
     public class Pokedex
     {
-        private Dictionary<string, Pokemon> dex;
+        private Dictionary<string, Pokemon> dex { get; }
 
         public Pokedex()
         {
@@ -20,19 +20,18 @@ namespace PokeCalc
             }
         }
 
-        public Pokedex(string text, Pokedex prevDex)//TODO cant see prev dex
-        {
-            dex = new Dictionary<string, Pokemon>();
-            foreach (string mon in prevDex.dex.Keys)
-            {
-                if (mon.Contains(text))
-                    dex.Add(mon, prevDex.dex[mon]);
-            }
-        }
-
         public Pokedex(string text)
         {
             foreach (Pokemon mon in MasterDex.Pokedex)
+            {
+                if (mon.Name.Contains(text))
+                    dex.Add(mon.Name, mon);
+            }
+        }
+
+        public Pokedex(string text, Pokedex prevDex)
+        {
+            foreach (Pokemon mon in prevDex.dex.Values)
             {
                 if (mon.Name.Contains(text))
                     dex.Add(mon.Name, mon);
@@ -46,7 +45,7 @@ namespace PokeCalc
             return null;
         }
 
-        public Pokemon GetPokemon(short num, string form = "default")
+        public Pokemon GetPokemon(short num, string form = "")
         {
             var query =
                 (from pokemon in dex.Values
@@ -67,5 +66,7 @@ namespace PokeCalc
             foreach (Pokemon mon in dex.Values)
                 Console.WriteLine(mon.ToString());
         }
+
+
     }
 }

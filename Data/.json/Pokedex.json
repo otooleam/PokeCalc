@@ -4944,7 +4944,7 @@
 		"type": ["Ice"]
 	},
 	{
-		"name": "Darmanitan Zen Mode",
+		"name": "Zen Mode Darmanitan",
 		"number": 555,
 		"hp": 233,
 		"attack": 243,
@@ -4952,7 +4952,7 @@
 		"type": ["Fire", "Psychic"]
 	},
 	{
-		"name": "Galarian Darmanitan Zen Mode",
+		"name": "Galarian Zen Mode Darmanitan",
 		"number": 555,
 		"hp": 233,
 		"attack": 323,
