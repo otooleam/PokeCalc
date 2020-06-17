@@ -19,7 +19,7 @@ namespace PokeCalcTest
         [TestMethod]
         public void CalculateCP()
         {
-            int cp = magsy.CalculateCP(15, 9, 14, 37);
+            int cp = magsy.CalculateCP(9, 14, 15, 37);
             Assert.AreEqual(2820, cp);
         }
 
@@ -33,19 +33,19 @@ namespace PokeCalcTest
         [TestMethod]
         public void CalculateMaxCP_Default()
         {
-            Assert.AreEqual(2946, magsy.CalculateMaxCP(15, 9, 14));
+            Assert.AreEqual(2946, magsy.CalculateMaxCP(9, 14, 15));
         }
 
         [TestMethod]
         public void CalculateMaxCP_BuddyFalse()
         {
-            Assert.AreEqual(2946, magsy.CalculateMaxCP(15, 9, 14, false));
+            Assert.AreEqual(2946, magsy.CalculateMaxCP(9, 14, 15, false));
         }
 
         [TestMethod]
         public void CalculateMaxCP_BuddyTrue()
         {
-            Assert.AreEqual(2983, magsy.CalculateMaxCP(15, 9, 14, true));
+            Assert.AreEqual(2983, magsy.CalculateMaxCP(9, 14, 15, true));
         }
     }
 }

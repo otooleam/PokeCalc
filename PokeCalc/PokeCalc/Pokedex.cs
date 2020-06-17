@@ -10,6 +10,18 @@ namespace PokeCalc
     {
         private Dictionary<string, Pokemon> dex { get; }
 
+        public enum Region
+        {
+            Kanto = 1,
+            Johto,
+            Hoenn,
+            Sinnoh,
+            Unova,
+            Kalos,
+            Alola,
+            Galar
+        }
+
         public Pokedex()
         {
             MasterDex.InitializePokedex();
@@ -38,6 +50,30 @@ namespace PokeCalc
             }
         }
 
+        public Pokedex(Region gen) //TODO this is gross. Add gen attribute to .json
+        {
+            switch (gen)
+            {
+                case Region.Kanto:
+                    break;
+                case Region.Johto:
+                    break;
+                case Region.Hoenn:
+                    break;
+                case Region.Sinnoh:
+                    break;
+                case Region.Unova:
+                    break;
+                case Region.Kalos:
+                    break;
+                case Region.Alola:
+                    break;
+                case Region.Galar:
+                    break;
+                default:
+                    break;
+            }
+        }
         public Pokemon GetPokemon(string name)
         {
             if (dex.ContainsKey(name))
@@ -66,7 +102,6 @@ namespace PokeCalc
             foreach (Pokemon mon in dex.Values)
                 Console.WriteLine(mon.ToString());
         }
-
-
+        }
     }
 }

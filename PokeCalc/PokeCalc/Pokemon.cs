@@ -173,20 +173,59 @@ namespace PokeCalc
             return Name == mon.Name && Number == mon.Number;
         }
 
-        public int CalculateCP(short hpIV, short attackIV, short defenseIV, byte level)
+        public int CalculateCP(short attackIV, short defenseIV, short hpIV, double level)
         {
             int cp = (int)((Attack + attackIV) * (Math.Sqrt(Defense + defenseIV)) *
                 (Math.Sqrt(Hp + hpIV)) * (_levelNums[level] * _levelNums[level])) / 10;
             return (cp >= 10 ? cp : 10);
         }
 
-        public int CalculateMaxCP(short hpIV, short attackIV, short defenseIV, bool buddy = false)
+        public int CalculateMaxCP(short attackIV, short defenseIV, short hpIV, bool buddy = false)
         {
             if (buddy)
                 return CalculateCP(hpIV, attackIV, defenseIV, 41);
             return CalculateCP(hpIV, attackIV, defenseIV, 40);
         }
 
+        public List<int> CalculateAllCPLevels(short attackIV, short defenseIV, short hpIV)
+        {
+            List<int> cps = new List<int>();
+            foreach (Double level in _levelNums.Keys)
+            {
+                cps.Add(CalculateCP(attackIV, defenseIV, hpIV, level));
+            }
+            return cps;
+        }
 
+        public int CalculateGreatLeagueCP(short attackIV, short defenseIV, short hpIV)
+        {
+            List<int> cps = CalculateAllCPLevels(attackIV, defenseIV, hpIV);
+            cps.Reverse();
+
+            foreach(int cp in cps)
+            {
+                if (cp <= 1500)
+                    return cp;
+            }
+            return -1;
+        }
+
+        public int CalculateUltraLeagueCP(short attackIV, short defenseIV, short hpIV)
+        {
+            List<int> cps = CalculateAllCPLevels(attackIV, defenseIV, hpIV);
+            cps.Reverse();
+
+            foreach (int cp in cps)
+            {
+                if (cp <= 2500)
+                    return cp;
+            }
+            return -1;
+        }
+
+        public int CalculateIVPercentage(short attackIV, short defenseIV, short hpIV)
+        {
+            return (attackIV + defenseIV + hpIV) / 45;
+        }
     }
 }
