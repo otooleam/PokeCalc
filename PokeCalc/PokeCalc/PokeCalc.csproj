@@ -37,6 +37,7 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="ConsoleDriver.cs" />
     <Compile Include="MasterDex.cs" />
     <Compile Include="Pokedex.cs" />
     <Compile Include="Pokemon.cs" />

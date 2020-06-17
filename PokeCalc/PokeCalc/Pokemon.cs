@@ -165,7 +165,7 @@ namespace PokeCalc
         {
             string type = Type[0] + (Type.Length == 2 ? "/" + Type[1] : "");
             return $"{Number,-4} {Name,-30} {type,-20}";
-        } 
+        }
 
         public override bool Equals(object obj)
         {
