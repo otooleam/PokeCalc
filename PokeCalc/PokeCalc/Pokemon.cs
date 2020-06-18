@@ -185,7 +185,7 @@ namespace PokeCalc
             if (buddy)
                 return CalculateCP(hpIV, attackIV, defenseIV, 41);
             return CalculateCP(hpIV, attackIV, defenseIV, 40);
-        }
+        } //TODO check over 4000 for nerf
 
         public List<int> CalculateAllCPLevels(short attackIV, short defenseIV, short hpIV)
         {
@@ -197,7 +197,7 @@ namespace PokeCalc
             return cps;
         }
 
-        public int CalculateGreatLeagueCP(short attackIV, short defenseIV, short hpIV)
+        private int CalculateGreatLeagueCP(short attackIV, short defenseIV, short hpIV)
         {
             List<int> cps = CalculateAllCPLevels(attackIV, defenseIV, hpIV);
             cps.Reverse();
@@ -210,7 +210,7 @@ namespace PokeCalc
             return -1;
         }
 
-        public int CalculateUltraLeagueCP(short attackIV, short defenseIV, short hpIV)
+        private int CalculateUltraLeagueCP(short attackIV, short defenseIV, short hpIV)
         {
             List<int> cps = CalculateAllCPLevels(attackIV, defenseIV, hpIV);
             cps.Reverse();
@@ -226,6 +226,11 @@ namespace PokeCalc
         public int CalculateIVPercentage(short attackIV, short defenseIV, short hpIV)
         {
             return (attackIV + defenseIV + hpIV) / 45;
+        }
+
+        public double CalculateLevel(short attackIV, short defenseIV, short hpIV, int cp)
+        {
+            return 2;
         }
     }
 }

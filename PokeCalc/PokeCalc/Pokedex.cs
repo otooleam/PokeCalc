@@ -74,6 +74,7 @@ namespace PokeCalc
                     break;
             }
         }
+
         public Pokemon GetPokemon(string name)
         {
             if (dex.ContainsKey(name))

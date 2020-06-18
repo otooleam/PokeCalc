@@ -10,7 +10,7 @@ namespace PokeCalc
     {
         public static void Main()
         {
-
+            
         }
     }
 }
