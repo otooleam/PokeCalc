@@ -230,7 +230,12 @@ namespace PokeCalc
 
         public double CalculateLevel(short attackIV, short defenseIV, short hpIV, int cp)
         {
-            return 2;
+            foreach (int level in CalculateAllCPLevels(attackIV, defenseIV, hpIV))
+            {
+                if (cp == level)
+                    return 2;
+            }
+            return 0;
         }
     }
 }
