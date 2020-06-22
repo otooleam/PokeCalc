@@ -197,7 +197,7 @@ namespace PokeCalc
             return cps;
         }
 
-        private int CalculateGreatLeagueCP(short attackIV, short defenseIV, short hpIV)
+        public int CalculateGreatLeagueCP(short attackIV, short defenseIV, short hpIV)
         {
             List<int> cps = CalculateAllCPLevels(attackIV, defenseIV, hpIV);
             cps.Reverse();
@@ -210,7 +210,7 @@ namespace PokeCalc
             return -1;
         }
 
-        private int CalculateUltraLeagueCP(short attackIV, short defenseIV, short hpIV)
+        public int CalculateUltraLeagueCP(short attackIV, short defenseIV, short hpIV)
         {
             List<int> cps = CalculateAllCPLevels(attackIV, defenseIV, hpIV);
             cps.Reverse();
@@ -230,12 +230,14 @@ namespace PokeCalc
 
         public double CalculateLevel(short attackIV, short defenseIV, short hpIV, int cp)
         {
-            foreach (int level in CalculateAllCPLevels(attackIV, defenseIV, hpIV))
+            foreach (double level in _levelNums.Values)
             {
-                if (cp == level)
-                    return 2;
+                if (cp == CalculateCP(attackIV, defenseIV, hpIV, level))
+                    return level;
             }
             return 0;
         }
+
+
     }
 }
